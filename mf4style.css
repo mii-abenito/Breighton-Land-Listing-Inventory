@@ -37,7 +37,7 @@ body {
   background: linear-gradient(to bottom right, #0d1b2a, #1b263b, #415a77);
 
   /* Overlay picture */
-  background-image: url('images/montefaro-bg.jpg'); /* replace with your image path */
+  background-image: url('BLI Fam.jpg'); /* replace with your image path */
   background-size: cover;
   background-position: center;
   background-blend-mode: overlay; /* blends gradient + image */
