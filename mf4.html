@@ -35,9 +35,9 @@
 		    .then(data => {
 		      window.units = data;
 		
-		      for (const id in data) {
-		        const unit = data[id];
-		        const shape = document.getElementById(id);
+		     for (	const id in data.listings) { 
+				 	const unit = data.listings[id]; 
+					const shape = document.getElementById(id);
 		
 		        if (shape) {
 		          const status = (unit["Unit Status"] || '').toLowerCase();
