@@ -3,30 +3,25 @@
 <head>
   <meta charset="UTF-8">
   <title>Breighton Land</title>
-  <link href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@400;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@400;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="mainstyle.css">
 </head>
 <body>
   <header>
-    <img src="BLI Logo.png" alt="Breighton Land Logo" class="logo">
     <h1>Breighton Land</h1>
-    <p>Inventory list can be viewed by mapping</p>
+    <p>Your trusted real estate partner</p>
   </header>
 
-  <div class="button-container">
-    <button class="project-btn">Victoria Homes</button>
+  <section class="projects">
+    <button class="project-btn" data-project="bellefort">
+      Bellefort Estates <span class="units" id="bellefort-units">Available Units: --</span>
+    </button>
 
-    <div>
-      <button class="project-btn">Bellefort Estates</button>
-      <div class="phase-container">
-        <button class="phase-btn">Phase 1</button>
-        <button class="phase-btn">Phase 2</button>
-        <button class="phase-btn">Phase 3</button>
-      </div>
-    </div>
+    <button class="project-btn" data-project="other">
+      Other Project <span class="units" id="other-units">Available Units: --</span>
+    </button>
+  </section>
 
-    <button class="project-btn">Carmona Estates</button>
-    <button class="project-btn">Montefarro Village</button>
-  </div>
+  <script src="app.js"></script>
 </body>
 </html>
