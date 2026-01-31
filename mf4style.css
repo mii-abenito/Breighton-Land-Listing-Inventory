@@ -27,7 +27,7 @@ body {
     }
 
 .available { fill: #2ecc71 !important; } /* green */
-.sold      { fill: #e74c3c !important; } /* red */
+.sold      { fill: #dd3d51 !important; } /* red */
 .reserved  { fill: #f1c40f !important; } /* yellow */
 
 
