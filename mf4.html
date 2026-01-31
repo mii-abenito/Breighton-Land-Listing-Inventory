@@ -12,22 +12,26 @@
 			</div>
 			
 			<div class="nav-container">
-					  <button class="home-btn" onclick="window.location.href='index.html'">🏠 Homepage</button>
-			</div>
-					
-					<div>
-					  <button class="project-btn">Bellefort Estates</button>
-					  <div class="phase-container">
-					    <button class="phase-btn">Phase 1</button>
-					    <button class="phase-btn">Phase 2</button>
-					    <button class="phase-btn">Phase 3</button>
-					  </div>
-					</div>
-					
-					<button class="project-btn">Carmona Estates</button>
-					<!-- Montefarro Village (MF4) --> 
-					<button class="project-btn" onclick="window.open('mf4.html', '_blank')">Montefarro Village</button>
+  <button class="home-btn" onclick="window.location.href='index.html'">🏠 Homepage</button>
+</div>
 
+<!-- Project Dropdown -->
+<div class="dropdown">
+  <button class="dropbtn">Projects ▼</button>
+  <div class="dropdown-content">
+    <a href="#">Bellefort Estates</a>
+    <div class="sub-dropdown">
+      <button class="sub-dropbtn">Phases ▸</button>
+      <div class="sub-dropdown-content">
+        <a href="#">Phase 1</a>
+        <a href="#">Phase 2</a>
+        <a href="#">Phase 3</a>
+      </div>
+    </div>
+    <a href="#">Carmona Estates</a>
+    <a href="mf4.html" target="_blank">Montefarro Village</a>
+  </div>
+</div>
 
 
 			
