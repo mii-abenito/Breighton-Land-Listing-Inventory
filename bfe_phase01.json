@@ -1,1 +1,2717 @@
-
+{
+  "project": "Bellefort Estates",
+  "listings": {
+    "BF2-0133": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "120",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": "Single Attached",
+      "Total Contract Price": "9183287"
+    },
+    "BF1-0446": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": "Single Attached",
+      "Total Contract Price": "7739088"
+    },
+    "BF1-0421": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "180.5",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "10847856"
+    },
+    "BF1-1007": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "110",
+      "Floor Area": "103.42",
+      "House Model": "SABINE W/ BALCONY",
+      "House Type": "Single Attached",
+      "Total Contract Price": "8697730"
+    },
+    "BF1-0161": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "158",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "10399298"
+    },
+    "BF1-0610": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "144",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "9165939"
+    },
+    "BF1-0702": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "222",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": "Single Attached",
+      "Total Contract Price": "10544808"
+    },
+    "BF2-0619": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "262",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "13471472"
+    },
+    "BF1-0113": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928989",
+      "Product Type": "Pre-selling",
+      "Lot Area": "165.5",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "11200974"
+    },
+    "BF1-0127": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928989",
+      "Product Type": "Pre-selling",
+      "Lot Area": "165.5",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "11200974"
+    },
+    "BF1-0642": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928988",
+      "Product Type": "Build to Sell",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": "Single Attached",
+      "Total Contract Price": "7780757"
+    },
+    "BF2-0109": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "10511231"
+    },
+    "BF1-0322": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF1-1114": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "BF1-0225": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF2-0202": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF1-0648": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "BF2-0104": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF1-0419": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928987",
+      "Product Type": "RFO",
+      "Lot Area": "180",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "9780874"
+    },
+    "BF2-0134": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "120",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "8727917"
+    },
+    "BF1-1522": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Build to Sell",
+      "Lot Area": "110",
+      "Floor Area": "65",
+      "House Model": "CHARLOTTE",
+      "House Type": "Single Attached",
+      "Total Contract Price": "7306784"
+    },
+    "BF2-0611": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "8968854"
+    },
+    "BF2-0614": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": "Single Attached",
+      "Total Contract Price": "8499509"
+    },
+    "BF1-0158": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "166.5",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "10670918"
+    },
+    "BF2-0617": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "8968854"
+    },
+    "BF1-0464": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928989",
+      "Product Type": "Pre-selling",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": null,
+      "Total Contract Price": "8890999"
+    },
+    "BF1-0443": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928987",
+      "Product Type": "Pre-selling",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": null,
+      "Total Contract Price": ""
+    },
+    "BF1-0178": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928988",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF1-0143": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "260",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF2-0804": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "110",
+      "Floor Area": "65",
+      "House Model": "CHARLOTTE",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "BF2-0107": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928995",
+      "Product Type": "Lot Only",
+      "Lot Area": "140",
+      "Floor Area": null,
+      "House Model": null,
+      "House Type": null,
+      "Total Contract Price": ""
+    },
+    "BF2-0608": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": "Single Attached",
+      "Total Contract Price": "8416170"
+    },
+    "BF1-1323": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928992",
+      "Product Type": "RFO",
+      "Lot Area": "110",
+      "Floor Area": "65",
+      "House Model": "CHARLOTTE",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "BF1-0465": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928989",
+      "Product Type": "Pre-selling",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": null,
+      "Total Contract Price": "8890999"
+    },
+    "BF1-1113": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928988",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF1-0444": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928987",
+      "Product Type": "Pre-selling",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": null,
+      "Total Contract Price": ""
+    },
+    "BF1-0714": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "110",
+      "Floor Area": "103.42",
+      "House Model": "SABINE W/ BALCONY",
+      "House Type": "Single Attached",
+      "Total Contract Price": "8682451"
+    },
+    "BF1-0135": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "174",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "10873571"
+    },
+    "BF1-0112": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928990",
+      "Product Type": "Pre-selling",
+      "Lot Area": "165.5",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "11200974"
+    },
+    "BF1-0451": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928987",
+      "Product Type": "Pre-selling",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": null,
+      "Total Contract Price": ""
+    },
+    "BF1-0190": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928989",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "12317542"
+    },
+    "BF1-1121": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928989",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "12317542"
+    },
+    "BF1-0608": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928989",
+      "Product Type": "RFO",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Attached",
+      "Total Contract Price": "10834884.66"
+    },
+    "BF1-0463": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": null,
+      "Total Contract Price": "8890999"
+    },
+    "BF1-0108": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928989",
+      "Product Type": "Pre-selling",
+      "Lot Area": "165.5",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "11200974"
+    },
+    "BF1-0454": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928987",
+      "Product Type": "Pre-selling",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": null,
+      "Total Contract Price": ""
+    },
+    "BF2-0219": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928989",
+      "Product Type": "Pre-selling",
+      "Lot Area": "120",
+      "Floor Area": "120",
+      "House Model": "SABINE",
+      "House Type": null,
+      "Total Contract Price": "9183287"
+    },
+    "BF3-0141": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928987",
+      "Product Type": "RFO",
+      "Lot Area": "80",
+      "Floor Area": "120",
+      "House Model": "CELESTE",
+      "House Type": null,
+      "Total Contract Price": ""
+    },
+    "BF1-0435": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "110",
+      "Floor Area": "103.42",
+      "House Model": "SABINE W/ BALCONY",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "BF1-0455": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928987",
+      "Product Type": "Pre-selling",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": null,
+      "Total Contract Price": ""
+    },
+    "BF2-0126": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "155",
+      "Floor Area": "65",
+      "House Model": "CHARLOTTE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF1-0115": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "165.5",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "11200974"
+    },
+    "BF2-0117": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "120",
+      "Floor Area": "65",
+      "House Model": "CHARLOTTE",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "BF3-0129": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928987",
+      "Product Type": "RFO",
+      "Lot Area": "80",
+      "Floor Area": "120",
+      "House Model": "CELESTE",
+      "House Type": null,
+      "Total Contract Price": ""
+    },
+    "BF1-0179": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928988",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF1-1125": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928989",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "12317542"
+    },
+    "BF1-0625": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928989",
+      "Product Type": "RFO",
+      "Lot Area": "163",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": "Single Attached",
+      "Total Contract Price": "10016664"
+    },
+    "BF1-0156": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "172",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "9849636"
+    },
+    "BF1-1123": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928989",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "12317542"
+    },
+    "BF1-1602": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928988",
+      "Product Type": "RFO",
+      "Lot Area": "176",
+      "Floor Area": "87.94",
+      "House Model": "CHARLOTTE W/ BALCONY",
+      "House Type": "Single Attached",
+      "Total Contract Price": "9608307"
+    },
+    "BF1-1220": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928989",
+      "Product Type": "Build to Sell",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": "Single Attached",
+      "Total Contract Price": "8723533"
+    },
+    "BF1-0433": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928987",
+      "Product Type": "Pre-selling",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": null,
+      "Total Contract Price": ""
+    },
+    "BF1-0506": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "9722790"
+    },
+    "BF2-0615": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF1-0164": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "149",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "10132519"
+    },
+    "BF1-1607": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "130",
+      "Floor Area": "65",
+      "House Model": "CHARLOTTE",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "BF1-0189": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928989",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "12317542"
+    },
+    "BF1-0445": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928987",
+      "Product Type": "Pre-selling",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": null,
+      "Total Contract Price": ""
+    },
+    "BF1-0319": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "140",
+      "Floor Area": "122.5",
+      "House Model": "VIVIENNE W/ BALCONY",
+      "House Type": "Single Detached",
+      "Total Contract Price": "9408378"
+    },
+    "BF1-0403": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928988",
+      "Product Type": "Pre-selling",
+      "Lot Area": "165.5",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF1-0402": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928988",
+      "Product Type": "Pre-selling",
+      "Lot Area": "165.5",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF1-0185": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928988",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF1-0217": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928992",
+      "Product Type": "RFO",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "9099016"
+    },
+    "BF1-1705": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "125",
+      "Floor Area": "65",
+      "House Model": "CHARLOTTE",
+      "House Type": "Single Attached",
+      "Total Contract Price": "6797114"
+    },
+    "BF1-0132": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928989",
+      "Product Type": "Pre-selling",
+      "Lot Area": "165.5",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "11200974.01"
+    },
+    "BF2-0606": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928989",
+      "Product Type": "Pre-selling",
+      "Lot Area": "110",
+      "Floor Area": null,
+      "House Model": null,
+      "House Type": null,
+      "Total Contract Price": "9183287"
+    },
+    "BF1-0149": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "189",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF1-0160": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "160.5",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "10473403"
+    },
+    "BF1-1526": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "189",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "12076785"
+    },
+    "BF1-0104": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928988",
+      "Product Type": "Pre-selling",
+      "Lot Area": "159",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF3-0132": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928987",
+      "Product Type": "RFO",
+      "Lot Area": "124",
+      "Floor Area": "120",
+      "House Model": "CELESTE",
+      "House Type": null,
+      "Total Contract Price": ""
+    },
+    "BF1-0157": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "169",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "9803603"
+    },
+    "BF2-0103": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928995",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "10144683"
+    },
+    "BF1-0640": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928987",
+      "Product Type": "RFO",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": "Single Attached",
+      "Total Contract Price": "7780757"
+    },
+    "BF1-0121": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "165.5",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "11200974"
+    },
+    "BF1-1159": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "157",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "BF1-1628": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "",
+      "Floor Area": null,
+      "House Model": "CHARLOTTE W/ BALCONY",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "BF1-0159": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "163.5",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "10562329"
+    },
+    "BF1-1623": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "110",
+      "Floor Area": "88",
+      "House Model": "CHARLOTTE W/ BALCONY",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "BF1-0452": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928987",
+      "Product Type": "Pre-selling",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": null,
+      "Total Contract Price": ""
+    },
+    "BF1-0303": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "141",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF1-1131": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928989",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "11941782"
+    },
+    "BF1-0416": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "180",
+      "Floor Area": null,
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "8374080"
+    },
+    "BF1-1911": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "119",
+      "Floor Area": "88",
+      "House Model": "CHARLOTTE W/ BALCONY",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "BF1-0436": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928987",
+      "Product Type": "Pre-selling",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": null,
+      "Total Contract Price": ""
+    },
+    "BF1-0909": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928989",
+      "Product Type": "Build to Sell",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": "Single Attached",
+      "Total Contract Price": "8723533"
+    },
+    "BF1-1419": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": "Single Attached",
+      "Total Contract Price": "8619948"
+    },
+    "BF1-1814": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "110",
+      "Floor Area": "65",
+      "House Model": "CHARLOTTE",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "BF1-0162": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "155",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "9373065"
+    },
+    "BF1-0460": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928989",
+      "Product Type": "Pre-selling",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": null,
+      "Total Contract Price": "9266759"
+    },
+    "BF2-0618": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": "Single Attached",
+      "Total Contract Price": "8416170"
+    },
+    "BF1-1228": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "171",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": "Single Attached",
+      "Total Contract Price": "10271433"
+    },
+    "BF1-0114": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928989",
+      "Product Type": "Pre-selling",
+      "Lot Area": "165.5",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "11200974"
+    },
+    "BF1-0177": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928988",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF2-0129": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "120",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "8727917"
+    },
+    "BF1-0118": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928989",
+      "Product Type": "Pre-selling",
+      "Lot Area": "165.5",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "11200974"
+    },
+    "BF2-0132": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928989",
+      "Product Type": "Pre-selling",
+      "Lot Area": "120",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": "Single Attached",
+      "Total Contract Price": "9183287"
+    },
+    "BF1-1408": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "110",
+      "Floor Area": "65",
+      "House Model": "CHARLOTTE",
+      "House Type": "Single Attached",
+      "Total Contract Price": "7644056"
+    },
+    "BF2-0203": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928995",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF1-0148": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "196",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF1-0652": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928989",
+      "Product Type": "Build to Sell",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": "Single Attached",
+      "Total Contract Price": "8723533"
+    },
+    "BF2-0518": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "BF2-0101": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "222",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "12520682"
+    },
+    "BF1-0175": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "197",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF1-0191": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928989",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "11941782"
+    },
+    "BF1-0414": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "166",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF3-0109": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928987",
+      "Product Type": "RFO",
+      "Lot Area": "77",
+      "Floor Area": "90",
+      "House Model": "BEATRICE",
+      "House Type": null,
+      "Total Contract Price": ""
+    },
+    "BF2-0106": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928995",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF1-0413": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "",
+      "Floor Area": null,
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF2-0207": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928990",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "10730245.5"
+    },
+    "BF2-0130": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "120",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "8727917"
+    },
+    "BF1-0510": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF2-0110": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "10403871"
+    },
+    "BF1-0432": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928987",
+      "Product Type": "Pre-selling",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": null,
+      "Total Contract Price": ""
+    },
+    "BF1-0122": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "165.5",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "10621613"
+    },
+    "BF2-0609": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF2-0108": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "10505863"
+    },
+    "BF2-0136": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928988",
+      "Product Type": "Pre-selling",
+      "Lot Area": "179",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "11966195"
+    },
+    "BF1-0461": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928989",
+      "Product Type": "Pre-selling",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": null,
+      "Total Contract Price": "9266759"
+    },
+    "BF1-0188": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928989",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "12317542"
+    },
+    "BF1-0415": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928993",
+      "Product Type": "RFO",
+      "Lot Area": "",
+      "Floor Area": null,
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF1-0456": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928987",
+      "Product Type": "Pre-selling",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": null,
+      "Total Contract Price": ""
+    },
+    "BF1-1127": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928989",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "12317542"
+    },
+    "BF1-0321": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "140",
+      "Floor Area": "123",
+      "House Model": "VIVIENNE W/ BALCONY",
+      "House Type": "Single Detached",
+      "Total Contract Price": "9408378"
+    },
+    "BF2-0105": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF1-0167": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "148.5",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "10688066"
+    },
+    "BF2-0610": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": "Single Attached",
+      "Total Contract Price": "8652362"
+    },
+    "BF2-0602": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "199",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "12747540"
+    },
+    "BF2-0612": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Lot Only",
+      "Lot Area": "110",
+      "Floor Area": null,
+      "House Model": null,
+      "House Type": null,
+      "Total Contract Price": ""
+    },
+    "BF1-0141": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "165.5",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "11000769"
+    },
+    "BF1-1107": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928988",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF2-0605": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF1-0226": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "199",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "11570120"
+    },
+    "BF1-0181": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928988",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF1-0439": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928987",
+      "Product Type": "Pre-selling",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": null,
+      "Total Contract Price": ""
+    },
+    "BF1-0139": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "165.5",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF1-1158": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928989",
+      "Product Type": "RFO",
+      "Lot Area": "110",
+      "Floor Area": null,
+      "House Model": "SABINE",
+      "House Type": "Single Attached",
+      "Total Contract Price": "8723533"
+    },
+    "BF1-0133": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928989",
+      "Product Type": "Pre-selling",
+      "Lot Area": "165.5",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "11200974"
+    },
+    "BF1-1640": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": "Single Attached",
+      "Total Contract Price": "7782020"
+    },
+    "BF1-0635": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928989",
+      "Product Type": "RFO",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": "Single Attached",
+      "Total Contract Price": "8723533"
+    },
+    "BF2-0607": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "8968854"
+    },
+    "BF1-0169": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "160",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "10477477"
+    },
+    "BF1-0205": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "",
+      "Floor Area": null,
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF1-0171": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "180",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "11676645"
+    },
+    "BF1-0315": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "140",
+      "Floor Area": "123",
+      "House Model": "VIVIENNE W/ BALCONY",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF1-0174": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "172",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "11425578"
+    },
+    "BF1-1313": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "110",
+      "Floor Area": "65",
+      "House Model": "CHARLOTTE",
+      "House Type": "Single Attached",
+      "Total Contract Price": "7550666"
+    },
+    "BF1-0142": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "165.5",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "11221585"
+    },
+    "BF1-1505": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "110",
+      "Floor Area": "65",
+      "House Model": "CHARLOTTE",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "BF1-0134": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928995",
+      "Product Type": "Pre-selling",
+      "Lot Area": "175",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF2-0705": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": "Single Attached",
+      "Total Contract Price": "7499340"
+    },
+    "BF1-0103": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928988",
+      "Product Type": "Pre-selling",
+      "Lot Area": "165.5",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF1-1119": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928988",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF1-0313": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "140",
+      "Floor Area": "123",
+      "House Model": "VIVIENNE W/ BALCONY",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF1-1011": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928992",
+      "Product Type": "RFO",
+      "Lot Area": "199",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "BF1-0711": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928989",
+      "Product Type": "Build to Sell",
+      "Lot Area": "110",
+      "Floor Area": "103.42",
+      "House Model": "SABINE W/ BALCONY",
+      "House Type": "Single Attached",
+      "Total Contract Price": "8862430"
+    },
+    "BF2-0204": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928990",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "10998646"
+    },
+    "BF1-0120": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "165.5",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "10621613"
+    },
+    "BF1-0193": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "",
+      "Floor Area": null,
+      "House Model": "SABINE",
+      "House Type": null,
+      "Total Contract Price": "7537484"
+    },
+    "BF1-0620": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "158",
+      "Floor Area": "122.5",
+      "House Model": "VIVIENNE W/ BALCONY",
+      "House Type": "Single Detached",
+      "Total Contract Price": "11200978"
+    },
+    "BF1-1234": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928989",
+      "Product Type": "Build to Sell",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": "Single Attached",
+      "Total Contract Price": "8723533"
+    },
+    "BF2-0201": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "200",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF1-0154": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "178",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "10011964"
+    },
+    "BF1-0182": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928988",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF2-0216": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928989",
+      "Product Type": "Pre-selling",
+      "Lot Area": "120",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": null,
+      "Total Contract Price": "9183287"
+    },
+    "BF3-0115": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928987",
+      "Product Type": "RFO",
+      "Lot Area": "73",
+      "Floor Area": "90",
+      "House Model": "BEATRICE",
+      "House Type": null,
+      "Total Contract Price": ""
+    },
+    "BF1-1117": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928988",
+      "Product Type": "Pre-selling",
+      "Lot Area": "180",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF1-1524": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928988",
+      "Product Type": "Pre-selling",
+      "Lot Area": "158",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF1-0166": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "143",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "9065049"
+    },
+    "BF1-1133": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928989",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "11941782"
+    },
+    "BF1-0184": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928988",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF1-1247": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": "Single Attached",
+      "Total Contract Price": "7780757"
+    },
+    "BF1-1108": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "BF2-0613": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "8968854"
+    },
+    "BF1-0453": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928987",
+      "Product Type": "Pre-selling",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": null,
+      "Total Contract Price": ""
+    },
+    "BF2-0131": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "120",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "8727917"
+    },
+    "BF1-0176": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928988",
+      "Product Type": "Pre-selling",
+      "Lot Area": "164",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF1-0170": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "170",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "12758491"
+    },
+    "BF1-1246": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": "Single Attached",
+      "Total Contract Price": "8723533"
+    },
+    "BF1-1111": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928988",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF1-0119": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "165.5",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "9656012"
+    },
+    "BF1-0102": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928988",
+      "Product Type": "Pre-selling",
+      "Lot Area": "165.5",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF2-0621": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "177",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "11915886"
+    },
+    "BF2-0217": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928989",
+      "Product Type": "Pre-selling",
+      "Lot Area": "120",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": null,
+      "Total Contract Price": "9183287"
+    },
+    "BF1-0110": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "165.5",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "11200974"
+    },
+    "BF1-0653": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928989",
+      "Product Type": "RFO",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": "Single Attached",
+      "Total Contract Price": "8723533"
+    },
+    "BF2-0209": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "243",
+      "Floor Area": "65",
+      "House Model": "CHARLOTTE",
+      "House Type": "Single Attached",
+      "Total Contract Price": "9611672"
+    },
+    "BF1-1613": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "121",
+      "Floor Area": "65",
+      "House Model": "CHARLOTTE",
+      "House Type": "Single Attached",
+      "Total Contract Price": "7614548"
+    },
+    "BF1-0641": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "110",
+      "Floor Area": "103.42",
+      "House Model": "SABINE W/ BALCONY",
+      "House Type": "Single Attached",
+      "Total Contract Price": "8083805"
+    },
+    "BF2-0604": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "110",
+      "Floor Area": null,
+      "House Model": null,
+      "House Type": null,
+      "Total Contract Price": "9183287"
+    },
+    "BF1-0168": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "151",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "10209635"
+    },
+    "BF1-0462": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928989",
+      "Product Type": "Pre-selling",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": null,
+      "Total Contract Price": "9266759"
+    },
+    "BF1-0147": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "182",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "10120183"
+    },
+    "BF1-0318": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "8838900"
+    },
+    "BF2-0603": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "9865740"
+    },
+    "BF1-1401": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "245",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": "Single Attached",
+      "Total Contract Price": "12623761"
+    },
+    "BF2-0208": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF1-1129": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928989",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "12317542"
+    },
+    "BF1-0172": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "184",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "11802179"
+    },
+    "BF2-0113": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928988",
+      "Product Type": "Pre-selling",
+      "Lot Area": "362",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF1-0129": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "165.5",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF2-0220": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "223",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "13109450"
+    },
+    "BF2-0128": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "120",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "8727917"
+    },
+    "BF1-0111": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "165.5",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "11200974"
+    },
+    "BF1-0644": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "110",
+      "Floor Area": "103.42",
+      "House Model": "SABINE W/ BALCONY",
+      "House Type": "Single Attached",
+      "Total Contract Price": "9056886"
+    },
+    "BF1-0646": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "BF1-0192": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928988",
+      "Product Type": "Build to Sell",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "11941782"
+    },
+    "BF1-0165": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "146",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "9130539"
+    },
+    "BF1-0150": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "187",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "10255457"
+    },
+    "BF2-0127": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928988",
+      "Product Type": "Pre-selling",
+      "Lot Area": "164",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "10651220"
+    },
+    "BF1-0180": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928988",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF1-0457": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928987",
+      "Product Type": "Pre-selling",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": null,
+      "Total Contract Price": ""
+    },
+    "BF1-1153": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": "Single Attached",
+      "Total Contract Price": "7808537"
+    },
+    "BF1-0438": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928987",
+      "Product Type": "Pre-selling",
+      "Lot Area": "110",
+      "Floor Area": null,
+      "House Model": null,
+      "House Type": null,
+      "Total Contract Price": ""
+    },
+    "BF2-0206": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "8968854"
+    },
+    "BF2-0112": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF1-0704": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "110",
+      "Floor Area": "103",
+      "House Model": "SABINE W/ BALCONY",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "BF1-0308": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928989",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "11187599"
+    },
+    "BF1-0437": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928989",
+      "Product Type": "Build to Sell",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": "Single Attached",
+      "Total Contract Price": "8723533"
+    },
+    "BF1-1646": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": "Single Attached",
+      "Total Contract Price": "7793384"
+    },
+    "BF1-0449": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928987",
+      "Product Type": "Pre-selling",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": null,
+      "Total Contract Price": ""
+    },
+    "BF1-1104": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "BF1-0186": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928989",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "12317542"
+    },
+    "BF1-0109": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928990",
+      "Product Type": "Pre-selling",
+      "Lot Area": "174",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "12754995"
+    },
+    "BF2-0826": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "BF1-0209": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF1-0450": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928987",
+      "Product Type": "Pre-selling",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": null,
+      "Total Contract Price": ""
+    },
+    "BF2-0511": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": "Single Attached",
+      "Total Contract Price": "8745493"
+    },
+    "BF2-0218": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "120",
+      "Floor Area": "120",
+      "House Model": "SABINE",
+      "House Type": null,
+      "Total Contract Price": "8888957"
+    },
+    "BF1-1115": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928988",
+      "Product Type": "Pre-selling",
+      "Lot Area": "178",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF2-0308": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "110",
+      "Floor Area": "65",
+      "House Model": "CHARLOTTE",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "BF2-0616": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928995",
+      "Product Type": "Pre-selling",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": "Single Attached",
+      "Total Contract Price": "8416170"
+    },
+    "BF1-0117": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928989",
+      "Product Type": "Pre-selling",
+      "Lot Area": "165.5",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "11200974"
+    },
+    "BF1-0145": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "164",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "11174510"
+    },
+    "BF2-0620": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": "Single Attached",
+      "Total Contract Price": "8416170"
+    },
+    "BF1-0155": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "175",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "9930800"
+    },
+    "BF1-0326": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "",
+      "Floor Area": null,
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF1-0623": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928989",
+      "Product Type": "Build to Sell",
+      "Lot Area": "136",
+      "Floor Area": "103.42",
+      "House Model": "SABINE W/ BALCONY",
+      "House Type": "Single Attached",
+      "Total Contract Price": "9593028"
+    },
+    "BF2-0205": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928995",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF1-0219": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "7451004"
+    },
+    "BF1-0163": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "152",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "10221445"
+    },
+    "BF2-0102": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "8648580"
+    },
+    "BF1-0434": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928987",
+      "Product Type": "Pre-selling",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": null,
+      "Total Contract Price": ""
+    },
+    "BF1-0116": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "165.5",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "11200974"
+    },
+    "BF2-0513": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": "Single Attached",
+      "Total Contract Price": "8619948"
+    },
+    "BF2-0111": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF2-0601": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "200",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF1-0651": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "153",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "BF1-0183": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928988",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF1-1109": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928988",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": ""
+    },
+    "BF2-0906": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "110",
+      "Floor Area": "65",
+      "House Model": "CHARLOTTE",
+      "House Type": "Single Attached",
+      "Total Contract Price": "7440926"
+    },
+    "BF1-1525": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "110",
+      "Floor Area": "65",
+      "House Model": "Charlotte",
+      "House Type": null,
+      "Total Contract Price": "6298060"
+    },
+    "BF3-0139": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928987",
+      "Product Type": "RFO",
+      "Lot Area": "134",
+      "Floor Area": "120",
+      "House Model": "CELESTE",
+      "House Type": null,
+      "Total Contract Price": ""
+    },
+    "BF1-0466": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928989",
+      "Product Type": "Pre-selling",
+      "Lot Area": "135",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": null,
+      "Total Contract Price": "9894520"
+    },
+    "BF1-0187": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928989",
+      "Product Type": "Pre-selling",
+      "Lot Area": "140",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "12317542"
+    },
+    "BF1-0123": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "165.5",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "10621613"
+    },
+    "BF1-0458": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928989",
+      "Product Type": "Pre-selling",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": null,
+      "Total Contract Price": "9266759"
+    },
+    "BF1-0146": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "173",
+      "Floor Area": "110",
+      "House Model": "VIVIENNE",
+      "House Type": "Single Detached",
+      "Total Contract Price": "11510641"
+    },
+    "BF1-0459": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928989",
+      "Product Type": "Pre-selling",
+      "Lot Area": "110",
+      "Floor Area": "85",
+      "House Model": "SABINE",
+      "House Type": null,
+      "Total Contract Price": "9266759"
+    },
+    "BF1-1303": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "110",
+      "Floor Area": null,
+      "House Model": null,
+      "House Type": null,
+      "Total Contract Price": "7077746"
+    },
+    "BF1-1326": {
+      "Unit Status": "Available",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "158",
+      "Floor Area": null,
+      "House Model": null,
+      "House Type": null,
+      "Total Contract Price": "8232994"
+    }
+  },
+  "count": 271,
+  "last_updated": "2026-01-31T19:26:51.473Z"
+}
