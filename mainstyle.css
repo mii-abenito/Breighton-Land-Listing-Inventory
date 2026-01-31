@@ -18,7 +18,6 @@ body {
   padding: 50px;
 }
 
-
 header {
   margin-bottom: 40px;
 }
@@ -47,19 +46,31 @@ p {
   gap: 20px;
 }
 
-.project-btn {
-  background-color: #004080;
+/* Unified darker button style */
+.project-btn,
+.phase-btn {
+  background-color: #00335a; /* deep navy */
   border: none;
   color: white;
   padding: 15px 25px;
   font-size: 1em;
   cursor: pointer;
   border-radius: 8px;
-  transition: background-color 0.3s ease;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.3); /* subtle depth */
 }
 
-.project-btn:hover {
-  background-color: #0059b3;
+.project-btn:hover,
+.phase-btn:hover {
+  background-color: #004a80; /* lighter navy for hover */
+  transform: translateY(-2px); /* lift effect */
+}
+
+/* Phase buttons slightly smaller but consistent */
+.phase-btn {
+  padding: 10px 20px;
+  font-size: 0.9em;
+  border-radius: 6px;
 }
 
 .phase-container {
@@ -67,19 +78,4 @@ p {
   flex-direction: column;
   gap: 10px;
   margin-top: 10px;
-}
-
-.phase-btn {
-  background-color: #0066cc;
-  border: none;
-  color: white;
-  padding: 10px 20px;
-  font-size: 0.9em;
-  cursor: pointer;
-  border-radius: 6px;
-  transition: background-color 0.3s ease;
-}
-
-.phase-btn:hover {
-  background-color: #3399ff;
 }
