@@ -63,6 +63,7 @@ p {
 .project-btn:hover,
 .phase-btn:hover {
   background-color: #004a80; /* lighter navy for hover */
+  color: #f7941d; /* orange text color on hover */
   transform: translateY(-2px); /* lift effect */
 }
 
