@@ -19,3 +19,66 @@
     p {
       font-size: 1.2em;
       margin-bottom: 40px;
+    }
+    .button-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 20px;
+    }
+    .project-btn {
+      background-color: #004080;
+      border: none;
+      color: white;
+      padding: 15px 25px;
+      font-size: 1em;
+      cursor: pointer;
+      border-radius: 8px;
+      transition: background-color 0.3s ease;
+    }
+    .project-btn:hover {
+      background-color: #0059b3;
+    }
+    .phase-container {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      margin-top: 10px;
+    }
+    .phase-btn {
+      background-color: #0066cc;
+      border: none;
+      color: white;
+      padding: 10px 20px;
+      font-size: 0.9em;
+      cursor: pointer;
+      border-radius: 6px;
+      transition: background-color 0.3s ease;
+    }
+    .phase-btn:hover {
+      background-color: #3399ff;
+    }
+  </style>
+</head>
+<body>
+  <h1>Breighton Land</h1>
+  <p>Inventory list can be viewed by mapping</p>
+
+  <div class="button-container">
+    <button class="project-btn">Victoria Homes</button>
+
+    <div>
+      <button class="project-btn">Bellefort Estates</button>
+      <div class="phase-container">
+        <button class="phase-btn">Phase 1</button>
+        <button class="phase-btn">Phase 2</button>
+        <button class="phase-btn">Phase 3</button>
+      </div>
+    </div>
+
+    <button class="project-btn">Carmona Estates</button>
+    <button class="project-btn">Montefarro Village</button>
+    <button class="project-btn">Aleso</button>
+  </div>
+</body>
+</html>
