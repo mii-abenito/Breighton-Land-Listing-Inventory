@@ -1,15 +1,30 @@
+html, body {
+  height: 100%;
 /* Reset */
 * {
-  margin: 0;
-  padding: 0;
+margin: 0;
+padding: 0;
 }
 
 /* Body */
 body {
-  background-color: white; /* you can change later */
+  background: 
+  linear-gradient(to top, rgba(0, 10, 25, 0.9), rgba(153, 194, 204, 0.6)),
+  url("BLI Fam.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed; /* keeps gradient full height */
+  color: white;
+  font-family: 'Titillium Web', sans-serif;
+  text-align: center;
+  padding: 50px;
+  background-color: pink; /* you can change later */
   font-family: 'Titillium Web', Arial, sans-serif;
 }
 
+header {
+  margin-bottom: 40px;
 /* Title + Legend Section */
 .title-section {
   background-color: #00335a; /* deep navy */
@@ -17,21 +32,39 @@ body {
   padding: 30px 20px;
 }
 
+.logo {
+  width: 80px;
+  height: auto;
+  vertical-align: middle;
+  margin-right: 15px;
 /* Title */
 .title {
   text-align: center;
   margin-bottom: 20px;
 }
+
+h1 {
+  font-size: 3em;
+  margin: 10px 0;
 .title h1 {
   font-size: 26px;
   font-weight: 600;
 }
+
+p {
+  font-size: 1.2em;
+  margin-bottom: 40px;
 .title h2 {
   font-size: 12px;
   margin-top: 5px;
   color: #dcdcdc;
 }
 
+.button-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
 /* Legend */
 .legend {
   text-align: left;
@@ -43,6 +76,11 @@ body {
   color: #f4f6f9;
 }
 
+/* Unified darker button style */
+.project-btn,
+.phase-btn {
+  background-color: #00335a; /* deep navy */
+  border: none;
 /* Dropdown */
 .dropdown {
   position: relative;
@@ -51,14 +89,25 @@ body {
 }
 .dropbtn {
   background-color: #0d1b2a;
-  color: white;
+color: white;
+  padding: 15px 25px;
+  font-size: 1em;
   padding: 10px 18px;
   font-size: 16px;
   border: none;
   border-radius: 6px;
-  cursor: pointer;
+cursor: pointer;
+  border-radius: 8px;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.3); /* subtle depth */
   font-family: 'Titillium Web', Arial, sans-serif;
 }
+
+.project-btn:hover,
+.phase-btn:hover {
+  background-color: #004a80; /* lighter navy for hover */
+  color: #f7941d; /* orange text color on hover */
+  transform: translateY(-2px); /* lift effect */
 .dropdown-content {
   display: none;
   position: absolute;
@@ -81,6 +130,10 @@ body {
   display: block;
 }
 
+/* Phase buttons slightly smaller but consistent */
+.phase-btn {
+  padding: 10px 20px;
+  font-size: 0.9em;
 /* Sub-dropdown */
 .sub-dropdown {
   position: relative;
@@ -103,8 +156,14 @@ body {
   background-color: #f4f6f9;
   min-width: 150px;
   box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-  border-radius: 6px;
+border-radius: 6px;
 }
+
+.phase-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 10px;
 .sub-dropdown:hover .sub-dropdown-content {
   display: block;
 }
