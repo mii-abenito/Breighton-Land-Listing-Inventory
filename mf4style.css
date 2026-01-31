@@ -32,24 +32,31 @@ body {
 
 
 /* Navigation container */
+/* Navigation container */
 .nav-container {
-  text-align: center-left;
+  text-align: left;   /* valid option: left, center, or right */
   margin: 10px 0;
 }
 
+/* Small homepage button */
 .home-btn {
   background-color: #00335a;       /* deep navy */
   color: #ffffff;
   font-family: 'Titillium Web', Arial, sans-serif;
-  font-size: 16px;
-  font-weight: 600;
-  padding: 10px 20px;
+  font-size: 13px;                 /* smaller text */
+  font-weight: 500;
+  padding: 6px 12px;               /* smaller padding */
   border: none;
-  border-radius: 8px;
+  border-radius: 6px;
   cursor: pointer;
-  box-shadow: 0 4px 6px rgba(0,0,0,0.2);
   transition: all 0.3s ease;
 }
+
+.home-btn:hover {
+  background-color: #005080;       /* lighter navy on hover */
+  transform: translateY(-1px);
+}
+
 
 .st0 {
   fill: #3498db;
