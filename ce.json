@@ -1,1 +1,2157 @@
-
+{
+  "project": "Carmona Estates",
+  "listings": {
+    "CE13-0315": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 5929200.00"
+    },
+    "CE13-0261": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 5246771.00"
+    },
+    "CE13-01148": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "92 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6300166.00"
+    },
+    "CE13-0210": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "121 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6490540.00"
+    },
+    "CE7B-0807": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "88 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-B",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 5000786.00"
+    },
+    "CE13-0279": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "114 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6300325.00"
+    },
+    "CE13-0303": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 4646736.00"
+    },
+    "CV3-1710": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "40 sqm",
+      "Floor Area": "40 sqm",
+      "House Model": "CYPRESS",
+      "House Type": null,
+      "Total Contract Price": ""
+    },
+    "CE13-01135": {
+      "Unit Status": "CLOSE INVENTORY",
+      "Ticket Status": "266928988",
+      "Product Type": "Pre-selling",
+      "Lot Area": "95 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 5952575.00"
+    },
+    "CE13-01105": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "148 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 5839988.00"
+    },
+    "CH5-1221": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "88 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-B",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 5043114.00"
+    },
+    "CE10-0636": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "193 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 7802223.00"
+    },
+    "CE13-01124": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "108 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 5978676.00"
+    },
+    "CV3-1658_59": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "172 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 7318609.00"
+    },
+    "CE10-0645": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "80 sqm",
+      "Floor Area": "52 sqm",
+      "House Model": "LINDEN",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "CE10-0524": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "CV3-1678_79": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "164 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 7111526.00"
+    },
+    "CV3-1101_1105": {
+      "Unit Status": "AVAILABLE",
+      "Ticket Status": "266928989",
+      "Product Type": "Pre-selling",
+      "Lot Area": "123 sqm",
+      "Floor Area": "",
+      "House Model": null,
+      "House Type": null,
+      "Total Contract Price": "PHP 8008324.00"
+    },
+    "CV2-01101": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "40 sqm",
+      "Floor Area": "40 sqm",
+      "House Model": "CYPRESS",
+      "House Type": null,
+      "Total Contract Price": ""
+    },
+    "CE13-0121": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "131 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 7471129.00"
+    },
+    "CE13-0316": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "131 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 5475067.00"
+    },
+    "CE9-2011": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "88 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB (As-Delivered)",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "CE10-0634": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 5394254.00"
+    },
+    "CE13-0269": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 5810323.00"
+    },
+    "CV3-1666_67": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "162 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "CH4-0901": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "102 sqm",
+      "Floor Area": "60 sqm",
+      "House Model": "PINES",
+      "House Type": null,
+      "Total Contract Price": ""
+    },
+    "CE13-0272": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "184 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 7955376.00"
+    },
+    "CE9-1676": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "98 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "CE13-0129": {
+      "Unit Status": "AVAILABLE",
+      "Ticket Status": "266928989",
+      "Product Type": "Pre-selling",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 7104225.92.00"
+    },
+    "CE13-0195": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "140 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6463004.00"
+    },
+    "CE9-2409": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Lot Only",
+      "Lot Area": "167 sqm",
+      "Floor Area": "0 sqm",
+      "House Model": "NA",
+      "House Type": null,
+      "Total Contract Price": ""
+    },
+    "CV3-1676_77": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "120 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 5972571.00"
+    },
+    "CE13-0106": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6910978.00"
+    },
+    "CE13-0117": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6910978.00"
+    },
+    "CV2-07040506A": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "140 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "CE13-0114": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6910978.00"
+    },
+    "CE9-2002": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Lot Only",
+      "Lot Area": "97 sqm",
+      "Floor Area": "0 sqm",
+      "House Model": "NA",
+      "House Type": null,
+      "Total Contract Price": "PHP 2808806.00"
+    },
+    "CH5-1220": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "88 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-B",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "CE13-01138": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "95 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 5946801.00"
+    },
+    "CE13-01145": {
+      "Unit Status": "AVAILABLE",
+      "Ticket Status": "266928989",
+      "Product Type": "Pre-selling",
+      "Lot Area": "93 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6808832.00"
+    },
+    "CE13-01117": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Build to Sell",
+      "Lot Area": "107 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6143676.00"
+    },
+    "CE13-0277": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6004537.00"
+    },
+    "CE13-0216": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 5829648.00"
+    },
+    "CE13-01133": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "187 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 7609687.00"
+    },
+    "CE10-0531": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 5406881.00"
+    },
+    "CE13-01129": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "111 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 5993372.00"
+    },
+    "CE13-01100": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "CE13-0126": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6910978.00"
+    },
+    "CE10-0614": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "CH5-1015": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "88 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-B",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "CE9-2438": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "88 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 5083630.00"
+    },
+    "CE13-01104": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "176 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6718827.00"
+    },
+    "CE13-0204": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6414975.00"
+    },
+    "CE13-01130": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "110 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 5987467.00"
+    },
+    "CE13-0118": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6594266.00"
+    },
+    "CE2-0312": {
+      "Unit Status": "CLOSE INVENTORY",
+      "Ticket Status": "266928992",
+      "Product Type": "RFO",
+      "Lot Area": "50 sqm",
+      "Floor Area": "60 sqm",
+      "House Model": "Pines",
+      "House Type": null,
+      "Total Contract Price": "PHP 2865002.00"
+    },
+    "CE13-01146": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "93 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6320832.00"
+    },
+    "CV3-1105": {
+      "Unit Status": "CLOSE INVENTORY",
+      "Ticket Status": "266928987",
+      "Product Type": "RFO",
+      "Lot Area": "",
+      "Floor Area": "",
+      "House Model": null,
+      "House Type": null,
+      "Total Contract Price": ""
+    },
+    "CE13-01121": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Build to Sell",
+      "Lot Area": "108 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6716710.00"
+    },
+    "CE13-01120": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "107 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 5963676.00"
+    },
+    "CE13-0280": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "112 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6261235.00"
+    },
+    "CE10-0517": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 5432135.00"
+    },
+    "CE13-0124": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6910978.00"
+    },
+    "CE13-0275": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "157 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 7231431.00"
+    },
+    "CE9-1739": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "118 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "CV3-1660_61": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "122 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6024342.00"
+    },
+    "CE13-01126": {
+      "Unit Status": "AVAILABLE",
+      "Ticket Status": "266928989",
+      "Product Type": "Pre-selling",
+      "Lot Area": "107 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6811186.8.00"
+    },
+    "CE13-0165": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "CH6-1327": {
+      "Unit Status": "CLOSE INVENTORY",
+      "Ticket Status": "266928987",
+      "Product Type": "RFO",
+      "Lot Area": "113 sqm",
+      "Floor Area": "60 sqm",
+      "House Model": "PINES",
+      "House Type": "Townhouse",
+      "Total Contract Price": "PHP 4212999.00"
+    },
+    "CE11-0704": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "50 sqm",
+      "Floor Area": "60 sqm",
+      "House Model": "PINES TH",
+      "House Type": null,
+      "Total Contract Price": ""
+    },
+    "CE13-0184": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "156 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 7097801.00"
+    },
+    "CE10-0632": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 5394254.00"
+    },
+    "CH6-2804": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "50 sqm",
+      "Floor Area": "60 sqm",
+      "House Model": "PINES TH",
+      "House Type": null,
+      "Total Contract Price": ""
+    },
+    "CE13-0206": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6414975.00"
+    },
+    "CE13-01140": {
+      "Unit Status": "AVAILABLE",
+      "Ticket Status": "266928989",
+      "Product Type": "Build to Sell",
+      "Lot Area": "94 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6729721.00"
+    },
+    "CE13-0122": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "141 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 7973090.00"
+    },
+    "CV3-1674_75": {
+      "Unit Status": "CLOSE INVENTORY",
+      "Ticket Status": "266928992",
+      "Product Type": "RFO",
+      "Lot Area": "120 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": null,
+      "Total Contract Price": ""
+    },
+    "CE13-0177": {
+      "Unit Status": "CLOSE INVENTORY",
+      "Ticket Status": "266928992",
+      "Product Type": "RFO",
+      "Lot Area": "136 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 5654371.00"
+    },
+    "CV3-1655": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "105 sqm",
+      "Floor Area": "85.5 sqm",
+      "House Model": "OAKWOOD-SB",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "CV2-0127_28": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "108 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 5497796.00"
+    },
+    "CE10-1501": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "135 sqm",
+      "Floor Area": "52 sqm",
+      "House Model": "LINDEN",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "CE13-0302": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "187 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "CE10-0616": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 5515034.00"
+    },
+    "CV3-1654": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Lot Only",
+      "Lot Area": "97 sqm",
+      "Floor Area": "",
+      "House Model": null,
+      "House Type": null,
+      "Total Contract Price": "PHP 2230777.00"
+    },
+    "CE13-0127": {
+      "Unit Status": "AVAILABLE",
+      "Ticket Status": "266928989",
+      "Product Type": "Pre-selling",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6975394.00"
+    },
+    "CE13-0105": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6701626.00"
+    },
+    "CE13-0116": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6910978.00"
+    },
+    "CV3-1664_65": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "122 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6024342.00"
+    },
+    "CE13-01149": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "92 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6311975.00"
+    },
+    "CE13-0134": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 5275056.00"
+    },
+    "CV2-0817_18_19": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "146 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Detached",
+      "Total Contract Price": "PHP 8018176.00"
+    },
+    "CE13-0155": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "122 sqm",
+      "Floor Area": "52 sqm",
+      "House Model": "LINDEN",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "CE13-0278": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 5842531.00"
+    },
+    "CE13-0212": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 5829648.00"
+    },
+    "CV3-1672_73": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "121 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "CV2-0805_06": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "104 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "CE13-01125": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "108 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6808276.00"
+    },
+    "CV2-0823_24_25": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "104 sqm",
+      "Floor Area": "120 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Detached",
+      "Total Contract Price": "PHP 7429271.00"
+    },
+    "CE13-0283": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "108 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6139446.00"
+    },
+    "CE9-2405": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "120 sqm",
+      "Floor Area": "72 sqm",
+      "House Model": "MAPLE",
+      "House Type": null,
+      "Total Contract Price": "PHP 4327273.00"
+    },
+    "CE13-0202": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6006749.00"
+    },
+    "CE13-01128": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "152 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6924720.00"
+    },
+    "CV4-3610": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "40 sqm",
+      "Floor Area": "40 sqm",
+      "House Model": "CYPRESS",
+      "House Type": null,
+      "Total Contract Price": ""
+    },
+    "CE13-0258": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 4621482.00"
+    },
+    "CH5-1211": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "88 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-B",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "CV2-0123_24": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "134 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "CE13-01151": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "131 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6866404.00"
+    },
+    "CE13-0101": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "101 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6711074.00"
+    },
+    "CE13-0205": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6414975.00"
+    },
+    "CE13-0109": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6910978.00"
+    },
+    "CE13-01118": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "107 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6756676.00"
+    },
+    "CE13-01122": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "108 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6593044.00"
+    },
+    "CE13-0123": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6910978.00"
+    },
+    "CE9-2003": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Lot Only",
+      "Lot Area": "94 sqm",
+      "Floor Area": "0 sqm",
+      "House Model": "NA",
+      "House Type": null,
+      "Total Contract Price": "PHP 2722918.00"
+    },
+    "CV2-0171": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "40 sqm",
+      "Floor Area": "40 sqm",
+      "House Model": "CYPRESS",
+      "House Type": null,
+      "Total Contract Price": "PHP 1653102.00"
+    },
+    "CE13-01123": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "108 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 5978676.00"
+    },
+    "CE13-01147": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "92 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6300165.52.00"
+    },
+    "CE13-01142": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "94 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6341499.00"
+    },
+    "CE13-01144": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "93 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6485832.00"
+    },
+    "CV4-3712": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "40 sqm",
+      "Floor Area": "40 sqm",
+      "House Model": "CYPRESS",
+      "House Type": "Townhouse",
+      "Total Contract Price": "PHP 1884218.00"
+    },
+    "CE9-2401": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "214 sqm",
+      "Floor Area": "72 sqm",
+      "House Model": "MAPLE",
+      "House Type": null,
+      "Total Contract Price": ""
+    },
+    "CE13-0214": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 5829648.00"
+    },
+    "CH5-1013": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "88 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-B",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "CE13-0198": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "CE9-2001": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Lot Only",
+      "Lot Area": "144 sqm",
+      "Floor Area": "0 sqm",
+      "House Model": "NA",
+      "House Type": null,
+      "Total Contract Price": "PHP 4290374.00"
+    },
+    "CE9-2402": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "127 sqm",
+      "Floor Area": "52 sqm",
+      "House Model": "LINDEN",
+      "House Type": null,
+      "Total Contract Price": ""
+    },
+    "CV2-0119_20": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "112 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 5576083.00"
+    },
+    "CE10-0165": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "174 sqm",
+      "Floor Area": "52 sqm",
+      "House Model": "LINDEN",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "CV2-0154_55_56": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "130 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "CE9-2007": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Lot Only",
+      "Lot Area": "110 sqm",
+      "Floor Area": "0 sqm",
+      "House Model": "NA",
+      "House Type": null,
+      "Total Contract Price": "PHP 3277164.00"
+    },
+    "CE9-2005": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "88 sqm",
+      "Floor Area": "40 sqm",
+      "House Model": "CYPRESS",
+      "House Type": null,
+      "Total Contract Price": ""
+    },
+    "CH6-2802": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "81 sqm",
+      "Floor Area": "0 sqm",
+      "House Model": "PINES",
+      "House Type": null,
+      "Total Contract Price": ""
+    },
+    "CE13-01137": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "95 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 5946801.00"
+    },
+    "CE11-0401": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "88 sqm",
+      "Floor Area": "60 sqm",
+      "House Model": "PINES",
+      "House Type": "Townhouse",
+      "Total Contract Price": "PHP 5023361.00"
+    },
+    "CE13-0209": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6006749.00"
+    },
+    "KN3-0157": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "50 sqm",
+      "Floor Area": "68.68 sqm",
+      "House Model": "NIKKO",
+      "House Type": null,
+      "Total Contract Price": ""
+    },
+    "CE9-2004": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "91 sqm",
+      "Floor Area": "40 sqm",
+      "House Model": "CYPRESS",
+      "House Type": null,
+      "Total Contract Price": ""
+    },
+    "CV2-0111_12": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "131 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "CH5-1219": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "88 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-B",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 4937157.00"
+    },
+    "CE13-0112": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6910978.00"
+    },
+    "CE11-1502": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "96 sqm",
+      "Floor Area": "60 sqm",
+      "House Model": "PINES TH",
+      "House Type": null,
+      "Total Contract Price": ""
+    },
+    "CE13-0271": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6006792.00"
+    },
+    "CH5-1206": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "88 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-B",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "CE13-01141": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Build to Sell",
+      "Lot Area": "94 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6341499.00"
+    },
+    "CV3-1662_63": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "122 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "CE13-01136": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "95 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 5951152.00"
+    },
+    "CE9-2403": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928995",
+      "Product Type": "Lot Only",
+      "Lot Area": "120 sqm",
+      "Floor Area": "0 sqm",
+      "House Model": "NA",
+      "House Type": null,
+      "Total Contract Price": ""
+    },
+    "CE13-01115": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "246 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 8716660.00"
+    },
+    "CE13-0249": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "155 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 7002306.00"
+    },
+    "CE13-01116": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Build to Sell",
+      "Lot Area": "107 sqm",
+      "Floor Area": "",
+      "House Model": null,
+      "House Type": null,
+      "Total Contract Price": "PHP 6578044.00"
+    },
+    "CE13-01139": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Build to Sell",
+      "Lot Area": "95 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 5968273.00"
+    },
+    "CV3-1683_84_85": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "117 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 5894915.00"
+    },
+    "CE13-0128": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 7104226.00"
+    },
+    "CE13-0160": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 5700113.00"
+    },
+    "CE13-0282": {
+      "Unit Status": "AVAILABLE",
+      "Ticket Status": "266928989",
+      "Product Type": "Pre-selling",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 7036911.2.00"
+    },
+    "CE13-0201": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6162464.00"
+    },
+    "CE13-0104": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6701626.00"
+    },
+    "CV2-0826_27": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Lot Only",
+      "Lot Area": "80 sqm",
+      "Floor Area": "",
+      "House Model": null,
+      "House Type": null,
+      "Total Contract Price": "PHP 1633786.00"
+    },
+    "CV2-0149_50": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "102 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "CE13-0217": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 5829648.00"
+    },
+    "CE13-0281": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6607471.00"
+    },
+    "CE11-0120": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "50 sqm",
+      "Floor Area": "60 sqm",
+      "House Model": "PINES TH",
+      "House Type": null,
+      "Total Contract Price": ""
+    },
+    "CE9-2703": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "88 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 5024997.00"
+    },
+    "CH6-2806": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "50 sqm",
+      "Floor Area": "60 sqm",
+      "House Model": "PINES",
+      "House Type": null,
+      "Total Contract Price": ""
+    },
+    "CE10-0528": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "CE13-0120": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6578162.00"
+    },
+    "CE13-0125": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6910978.00"
+    },
+    "CE13-01119": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "107 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6143676.00"
+    },
+    "CE2-1103": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "50 sqm",
+      "Floor Area": "60 sqm",
+      "House Model": "PINES TH",
+      "House Type": null,
+      "Total Contract Price": ""
+    },
+    "CE13-01131": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "128 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 7209707.00"
+    },
+    "CE13-0208": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6414975.00"
+    },
+    "CV2-0813141516": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "160 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Detached",
+      "Total Contract Price": "PHP 8335279.00"
+    },
+    "CE9-2013": {
+      "Unit Status": "AVAILABLE",
+      "Ticket Status": "266928989",
+      "Product Type": "RFO",
+      "Lot Area": "88 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB (Dressed-Up)",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 7120859.00"
+    },
+    "CV3-1827": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "40 sqm",
+      "Floor Area": "40 sqm",
+      "House Model": "CYPRESS",
+      "House Type": "Townhouse",
+      "Total Contract Price": "PHP 1713443.00"
+    },
+    "CE13-0115": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6910978.00"
+    },
+    "CV3-1668_69": {
+      "Unit Status": "CLOSE INVENTORY",
+      "Ticket Status": "266928992",
+      "Product Type": "RFO",
+      "Lot Area": "121 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": null,
+      "Total Contract Price": "PHP 5998456.00"
+    },
+    "CE9-2407": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "120 sqm",
+      "Floor Area": "0 sqm",
+      "House Model": "NA",
+      "House Type": null,
+      "Total Contract Price": ""
+    },
+    "CV2-0107_08": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "112 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "CE13-0113": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6910978.00"
+    },
+    "CE13-0308": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "CE9-2006": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Lot Only",
+      "Lot Area": "85 sqm",
+      "Floor Area": "0 sqm",
+      "House Model": "NA",
+      "House Type": null,
+      "Total Contract Price": "PHP 2318976.00"
+    },
+    "CE13-0274": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6100195.00"
+    },
+    "CE13-0110": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6910978.00"
+    },
+    "CE13-0203": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6100195.00"
+    },
+    "CE13-0219": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "CE13-01132": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "166 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 7132762.00"
+    },
+    "CE13-0304": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "CE13-01134": {
+      "Unit Status": "CLOSE INVENTORY",
+      "Ticket Status": "266928988",
+      "Product Type": "Pre-selling",
+      "Lot Area": "96 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 5952575.00"
+    },
+    "CE13-0215": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 5829648.00"
+    },
+    "CE13-0276": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "178 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 7447563.00"
+    },
+    "CH5-1213": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "88 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-B",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 4823514.00"
+    },
+    "CV3-1656_57": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "117 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6151216.00"
+    },
+    "CE13-01127": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "165 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 8039385.00"
+    },
+    "CE13-0207": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6414975.00"
+    },
+    "CE13-0213": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6412613.00"
+    },
+    "CE11-0215": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "",
+      "Floor Area": "",
+      "House Model": null,
+      "House Type": null,
+      "Total Contract Price": ""
+    },
+    "CE13-0144": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "100 sqm",
+      "Floor Area": "52 sqm",
+      "House Model": "LINDEN",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "CE13-0111": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6910978.00"
+    },
+    "CE13-0119": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6583530.00"
+    },
+    "CE13-0211": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "136 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6688528.00"
+    },
+    "CE13-0218": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Lot Only",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "CE8-0806": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "88 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 4866446.00"
+    },
+    "CE13-0107": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6701626.00"
+    },
+    "CV3-1670_71": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "121 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "CE8-0605": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "88 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": ""
+    },
+    "CE13-0103": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6690675.00"
+    },
+    "CE13-01143": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "94 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6385182.00"
+    },
+    "CE13-0108": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "111 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6800129.00"
+    },
+    "CE13-0273": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "137 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6677255.00"
+    },
+    "CH4-0218": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "80 sqm",
+      "Floor Area": "72 sqm",
+      "House Model": "BALI",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 3514550.00"
+    },
+    "CE13-01102": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "RFO",
+      "Lot Area": "100 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 5232629.00"
+    },
+    "CE9-2404_06": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928995",
+      "Product Type": "RFO",
+      "Lot Area": "176 sqm",
+      "Floor Area": "52 sqm",
+      "House Model": "LINDEN",
+      "House Type": null,
+      "Total Contract Price": ""
+    },
+    "CV2-0820_21_22": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "146 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "OAKWOOD-BB",
+      "House Type": "Single Detached",
+      "Total Contract Price": "PHP 8018176.00"
+    },
+    "CE9-2408": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Lot Only",
+      "Lot Area": "121 sqm",
+      "Floor Area": "0 sqm",
+      "House Model": "NA",
+      "House Type": null,
+      "Total Contract Price": "PHP 3885311.00"
+    },
+    "CE13-01150": {
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
+      "Product Type": "Pre-selling",
+      "Lot Area": "91 sqm",
+      "Floor Area": "104 sqm",
+      "House Model": "Oakwood",
+      "House Type": "Single Attached",
+      "Total Contract Price": "PHP 6066924.00"
+    }
+  },
+  "count": 215,
+  "last_updated": "2026-01-31T19:57:18.246Z"
+}
