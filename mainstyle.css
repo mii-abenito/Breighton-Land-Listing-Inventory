@@ -6,8 +6,8 @@ html, body {
 
 body {
   background: 
-   linear-gradient(to top, rgba(0, 10, 25, 1), rgba(153, 194, 204, 0.6)),
-    url('BLI Fam.jpg');
+  linear-gradient(to top, rgba(0, 10, 25, 0.9), rgba(153, 194, 204, 0.6)),
+  url("BLI_Fam.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
