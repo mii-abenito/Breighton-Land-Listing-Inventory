@@ -1,1 +1,37 @@
+/* mf4style.css */
+
+/* Illustrator classes */
+.st0 { fill:none; stroke:#D1D3D4; stroke-width:0.5; stroke-miterlimit:10; }
+.st1 { fill:#FFFFFF; }
+.st2 { fill:#27B34B; }
+.st3 { fill:#231F20; }
+.st4 { font-family:'MyriadPro-Regular'; }
+.st5 { font-size:6.0849px; }
+.st6 { fill:#3E808B; }
+.st7 { fill:#F0E974; }
+.st8 { fill:#009C84; }
+.st9 { fill:#CCCCCC; }
+.st10 { fill:#D1D3D4; }
+.st11 { fill:none; stroke:#000000; stroke-linecap:round; stroke-linejoin:round; stroke-miterlimit:10; }
+.st12 { fill:none; }
+.st13 { font-family:'ArialMT'; }
+.st14 { font-size:14.9267px; }
+.st15 { font-size:17.4145px; }
+.st16 { font-size:24.8778px; }
+.st17 { font-size:14.9265px; }
+.st18 { font-size:14.9268px; }
+.st19 { font-size:14.9266px; }
+.st20 { font-size:9.951px; }
+.st21 { font-size:9.9511px; }
+.st22 { font-size:7.4633px; }
+.st23 { font-size:4.9755px; }
+.st24 { font-size:24.0894px; }
+.st25 { fill:none; stroke:#C1B49A; stroke-width:0.5; stroke-miterlimit:10; }
+.st26 { font-family:'Arial-Black'; }
+.st27 { font-size:10px; }
+
+/* Your interactive status classes */
+.available { fill:#27B34B; }   /* green */
+.sold { fill:#D32F2F; }        /* red */
+.reserved { fill:#FBC02D; }    /* yellow */
 
