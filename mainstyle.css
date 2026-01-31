@@ -1,30 +1,72 @@
-/* Base */
 body {
-  margin: 0;
+  background-color: #001f4d; /* Dark blue */
+  color: white;
   font-family: 'Titillium Web', sans-serif;
-  background: #fafafa;
-  color: #333;
+  text-align: center;
+  padding: 50px;
 }
 
-/* Header */
 header {
+  margin-bottom: 40px;
+}
+
+.logo {
+  width: 80px;
+  height: auto;
+  vertical-align: middle;
+  margin-right: 15px;
+}
+
+h1 {
+  font-size: 3em;
+  margin: 10px 0;
+}
+
+p {
+  font-size: 1.2em;
+  margin-bottom: 40px;
+}
+
+.button-container {
   display: flex;
-  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
   gap: 20px;
-  background: #ffffff;
-  padding: 20px 40px;
-  border-bottom: 1px solid #ddd;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
 }
 
-header .logo {
-  height: 50px;
+.project-btn {
+  background-color: #004080;
+  border: none;
+  color: white;
+  padding: 15px 25px;
+  font-size: 1em;
+  cursor: pointer;
+  border-radius: 8px;
+  transition: background-color 0.3s ease;
 }
 
-header h1 {
-  margin: 0;
-  font-size: 1.8rem;
-  color: #222;
+.project-btn:hover {
+  background-color: #0059b3;
 }
 
-header
+.phase-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.phase-btn {
+  background-color: #0066cc;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  font-size: 0.9em;
+  cursor: pointer;
+  border-radius: 6px;
+  transition: background-color 0.3s ease;
+}
+
+.phase-btn:hover {
+  background-color: #3399ff;
+}
