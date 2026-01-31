@@ -46,6 +46,27 @@ body {
   border-radius: 12px; /* optional luxury rounded corners */
 }
 
+.home-btn {
+  background: linear-gradient(to right, #f5d76e, #f39c12); /* gold ombre */
+  color: #fff;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 30px;
+  cursor: pointer;
+  margin: 10px auto;
+  display: block;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.home-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.3);
+}
+
+
 .st0 {
   fill: #3498db;
   stroke: #dbd7d9;
