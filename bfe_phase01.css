@@ -30,6 +30,44 @@ body {
 .sold      { fill: #dd3d51 !important; } /* red */
 .reserved  { fill: #f1c40f !important; } /* yellow */
 
+/* Navigation container */
+.nav-container {
+  text-align: left;   /* valid option: left, center, or right */
+  margin: 10px 0;
+}
+
+/* Small homepage button */
+.home-btn {
+  background-color: #00335a;       /* deep navy */
+  color: #ffffff;
+  font-family: 'Titillium Web', Arial, sans-serif;
+  font-size: 13px;                 /* smaller text */
+  font-weight: 500;
+  padding: 6px 12px;               /* smaller padding */
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.home-btn:hover {
+  background-color: #005080;       /* lighter navy on hover */
+  transform: translateY(-1px);
+}
+
+.st0 {
+  fill: #3498db;
+  stroke: #dbd7d9;
+  stroke-width: 2;
+  transition: all 0.3s ease;
+}
+
+.st0:hover {
+  fill: #424542;
+  stroke: #424542;
+  cursor: pointer;
+}
+
 /* Illustrator classes */
 .st0 { fill:none; stroke:#D1D3D4; stroke-width:0.5; stroke-miterlimit:10; }
 .st1 { fill:#FFFFFF; }
