@@ -1,5 +1,5 @@
 body {
-  background-color: #001f4d; /* Dark blue */
+  background: linear-gradient(to top, #00335a, #336b8c, #6699b3, #99c2cc);
   color: white;
   font-family: 'Titillium Web', sans-serif;
   text-align: center;
