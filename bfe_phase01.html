@@ -25,6 +25,62 @@
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 2448 3168"
 	 style="enable-background:new 0 0 2448 3168;" xml:space="preserve">
 
+<script>
+window.addEventListener('DOMContentLoaded', () => {
+  fetch('mf4.json')
+    .then(r => r.json())
+    .then(data => {
+      // store only the listings
+      window.units = data.listings;
+
+      for (const id in data.listings) {
+        const unit = data.listings[id];
+        const shape = document.getElementById(id);
+
+        if (shape) {
+          const status = (unit["Unit Status"] || '').toLowerCase();
+          if (status === "available") shape.classList.add("available");
+          if (status === "sold") shape.classList.add("sold");
+          if (status === "reserved") shape.classList.add("reserved");
+
+          shape.addEventListener("click", () => showUnit(id));
+        }
+      }
+    })
+    .catch(err => console.error('Failed to load mf4.json:', err));
+
+  function showUnit(id) {
+    const u = window.units && window.units[id];
+    if (!u) {
+      alert("No data found for " + id);
+      return;
+    }
+
+    const status = u["Unit Status"] ?? "N/A";
+    const productType = u["Product Type"] ?? "N/A";
+    const lot = u["Lot area"] ?? u["Lot Area"] ?? "N/A";
+    const floor = u["Floor area"] ?? u["Floor Area"] ?? "N/A";
+    const model = u["House Model"] ?? u["House model"] ?? "N/A";
+    const houseType = u["House type"] ?? u["House Type"] ?? "N/A";
+    const tcp = u["Total Contract Price"] ?? "N/A";
+    const displayName = u["Display Name"] ?? id;
+
+    alert(
+`Unit: ${id} 
+• Status: ${status}  
+• Product Type: ${productType} 
+• Lot Area: ${lot} 
+• Floor Area: ${floor} 
+• House Model: ${model} 
+• House Type: ${houseType} 
+• Total Contract Price: ${tcp}` 
+    );
+  }
+});
+		</script>
+
+	
+
 <switch>
 	<foreignObject requiredExtensions="&ns_ai;" x="0" y="0" width="1" height="1">
 		<i:pgfRef  xlink:href="#adobe_illustrator_pgf">
