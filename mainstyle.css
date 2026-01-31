@@ -1,10 +1,16 @@
 body {
-  background: linear-gradient(to top, #00335a, #336b8c, #6699b3, #99c2cc);
+  background: 
+    linear-gradient(to top, rgba(0, 51, 90, 0.9), rgba(153, 194, 204, 0.6)),
+    url('your-image.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
   color: white;
   font-family: 'Titillium Web', sans-serif;
   text-align: center;
   padding: 50px;
 }
+
 
 header {
   margin-bottom: 40px;
