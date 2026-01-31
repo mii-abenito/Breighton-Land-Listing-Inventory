@@ -1,8 +1,8 @@
-/* Reset */
+/* Base */
 body {
   margin: 0;
   font-family: 'Titillium Web', sans-serif;
-  background: #f4f6f9;
+  background: #fafafa;
   color: #333;
 }
 
@@ -10,77 +10,21 @@ body {
 header {
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  background: linear-gradient(135deg, #0066cc, #0099ff);
-  color: white;
+  gap: 20px;
+  background: #ffffff;
   padding: 20px 40px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+  border-bottom: 1px solid #ddd;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
 }
 
 header .logo {
-  height: 60px;
-  margin-right: 20px;
+  height: 50px;
 }
 
 header h1 {
   margin: 0;
-  font-size: 2rem;
+  font-size: 1.8rem;
+  color: #222;
 }
 
-header p {
-  margin: 0;
-  font-size: 1rem;
-  opacity: 0.9;
-}
-
-/* Button Container */
-.button-container {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 20px;
-  padding: 40px;
-}
-
-/* Project Buttons */
-.project-btn {
-  background: white;
-  border: 2px solid #0066cc;
-  border-radius: 10px;
-  padding: 20px;
-  font-size: 1.1rem;
-  font-weight: 700;
-  color: #0066cc;
-  cursor: pointer;
-  transition: all 0.3s ease;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.05);
-}
-
-.project-btn:hover {
-  background: #0066cc;
-  color: white;
-  transform: translateY(-3px);
-}
-
-/* Phase Container */
-.phase-container {
-  margin-top: 10px;
-  display: flex;
-  gap: 10px;
-  flex-wrap: wrap;
-}
-
-.phase-btn {
-  background: #e6f2ff;
-  border: 1px solid #0099ff;
-  border-radius: 6px;
-  padding: 8px 14px;
-  font-size: 0.9rem;
-  color: #0099ff;
-  cursor: pointer;
-  transition: all 0.2s ease;
-}
-
-.phase-btn:hover {
-  background: #0099ff;
-  color: white;
-}
+header
