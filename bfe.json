@@ -429,7 +429,7 @@
       "Floor Area": "110 sqm",
       "House Model": "VIVIENNE",
       "House Type": "Single Attached",
-      "Total Contract Price": "PHP 10834884.66.00"
+      "Total Contract Price": "PHP 11200884.66.00"
     },
     "BF1-0463": {
       "Unit Status": "SOLD",
@@ -1192,8 +1192,8 @@
       "Total Contract Price": ""
     },
     "BF2-0207": {
-      "Unit Status": "RESERVED",
-      "Ticket Status": "266928990",
+      "Unit Status": "AVAILABLE",
+      "Ticket Status": "266928989",
       "Product Type": "Pre-selling",
       "Lot Area": "140 sqm",
       "Floor Area": "110 sqm",
@@ -2713,5 +2713,5 @@
     }
   },
   "count": 271,
-  "last_updated": "2026-01-31T19:57:45.084Z"
+  "last_updated": "2026-02-03T12:47:07.193Z"
 }
