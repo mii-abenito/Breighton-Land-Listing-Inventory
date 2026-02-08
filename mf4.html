@@ -19,9 +19,10 @@
   
 
   <div class="title" style="text-align:left;">
-				<h3>🟢 Available:	</h3>
-				<h3>🔴 Sold:		</h3>
-				<h3>🟡 Reserved:	</h3>
+				<h3>🟢 Available			</h3>
+				<h3>🔴 Sold				</h3>
+				<h3>🟡 Reserved			</h3>
+	 			<h3>⚪ Closed Inventory	</h3>
 	</div>
 		
 		  <svg xmlns="http://www.w3.org/2000/svg"
@@ -49,9 +50,10 @@ window.addEventListener('DOMContentLoaded', () => {
 
         if (shape) {
           const status = (unit["Unit Status"] || '').toLowerCase();
-          if (status === "available") shape.classList.add("available");
-          if (status === "sold") shape.classList.add("sold");
-          if (status === "reserved") shape.classList.add("reserved");
+         	if (status === "available") shape.classList.add("available");
+         	if (status === "sold") shape.classList.add("sold");
+         	if (status === "reserved") shape.classList.add("reserved");
+			if (status === "close inventory") shape.classList.add("close-inventory");
 
           shape.addEventListener("click", () => showUnit(id));
         }
