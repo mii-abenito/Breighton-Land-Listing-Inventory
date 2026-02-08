@@ -78,7 +78,15 @@ window.addEventListener('DOMContentLoaded', () => {
     const floor = u["Floor area"] ?? u["Floor Area"] ?? "N/A";
     const model = u["House Model"] ?? u["House model"] ?? "N/A";
     const houseType = u["House type"] ?? u["House Type"] ?? "N/A";
-    const tcp = u["Total Contract Price"] ?? "N/A";
+   // const tcp = u["Total Contract Price"] ?? "N/A";
+
+    // Format Total Contract Price with spaces and 2 decimals
+    const tcpRaw = u["Total Contract Price"] ?? 0;
+    const tcp = Number(tcpRaw)
+                  .toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 })
+                  .replace(/,/g, ' ');
+
+	  
     const displayName = u["Display Name"] ?? id;
 
     alert(
