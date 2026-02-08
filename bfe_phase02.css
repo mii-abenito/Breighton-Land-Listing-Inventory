@@ -56,14 +56,14 @@ body {
   transform: translateY(-1px);
 }
 
-.st0 {
+.st17 {
   fill: #3498db;
   stroke: #dbd7d9;
   stroke-width: 2;
   transition: all 0.3s ease;
 }
 
-.st0:hover {
+.st17:hover {
   fill: #424542;
   stroke: #424542;
   cursor: pointer;
