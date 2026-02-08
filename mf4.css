@@ -58,8 +58,8 @@ body {
 
 
 .st0 {
-  fill: #26e816;
-  stroke: #763444;
+  fill: #3498db;
+  stroke: #dbd7d9;
   stroke-width: 2;
   transition: all 0.3s ease;
 }
@@ -72,7 +72,7 @@ body {
 
     .fil1 { fill:#999229; }
     .fil0 { fill:#CCCCCC; }
-	.st0 { fill:#e8167f; }
+	.st0 { fill:#dbd7d9; }
 	
 	.st1{fill:#d8d1c8;}
 	.st2{fill:#fff1de;}
