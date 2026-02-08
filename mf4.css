@@ -60,7 +60,7 @@ body {
 .st0 {
   fill: #3498db;
   stroke: #dbd7d9;
-  stroke-width: 2;
+  stroke-width: 0.5;
   transition: all 0.3s ease;
 }
 
