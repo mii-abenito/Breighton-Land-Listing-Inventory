@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+  <!-- <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -6,6 +6,7 @@
   <link rel="stylesheet" href="mf4.css">
 
   <!-- Favicon / Tab Logo -->
+ <!-- 
   <link rel="icon" href="BLI Logo.png" type="image/png">
 </head>
 
@@ -79,14 +80,6 @@ window.addEventListener('DOMContentLoaded', () => {
     const model = u["House Model"] ?? u["House model"] ?? "N/A";
     const houseType = u["House type"] ?? u["House Type"] ?? "N/A";
    // const tcp = u["Total Contract Price"] ?? "N/A";
-
-    // Format Total Contract Price with spaces and 2 decimals
-    const tcpRaw = u["Total Contract Price"] ?? 0;
-    const tcp = Number(tcpRaw)
-                  .toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 })
-                  .replace(/,/g, ' ');
-
-	  
     const displayName = u["Display Name"] ?? id;
 
     alert(
@@ -101,7 +94,126 @@ window.addEventListener('DOMContentLoaded', () => {
     );
   }
 });
-		</script>
+
+
+
+			
+		</script> -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Montefaro Village</title>
+  <link rel="stylesheet" href="mf4.css">
+
+  <!-- Favicon / Tab Logo -->
+  <link rel="icon" href="BLI Logo.png" type="image/png">
+</head>
+
+<body>
+
+  <div class="nav-container">
+    <button class="home-btn" onclick="window.location.href='index.html'">🏠 Homepage</button>
+  </div>
+
+  <div class="title">
+    <h1>Montefaro Village</h1> 
+    <h2>Breighton Land Inc.</h2>
+  </div>
+
+  <div class="title" style="text-align:left;">
+    <h3>🟢 Available</h3>
+    <h3>🔴 Sold</h3>
+    <h3>🟡 Reserved</h3>
+    <h3>⚪ Closed Inventory</h3>
+  </div>
+
+  <svg xmlns="http://www.w3.org/2000/svg"
+       viewBox="0 0 1200 1600"
+       width="800" height="900"
+       style="display:block; margin:auto;
+              shape-rendering:geometricPrecision;
+              text-rendering:geometricPrecision;
+              image-rendering:optimizeQuality;
+              fill-rule:evenodd;
+              clip-rule:evenodd">
+  </svg>
+
+  <script>
+window.addEventListener('DOMContentLoaded', () => {
+
+  // Helper function to format Total Contract Price
+  function formatTCP(rawValue) {
+    if (!rawValue) return "0.00";
+
+    // Remove any non-digit/non-decimal characters (like PHP, spaces, commas)
+    const cleanValue = rawValue.toString().replace(/[^\d.]/g, "");
+
+    // Convert to number
+    const num = Number(cleanValue) || 0;
+
+    // Format with spaces and 2 decimals
+    return num.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 })
+              .replace(/,/g, ' ');
+  }
+
+  fetch('mf4.json')
+    .then(r => r.json())
+    .then(data => {
+      window.units = data.listings;
+
+      for (const id in data.listings) {
+        const unit = data.listings[id];
+        const shape = document.getElementById(id);
+
+        if (shape) {
+          const status = (unit["Unit Status"] || '').toLowerCase();
+          if (status === "available") shape.classList.add("available");
+          if (status === "sold") shape.classList.add("sold");
+          if (status === "reserved") shape.classList.add("reserved");
+          if (status === "close inventory") shape.classList.add("close-inventory");
+
+          shape.addEventListener("click", () => showUnit(id));
+        }
+      }
+    })
+    .catch(err => console.error('Failed to load mf4.json:', err));
+
+  function showUnit(id) {
+    const u = window.units && window.units[id];
+    if (!u) {
+      alert("No data found for " + id);
+      return;
+    }
+
+    const status = u["Unit Status"] ?? "N/A";
+    const productType = u["Product Type"] ?? "N/A";
+    const lot = u["Lot area"] ?? u["Lot Area"] ?? "N/A";
+    const floor = u["Floor area"] ?? u["Floor Area"] ?? "N/A";
+    const model = u["House Model"] ?? u["House model"] ?? "N/A";
+    const houseType = u["House type"] ?? u["House Type"] ?? "N/A";
+
+    // Format Total Contract Price
+    const tcpRaw = u["Total Contract Price"];
+    const tcp = formatTCP(tcpRaw);
+
+    const displayName = u["Display Name"] ?? id;
+
+    alert(
+`Unit: ${id} 
+• Status: ${status}  
+• Product Type: ${productType} 
+• Lot Area: ${lot} 
+• Floor Area: ${floor} 
+• House Model: ${model} 
+• House Type: ${houseType} 
+• Total Contract Price: ${tcp}`
+    );
+  }
+
+});
+  </script>
 		
 	<polygon id="MF4-031E"	polygon class="st0" points="23,130.3 52.3,127.3 53.3,136.6 51.5,136.6 52.6,148.5 32.3,150.3 31.6,141.6 24.4,142.4 						"/>
 	<polygon id="MF4-031D"	polygon class="st0" points="26,159.5 55.2,156.5 56.2,165.7 54.5,165.7 55.5,177.7 35.3,179.5 34.6,170.8 27.3,171.6 						"/>
