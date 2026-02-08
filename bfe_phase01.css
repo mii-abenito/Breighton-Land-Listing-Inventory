@@ -29,7 +29,7 @@ body {
 .available { fill: #2ecc71 !important; } 		/* green */
 .sold      { fill: #dd3d51 !important; } 		/* red */
 .reserved  { fill: #f1c40f !important; } 		/* yellow */
-.close-inventory { fill: #e000c3 !important; }	/* light white/cream
+.close-inventory { fill: #e2e0e2 !important; }	/* light white/cream
 
 /* Navigation container */
 .nav-container {
