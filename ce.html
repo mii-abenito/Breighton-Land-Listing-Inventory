@@ -1,23 +1,92 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Carmona Estates</title>
+  <link rel="stylesheet" href="ce.css">
+
+  <!-- Favicon / Tab Logo -->
+  <link rel="icon" href="BLI Logo.png" type="image/png">
+</head>
+
+	
+
+  <div class="nav-container">
+    <button class="home-btn" onclick="window.location.href='index.html'">🏠 Homepage</button>
+  </div>
+
+  <div class="title">
+    <h1>Bellefort Estate - Phase 01</h1> 
+    <h2>Breighton Land Inc.</h2>
+  </div>
+ <div class="title" style="text-align:left;">
+				<h3>🟢 Available			</h3>
+				<h3>🔴 Sold				</h3>
+				<h3>🟡 Reserved			</h3>
+	 			<h3>⚪ Closed Inventory	</h3>
+</div>
+	
 <svg version="1.1" id="Layer_1" 
      xmlns="http://www.w3.org/2000/svg" 
      xmlns:xlink="http://www.w3.org/1999/xlink" 
      x="0px" y="0px" viewBox="0 0 10656 6912"
      xml:space="preserve">
 
-  <!-- Link external stylesheet -->
-  <style>
-    @import url("ce.css");
-  </style>
 
-  <!-- Your SVG content continues here -->
-  <switch>
-    <foreignObject requiredExtensions="&ns_ai;" x="0" y="0" width="1" height="1">
-      <i:pgfRef xlink:href="#adobe_illustrator_pgf"></i:pgfRef>
-    </foreignObject>
-    <g i:extraneous="self">
+<script>
+window.addEventListener('DOMContentLoaded', () => {
+  fetch('ce.json')
+    .then(r => r.json())
+    .then(data => {
+      // store only the listings
+      window.units = data.listings;
+
+      for (const id in data.listings) {
+        const unit = data.listings[id];
+        const shape = document.getElementById(id);
+
+        if (shape) {
+          const status = (unit["Unit Status"] || '').toLowerCase();
+        	if (status === "available") shape.classList.add("available");
+         	if (status === "sold") shape.classList.add("sold");
+         	if (status === "reserved") shape.classList.add("reserved");
+			if (status === "close inventory") shape.classList.add("close-inventory");
+
+          shape.addEventListener("click", () => showUnit(id));
+        }
+      }
+    })
+    .catch(err => console.error('Failed to load bfe.json:', err));
+
+  function showUnit(id) {
+    const u = window.units && window.units[id];
+    if (!u) {
+      alert("No data found for " + id);
+      return;
+    }
+
+    const status = u["Unit Status"] ?? "N/A";
+    const productType = u["Product Type"] ?? "N/A";
+    const lot = u["Lot area"] ?? u["Lot Area"] ?? "N/A";
+    const floor = u["Floor area"] ?? u["Floor Area"] ?? "N/A";
+    const model = u["House Model"] ?? u["House model"] ?? "N/A";
+    const houseType = u["House type"] ?? u["House Type"] ?? "N/A";
+    const tcp = u["Total Contract Price"] ?? "N/A";
+    const displayName = u["Display Name"] ?? id;
+
+    alert(
+`Unit: ${id} 
+• Status: ${status}  
+• Product Type: ${productType} 
+• Lot Area: ${lot} 
+• Floor Area: ${floor} 
+• House Model: ${model} 
+• House Type: ${houseType} 
+• Total Contract Price: ${tcp}` 
+    );
+  }
+});
+		</script>
 
 		<polygon class="st0" points="4846.6,3231.2 4736.8,3264.1 4719.6,3206.6 4640.7,3230.2 4628.6,3189.7 4588,3201.8 4567.4,3132.9 
 			4755.3,3076.7 4778.3,3152 4819.1,3139.3 		"/>
