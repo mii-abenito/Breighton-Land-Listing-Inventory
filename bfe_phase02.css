@@ -92,11 +92,13 @@ body {
 .st16 { fill: none; stroke: #000000; stroke-width: 0.75; 
         stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; }
 .st17 { fill: none; stroke: #C2B59B; stroke-width: 0.5; stroke-miterlimit: 10; }
-.st18 { fill: #CCCCCC; }
+
+/*	.st18 { fill: #CCCCCC; }
 .st19 { fill: #009C84; }
 .st20 { fill: #D1D3D4; }
+*/
 
-.st21 { fill: none; stroke: pink; stroke-miterlimit: 10; }
+.st21 { fill: none; stroke: #C2B59B; stroke-miterlimit: 10; }
 .st22 { font-family: 'MyriadPro-Regular'; }
 .st23 { font-size: 5px; }
 .st24 { clip-path: url(#SVGID_4_); fill: none; stroke: #000000; 
