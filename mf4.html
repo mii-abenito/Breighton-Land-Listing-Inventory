@@ -6,7 +6,6 @@
   <link rel="stylesheet" href="mf4.css">
 
   <!-- Favicon / Tab Logo -->
-
   <link rel="icon" href="BLI Logo.png" type="image/png">
 </head>
 
@@ -40,8 +39,8 @@
 						fill-rule:evenodd;
 						clip-rule:evenodd">
 			
-	
 		<script>
+			
 window.addEventListener('DOMContentLoaded', () => {
   fetch('mf4.json')
     .then(r => r.json())
@@ -79,7 +78,7 @@ window.addEventListener('DOMContentLoaded', () => {
     const floor = u["Floor area"] ?? u["Floor Area"] ?? "N/A";
     const model = u["House Model"] ?? u["House model"] ?? "N/A";
     const houseType = u["House type"] ?? u["House Type"] ?? "N/A";
-   // const tcp = u["Total Contract Price"] ?? "N/A";
+	const tcp = u["Total Contract Price"] ?? "N/A";
     const displayName = u["Display Name"] ?? id;
 
     alert(
@@ -94,8 +93,6 @@ window.addEventListener('DOMContentLoaded', () => {
     );
   }
 });
-
-
 
 			
 		</script> 
