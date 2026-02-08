@@ -70,32 +70,33 @@ body {
 }
 
 /* Illustrator classes .st0 { fill:none; stroke:#D1D3D4; stroke-width:0.5; stroke-miterlimit:10; }*/
-.st0 { fill:#e0e0e0; }
-.st1 { fill:#FFFFFF; }
-.st2 { fill:#fff1de; }
-.st3 { fill:#231F20; }
-.st4 { font-family:'MyriadPro-Regular'; }
-.st5 { font-size:6.0849px; }
-.st6 { fill:#3E808B; }
-.st7 { fill:#F0E974; }
-.st8 { fill:#009C84; }
-.st9 { fill:#CCCCCC; }
-.st10 { fill:#D1D3D4; }
-.st11 { fill:none; stroke:#000000; stroke-linecap:round; stroke-linejoin:round; stroke-miterlimit:10; }
-.st12 { fill:none; }
-.st13 { font-family:'ArialMT'; }
-.st14 { font-size:14.9267px; }
-.st15 { font-size:17.4145px; }
-.st16 { font-size:24.8778px; }
-.st17 { font-size:14.9265px; }
-.st18 { font-size:14.9268px; }
-.st19 { font-size:14.9266px; }
-.st20 { font-size:9.951px; }
-.st21 { font-size:9.9511px; }
-.st22 { font-size:7.4633px; }
-.st23 { font-size:4.9755px; }
-.st24 { font-size:24.0894px; }
-.st25 { fill:none; stroke:#C1B49A; stroke-width:0.5; stroke-miterlimit:10; }
-.st26 { font-family:'Arial-Black'; }
-.st27 { font-size:10px; }
-
+.st0 { fill: #3E808B; }
+.st1 { fill: #F0E974; }
+.st2 { fill: #26B34B; }
+.st3 { fill: #FFFFFF; }
+.st4 { fill: #27B34B; }
+.st5 { fill: #108B44; }
+.st6 { clip-path: url(#SVGID_2_); }
+.st7 { fill: #010101; }
+.st8 { font-family: 'ArialMT'; }
+.st9 { font-size: 10.1267px; }
+.st10 { fill: none; }
+.st11 { font-size: 10.1268px; }
+.st12 { font-size: 8.439px; }
+.st13 { font-size: 8.4389px; }
+.st14 { font-size: 6.7512px; }
+.st15 { font-size: 6.7511px; }
+.st16 { fill: none; stroke: #000000; stroke-width: 0.75; 
+        stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; }
+.st17 { fill: none; stroke: #C2B59B; stroke-width: 0.5; stroke-miterlimit: 10; }
+.st18 { fill: #CCCCCC; }
+.st19 { fill: #009C84; }
+.st20 { fill: #D1D3D4; }
+.st21 { fill: none; stroke: #C2B59B; stroke-miterlimit: 10; }
+.st22 { font-family: 'MyriadPro-Regular'; }
+.st23 { font-size: 5px; }
+.st24 { clip-path: url(#SVGID_4_); fill: none; stroke: #000000; 
+        stroke-width: 0.75; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; }
+.st25 { font-size: 12px; }
+.st26 { font-family: 'Arial-Black'; }
+.st27 { font-size: 6px; }
