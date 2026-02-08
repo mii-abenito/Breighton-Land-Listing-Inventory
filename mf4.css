@@ -74,7 +74,7 @@ body {
 
     .fil1 { fill:#999229; }
     .fil0 { fill:#CCCCCC; }
-	.st0{fill:#dbd7d9;}
+	.st0 { fill:none; stroke:#D1D3D4; stroke-width:0.5; stroke-miterlimit:10; }
 	.st1{fill:#d8d1c8;}
 	.st2{fill:#fff1de;}
 	.st3{fill:#FFFFFF;}
