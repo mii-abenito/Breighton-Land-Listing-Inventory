@@ -31,8 +31,6 @@ body {
 .reserved  { fill: #f1c40f !important; } /* yellow */
 .close-inventory { fill: #dbcce7 !important; }	/* light purple
 
-
-/* Navigation container */
 /* Navigation container */
 .nav-container {
   text-align: left;   /* valid option: left, center, or right */
@@ -60,8 +58,8 @@ body {
 
 
 .st0 {
-  fill: #3498db;
-  stroke: #dbd7d9;
+  fill: #26e816;
+  stroke: #763444;
   stroke-width: 2;
   transition: all 0.3s ease;
 }
@@ -74,7 +72,8 @@ body {
 
     .fil1 { fill:#999229; }
     .fil0 { fill:#CCCCCC; }
-	.st0 { fill:none; stroke:#D1D3D4; stroke-width:0.5; stroke-miterlimit:10; }
+	.st0 { fill:#e8167f; }
+	
 	.st1{fill:#d8d1c8;}
 	.st2{fill:#fff1de;}
 	.st3{fill:#FFFFFF;}
