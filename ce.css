@@ -1,1 +1,104 @@
+* {
+  margin: 0;
+  padding: 0;
+}
 
+body {
+  background-color: white;
+}
+	.title {
+      text-align: center;
+      font-family: Arial, sans-serif;
+      margin-top: 50px;
+    }
+    .title h1 {
+      font-size: 26px;
+      margin: 0;
+    }
+    .title h2 {
+      font-size: 9px;
+      margin: 5px 0 0 0;
+      color: #555;
+    }
+    .title h3 {
+      font-size: 9px;
+      margin: 5px 0 0 0;
+      color: #555;
+    }
+
+.available { fill: #2ecc71 !important; } 		/* green */
+.sold      { fill: #dd3d51 !important; } 		/* red */
+.reserved  { fill: #f1c40f !important; } 		/* yellow */
+.close-inventory { fill: #dbcce7 !important; }	/* light purple
+
+/* Navigation container */
+.nav-container {
+  text-align: left;   /* valid option: left, center, or right */
+  margin: 10px 0;
+}
+
+/* Small homepage button */
+.home-btn {
+  background-color: #00335a;       /* deep navy */
+  color: #ffffff;
+  font-family: 'Titillium Web', Arial, sans-serif;
+  font-size: 13px;                 /* smaller text */
+  font-weight: 500;
+  padding: 6px 12px;               /* smaller padding */
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.home-btn:hover {
+  background-color: #005080;       /* lighter navy on hover */
+  transform: translateY(-1px);
+}
+
+.st0 {
+  fill: #3498db;
+  stroke: #dbd7d9;
+  stroke-width: 0.5;
+  transition: all 0.3s ease;
+}
+
+.st0:hover {
+  fill: #424542;
+  stroke: #424542;
+  cursor: pointer;
+}
+
+/* Illustrator classes .st0 { fill:none; stroke:#D1D3D4; stroke-width:0.5; stroke-miterlimit:10; }*/
+.st0 { fill:#e0e0e0; }
+.st1 { fill:#FFFFFF; }
+.st2 { fill:none; stroke:#939598; stroke-width:2; stroke-miterlimit:10; }
+.st3 { fill:none; stroke:#939598; stroke-width:2; stroke-miterlimit:10; stroke-dasharray:11.5035,4.7931; }
+.st4 { fill:none; stroke:#939598; stroke-width:2; stroke-miterlimit:10; stroke-dasharray:11.6965,4.8735; }
+.st5 { fill:none; stroke:#939598; stroke-width:2; stroke-miterlimit:10; stroke-dasharray:10.6656,4.444; }
+.st6 { fill:none; stroke:#939598; stroke-width:2; stroke-miterlimit:10; stroke-dasharray:11.3893,4.7455; }
+.st7 { fill:none; stroke:#939598; stroke-width:2; stroke-miterlimit:10; stroke-dasharray:12.2368,5.0987; }
+.st8 { fill:none; stroke:#939598; stroke-width:2; stroke-miterlimit:10; stroke-dasharray:11.9259,4.9691; }
+.st9 { fill:#6D6E71; }
+.st10 { fill:none; stroke:#ED1C24; stroke-width:4; stroke-miterlimit:10; }
+.st11 { fill:none; stroke:#000000; stroke-width:4; stroke-miterlimit:10; }
+.st12 { fill:#00A651; stroke:#000000; stroke-width:4; stroke-miterlimit:10; }
+.st13 { fill:none; stroke:#939598; stroke-width:2; stroke-miterlimit:10; stroke-dasharray:11.6962,4.8734; }
+.st14 { fill:none; stroke:#939598; stroke-width:2; stroke-miterlimit:10; stroke-dasharray:12.3771,5.1571; }
+.st15 { fill:none; stroke:#939598; stroke-width:2; stroke-miterlimit:10; stroke-dasharray:12.7397,5.3082; }
+.st16 { fill:none; stroke:#939598; stroke-width:2; stroke-miterlimit:10; stroke-dasharray:12.6463,5.2693; }
+.st17 { fill:none; stroke:#939598; stroke-width:2; stroke-miterlimit:10; stroke-dasharray:13.5014,5.6256; }
+.st18 { fill:none; stroke:#939598; stroke-width:2; stroke-miterlimit:10; stroke-dasharray:12.3925,5.1636; }
+.st19 { fill:none; stroke:#ED1C24; stroke-width:2; stroke-miterlimit:10; }
+.st20 { fill:#58595B; stroke:#000000; stroke-width:4; stroke-miterlimit:10; }
+.st21 { font-family:'Arial-BoldMT'; }
+.st22 { font-size:72px; }
+.st23 { fill:none; }
+.st24 { fill:none; stroke:#BCBEC0; stroke-width:2; stroke-miterlimit:10; }
+.st25 { fill:none; stroke:#BCBEC0; stroke-width:2; stroke-miterlimit:10; stroke-dasharray:11.9143,4.9643; }
+.st26 { fill:none; stroke:#BCBEC0; stroke-width:2; stroke-miterlimit:10; stroke-dasharray:11.9804,4.9918; }
+.st27 { fill:none; stroke:#BCBEC0; stroke-width:2; stroke-miterlimit:10; stroke-dasharray:11.8985,4.9577; }
+.st28 { fill:#FFFFFF; stroke:#BCBEC0; stroke-width:2; stroke-miterlimit:10; stroke-dasharray:12,5; }
+.st29 { fill:none; stroke:#BCBEC0; stroke-width:2; stroke-miterlimit:10; stroke-dasharray:12,5; }
+.st30 { font-size:40px; }
+.st31 { letter-spacing:
