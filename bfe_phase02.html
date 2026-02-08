@@ -1,55 +1,90 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
-	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
-	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
-	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
-	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
-	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
-	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
-	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
-	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
-]>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Bellefort Estate - Phase 02</title>
+  <link rel="stylesheet" href="bfe_phase02.css">
+
+  <!-- Favicon / Tab Logo -->
+  <link rel="icon" href="BLI Logo.png" type="image/png">
+</head>
+
+
+  <div class="nav-container">
+    <button class="home-btn" onclick="window.location.href='index.html'">🏠 Homepage</button>
+  </div>
+
+  <div class="title">
+    <h1>Bellefort Estate - Phase 02</h1> 
+    <h2>Breighton Land Inc.</h2>
+  </div>
+ <div class="title" style="text-align:left;">
+				<h3>🟢 Available			</h3>
+				<h3>🔴 Sold				</h3>
+				<h3>🟡 Reserved			</h3>
+	 			<h3>⚪ Closed Inventory	</h3>
+</div>	
+
 <svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 841.9 1190.6"
 	 style="enable-background:new 0 0 841.9 1190.6;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#3E808B;}
-	.st1{fill:#F0E974;}
-	.st2{fill:#26B34B;}
-	.st3{fill:#FFFFFF;}
-	.st4{fill:#27B34B;}
-	.st5{fill:#108B44;}
-	.st6{clip-path:url(#SVGID_2_);}
-	.st7{fill:#010101;}
-	.st8{font-family:'ArialMT';}
-	.st9{font-size:10.1267px;}
-	.st10{fill:none;}
-	.st11{font-size:10.1268px;}
-	.st12{font-size:8.439px;}
-	.st13{font-size:8.4389px;}
-	.st14{font-size:6.7512px;}
-	.st15{font-size:6.7511px;}
-	.st16{fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st17{fill:none;stroke:#C2B59B;stroke-width:0.5;stroke-miterlimit:10;}
-	.st18{fill:#CCCCCC;}
-	.st19{fill:#009C84;}
-	.st20{fill:#D1D3D4;}
-	.st21{fill:none;stroke:#C2B59B;stroke-miterlimit:10;}
-	.st22{font-family:'MyriadPro-Regular';}
-	.st23{font-size:5px;}
-	
-		.st24{clip-path:url(#SVGID_4_);fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st25{font-size:12px;}
-	.st26{font-family:'Arial-Black';}
-	.st27{font-size:6px;}
-</style>
-<switch>
-	<foreignObject requiredExtensions="&ns_ai;" x="0" y="0" width="1" height="1">
-		<i:pgfRef  xlink:href="#adobe_illustrator_pgf">
-		</i:pgfRef>
-	</foreignObject>
-	<g i:extraneous="self">
+
+
+<script>
+window.addEventListener('DOMContentLoaded', () => {
+  fetch('bfe.json')
+    .then(r => r.json())
+    .then(data => {
+      // store only the listings
+      window.units = data.listings;
+
+      for (const id in data.listings) {
+        const unit = data.listings[id];
+        const shape = document.getElementById(id);
+
+        if (shape) {
+          const status = (unit["Unit Status"] || '').toLowerCase();
+        	if (status === "available") shape.classList.add("available");
+         	if (status === "sold") shape.classList.add("sold");
+         	if (status === "reserved") shape.classList.add("reserved");
+			if (status === "close inventory") shape.classList.add("close-inventory");
+
+          shape.addEventListener("click", () => showUnit(id));
+        }
+      }
+    })
+    .catch(err => console.error('Failed to load bfe.json:', err));
+
+  function showUnit(id) {
+    const u = window.units && window.units[id];
+    if (!u) {
+      alert("No data found for " + id);
+      return;
+    }
+
+    const status = u["Unit Status"] ?? "N/A";
+    const productType = u["Product Type"] ?? "N/A";
+    const lot = u["Lot area"] ?? u["Lot Area"] ?? "N/A";
+    const floor = u["Floor area"] ?? u["Floor Area"] ?? "N/A";
+    const model = u["House Model"] ?? u["House model"] ?? "N/A";
+    const houseType = u["House type"] ?? u["House Type"] ?? "N/A";
+    const tcp = u["Total Contract Price"] ?? "N/A";
+    const displayName = u["Display Name"] ?? id;
+
+    alert(
+`Unit: ${id} 
+• Status: ${status}  
+• Product Type: ${productType} 
+• Lot Area: ${lot} 
+• Floor Area: ${floor} 
+• House Model: ${model} 
+• House Type: ${houseType} 
+• Total Contract Price: ${tcp}` 
+    );
+  }
+});
+		</script>
+
 		<polygon class="st0" points="661.9,723.1 662.1,731.6 640.4,731.9 640.1,715.8 654.9,715.6 655,723.1 		"/>
 		<polygon class="st1" points="155.7,802.5 164.1,803 162.9,824.6 146.8,823.8 147.6,809 155.1,809.5 		"/>
 		<polygon class="st1" points="105.3,903.5 96.8,903.1 95.6,924.7 111.8,925.6 112.6,910.9 105.1,910.5 		"/>
