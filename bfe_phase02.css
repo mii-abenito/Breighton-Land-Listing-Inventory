@@ -1,1 +1,101 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: white;
+}
+	.title {
+      text-align: center;
+      font-family: Arial, sans-serif;
+      margin-top: 50px;
+    }
+    .title h1 {
+      font-size: 26px;
+      margin: 0;
+    }
+    .title h2 {
+      font-size: 9px;
+      margin: 5px 0 0 0;
+      color: #555;
+    }
+    .title h3 {
+      font-size: 9px;
+      margin: 5px 0 0 0;
+      color: #555;
+    }
+
+.available { fill: #2ecc71 !important; } 		/* green */
+.sold      { fill: #dd3d51 !important; } 		/* red */
+.reserved  { fill: #f1c40f !important; } 		/* yellow */
+.close-inventory { fill: #dbcce7 !important; }	/* light purple
+
+/* Navigation container */
+.nav-container {
+  text-align: left;   /* valid option: left, center, or right */
+  margin: 10px 0;
+}
+
+/* Small homepage button */
+.home-btn {
+  background-color: #00335a;       /* deep navy */
+  color: #ffffff;
+  font-family: 'Titillium Web', Arial, sans-serif;
+  font-size: 13px;                 /* smaller text */
+  font-weight: 500;
+  padding: 6px 12px;               /* smaller padding */
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.home-btn:hover {
+  background-color: #005080;       /* lighter navy on hover */
+  transform: translateY(-1px);
+}
+
+.st0 {
+  fill: #3498db;
+  stroke: #dbd7d9;
+  stroke-width: 2;
+  transition: all 0.3s ease;
+}
+
+.st0:hover {
+  fill: #424542;
+  stroke: #424542;
+  cursor: pointer;
+}
+
+/* Illustrator classes .st0 { fill:none; stroke:#D1D3D4; stroke-width:0.5; stroke-miterlimit:10; }*/
+.st0 { fill:#e0e0e0; }
+.st1 { fill:#FFFFFF; }
+.st2 { fill:#fff1de; }
+.st3 { fill:#231F20; }
+.st4 { font-family:'MyriadPro-Regular'; }
+.st5 { font-size:6.0849px; }
+.st6 { fill:#3E808B; }
+.st7 { fill:#F0E974; }
+.st8 { fill:#009C84; }
+.st9 { fill:#CCCCCC; }
+.st10 { fill:#D1D3D4; }
+.st11 { fill:none; stroke:#000000; stroke-linecap:round; stroke-linejoin:round; stroke-miterlimit:10; }
+.st12 { fill:none; }
+.st13 { font-family:'ArialMT'; }
+.st14 { font-size:14.9267px; }
+.st15 { font-size:17.4145px; }
+.st16 { font-size:24.8778px; }
+.st17 { font-size:14.9265px; }
+.st18 { font-size:14.9268px; }
+.st19 { font-size:14.9266px; }
+.st20 { font-size:9.951px; }
+.st21 { font-size:9.9511px; }
+.st22 { font-size:7.4633px; }
+.st23 { font-size:4.9755px; }
+.st24 { font-size:24.0894px; }
+.st25 { fill:none; stroke:#C1B49A; stroke-width:0.5; stroke-miterlimit:10; }
+.st26 { font-family:'Arial-Black'; }
+.st27 { font-size:10px; }
 
