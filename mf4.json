@@ -93,7 +93,7 @@
     },
     "MF4-0327": {
       "Unit Status": "SOLD",
-      "Ticket Status": "266928991",
+      "Ticket Status": "266928995",
       "Product Type": "Pre-selling",
       "Lot Area": "100 sqm",
       "Floor Area": "80 sqm",
@@ -772,8 +772,8 @@
       "Total Contract Price": "PHP 7240079.00"
     },
     "MF4-0615": {
-      "Unit Status": "SOLD",
-      "Ticket Status": "266928991",
+      "Unit Status": "CLOSE INVENTORY",
+      "Ticket Status": "266928993",
       "Product Type": "Pre-selling",
       "Lot Area": "100 sqm",
       "Floor Area": "80 sqm",
@@ -1013,5 +1013,5 @@
     }
   },
   "count": 101,
-  "last_updated": "2026-02-03T13:02:10.804Z"
+  "last_updated": "2026-02-09T01:58:41.375Z"
 }
