@@ -792,8 +792,8 @@
       "Total Contract Price": ""
     },
     "VSA-DP-1D-7": {
-      "Unit Status": "AVAILABLE",
-      "Ticket Status": "266928989",
+      "Unit Status": "RESERVED",
+      "Ticket Status": "266928990",
       "Product Type": "Pre-selling",
       "Lot Area": "",
       "Floor Area": "",
@@ -1143,5 +1143,5 @@
     }
   },
   "count": 114,
-  "last_updated": "2026-02-03T13:02:14.314Z"
+  "last_updated": "2026-02-09T01:58:46.980Z"
 }
