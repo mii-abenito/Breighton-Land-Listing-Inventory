@@ -332,8 +332,8 @@
       "Total Contract Price": ""
     },
     "BF1-0465": {
-      "Unit Status": "RESERVED",
-      "Ticket Status": "266928990",
+      "Unit Status": "AVAILABLE",
+      "Ticket Status": "266928989",
       "Product Type": "Pre-selling",
       "Lot Area": "110 sqm",
       "Floor Area": "85 sqm",
@@ -752,8 +752,8 @@
       "Total Contract Price": "PHP 11200974.01.00"
     },
     "BF2-0606": {
-      "Unit Status": "RESERVED",
-      "Ticket Status": "266928990",
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
       "Product Type": "Pre-selling",
       "Lot Area": "110 sqm",
       "Floor Area": "",
@@ -2713,5 +2713,5 @@
     }
   },
   "count": 271,
-  "last_updated": "2026-02-09T01:58:43.675Z"
+  "last_updated": "2026-02-11T02:58:13.809Z"
 }
