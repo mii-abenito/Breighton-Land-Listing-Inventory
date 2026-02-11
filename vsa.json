@@ -202,8 +202,8 @@
       "Total Contract Price": ""
     },
     "VSA-PH-6D-42": {
-      "Unit Status": "SOLD",
-      "Ticket Status": "266928991",
+      "Unit Status": "CLOSE INVENTORY",
+      "Ticket Status": "266928993",
       "Product Type": "Pre-selling",
       "Lot Area": "",
       "Floor Area": "",
@@ -632,8 +632,8 @@
       "Total Contract Price": ""
     },
     "VSA-SH-4K-23": {
-      "Unit Status": "SOLD",
-      "Ticket Status": "266928991",
+      "Unit Status": "CLOSE INVENTORY",
+      "Ticket Status": "266928993",
       "Product Type": "Pre-selling",
       "Lot Area": "",
       "Floor Area": "",
@@ -792,8 +792,8 @@
       "Total Contract Price": ""
     },
     "VSA-DP-1D-7": {
-      "Unit Status": "RESERVED",
-      "Ticket Status": "266928990",
+      "Unit Status": "AVAILABLE",
+      "Ticket Status": "266928989",
       "Product Type": "Pre-selling",
       "Lot Area": "",
       "Floor Area": "",
@@ -1143,5 +1143,5 @@
     }
   },
   "count": 114,
-  "last_updated": "2026-02-09T01:58:46.980Z"
+  "last_updated": "2026-02-11T02:58:16.421Z"
 }
