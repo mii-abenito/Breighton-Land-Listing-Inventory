@@ -22,12 +22,20 @@
   
   
 
-  <div class="title" style="text-align:left;">
+  	<div class="title" style="text-align:left;">
 				<h3>🟢 Available			</h3>
 				<h3>🔴 Sold				</h3>
 				<h3>🟡 Reserved			</h3>
 	 			<h3>⚪ Closed Inventory	</h3>
 	</div>
+	
+	<div id="unitModal" class="modal">
+		  <div class="modal-content">
+		    <span id="closeModal">&times;</span>
+		    <div id="unitDetails"></div>
+		  </div>
+	</div>
+
 		
 		  <svg xmlns="http://www.w3.org/2000/svg"
 		       viewBox="0 0 1200 1600"
@@ -39,7 +47,7 @@
 						fill-rule:evenodd;
 						clip-rule:evenodd">
 			
-		<script>
+	<!--	<script>
 			
 window.addEventListener('DOMContentLoaded', () => {
   fetch('mf4.json')
@@ -126,7 +134,81 @@ const displayName = u["Display Name"] ?? id;
 });
 
 			
-		</script> 
+		</script> -->
+
+
+			  <script>
+window.addEventListener('DOMContentLoaded', () => {
+  fetch('mf4.json')
+    .then(r => r.json())
+    .then(data => {
+      // store project + listings globally
+      window.projectName = data.project;
+      window.units = data.listings;
+
+      // loop through listings and attach click events
+      for (const id in data.listings) {
+        const unit = data.listings[id];
+        const shape = document.getElementById(id);
+
+        if (shape) {
+          const status = (unit["Unit Status"] || '').toLowerCase();
+          if (status === "available") shape.classList.add("available");
+          if (status === "sold") shape.classList.add("sold");
+          if (status === "reserved") shape.classList.add("reserved");
+          if (status === "close inventory") shape.classList.add("close-inventory");
+
+          shape.addEventListener("click", () => showUnit(id));
+        }
+      }
+    })
+    .catch(err => console.error('Failed to load mf4.json:', err));
+
+  function showUnit(id) {
+    const u = window.units && window.units[id];
+    if (!u) {
+      document.getElementById("unitDetails").innerHTML = `<p>No data found for ${id}</p>`;
+      document.getElementById("unitModal").style.display = "block";
+      return;
+    }
+
+    // Build dynamic HTML for modal
+    const details = `
+      <h2>${window.projectName} – ${u["House Model"] ?? ""}</h2>
+      <p><strong>Unit:</strong> ${id}</p>
+      <p><strong>Status:</strong> ${u["Unit Status"] ?? "N/A"}</p>
+      <p><strong>Product Type:</strong> ${u["Product Type"] ?? "N/A"}</p>
+      <p><strong>Lot Area:</strong> ${u["Lot Area"] ?? u["Lot area"] ?? "N/A"}</p>
+      <p><strong>Floor Area:</strong> ${u["Floor Area"] ?? u["Floor area"] ?? "N/A"}</p>
+      <p><strong>House Type:</strong> ${u["House Type"] ?? u["House type"] ?? "N/A"}</p>
+      <p><strong>Total Contract Price:</strong> ${u["Total Contract Price"] ?? "N/A"}</p>
+      <p><strong>Net Selling Price:</strong> ${u["Net Selling Price"] ?? "N/A"}</p>
+      <p><strong>Total Selling Price:</strong> ${u["Total Selling Price"] ?? "N/A"}</p>
+      <p><strong>Promo Discount:</strong> ${u["Promo Discount Value"] ?? "N/A"}</p>
+      <p><strong>Reservation Fee:</strong> ${u["Reservation Fee"] ?? "N/A"}</p>
+      <p><strong>Loanable Balance:</strong> ${u["Loanable Amount / Balance"] ?? "N/A"}</p>
+      <p><strong>MA 15yrs:</strong> ${u["MA 15yrs (8.5% EIR)"] ?? "N/A"}</p>
+      <p><strong>MA 20yrs:</strong> ${u["MA 20yrs (8.5% EIR)"] ?? "N/A"}</p>
+    `;
+
+    document.getElementById("unitDetails").innerHTML = details;
+    document.getElementById("unitModal").style.display = "block";
+  }
+
+  // Close modal handler
+  document.getElementById("closeModal").onclick = () => {
+    document.getElementById("unitModal").style.display = "none";
+  };
+
+  // Optional: close modal when clicking outside
+  window.onclick = (event) => {
+    if (event.target === document.getElementById("unitModal")) {
+      document.getElementById("unitModal").style.display = "none";
+    }
+  };
+});
+</script>
+
 		
 	<polygon id="MF4-031E"	polygon class="st0" points="23,130.3 52.3,127.3 53.3,136.6 51.5,136.6 52.6,148.5 32.3,150.3 31.6,141.6 24.4,142.4 						"/>
 	<polygon id="MF4-031D"	polygon class="st0" points="26,159.5 55.2,156.5 56.2,165.7 54.5,165.7 55.5,177.7 35.3,179.5 34.6,170.8 27.3,171.6 						"/>
