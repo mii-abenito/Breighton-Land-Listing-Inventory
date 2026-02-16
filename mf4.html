@@ -136,17 +136,15 @@ const displayName = u["Display Name"] ?? id;
 			
 		</script> -->
 
-
-			  <script>
+<script>
 window.addEventListener('DOMContentLoaded', () => {
   fetch('mf4.json')
     .then(r => r.json())
     .then(data => {
-      // store project + listings globally
       window.projectName = data.project;
       window.units = data.listings;
 
-      // loop through listings and attach click events
+      // Attach click events to shapes
       for (const id in data.listings) {
         const unit = data.listings[id];
         const shape = document.getElementById(id);
@@ -172,35 +170,36 @@ window.addEventListener('DOMContentLoaded', () => {
       return;
     }
 
-    // Build dynamic HTML for modal
+    // Build modal content dynamically
     const details = `
       <h2>${window.projectName} – ${u["House Model"] ?? ""}</h2>
-      <p><strong>Unit:</strong> ${id}</p>
-      <p><strong>Status:</strong> ${u["Unit Status"] ?? "N/A"}</p>
-      <p><strong>Product Type:</strong> ${u["Product Type"] ?? "N/A"}</p>
-      <p><strong>Lot Area:</strong> ${u["Lot Area"] ?? u["Lot area"] ?? "N/A"}</p>
-      <p><strong>Floor Area:</strong> ${u["Floor Area"] ?? u["Floor area"] ?? "N/A"}</p>
-      <p><strong>House Type:</strong> ${u["House Type"] ?? u["House type"] ?? "N/A"}</p>
-      <p><strong>Total Contract Price:</strong> ${u["Total Contract Price"] ?? "N/A"}</p>
-      <p><strong>Net Selling Price:</strong> ${u["Net Selling Price"] ?? "N/A"}</p>
-      <p><strong>Total Selling Price:</strong> ${u["Total Selling Price"] ?? "N/A"}</p>
-      <p><strong>Promo Discount:</strong> ${u["Promo Discount Value"] ?? "N/A"}</p>
-      <p><strong>Reservation Fee:</strong> ${u["Reservation Fee"] ?? "N/A"}</p>
-      <p><strong>Loanable Balance:</strong> ${u["Loanable Amount / Balance"] ?? "N/A"}</p>
-      <p><strong>MA 15yrs:</strong> ${u["MA 15yrs (8.5% EIR)"] ?? "N/A"}</p>
-      <p><strong>MA 20yrs:</strong> ${u["MA 20yrs (8.5% EIR)"] ?? "N/A"}</p>
+      <table>
+        <tr><td><strong>Unit</strong></td><td>${id}</td></tr>
+        <tr><td><strong>Status</strong></td><td>${u["Unit Status"] ?? "N/A"}</td></tr>
+        <tr><td><strong>Product Type</strong></td><td>${u["Product Type"] ?? "N/A"}</td></tr>
+        <tr><td><strong>Lot Area</strong></td><td>${u["Lot Area"] ?? u["Lot area"] ?? "N/A"}</td></tr>
+        <tr><td><strong>Floor Area</strong></td><td>${u["Floor Area"] ?? u["Floor area"] ?? "N/A"}</td></tr>
+        <tr><td><strong>House Type</strong></td><td>${u["House Type"] ?? u["House type"] ?? "N/A"}</td></tr>
+        <tr><td><strong>Total Contract Price</strong></td><td>${u["Total Contract Price"] ?? "N/A"}</td></tr>
+        <tr><td><strong>Net Selling Price</strong></td><td>${u["Net Selling Price"] ?? "N/A"}</td></tr>
+        <tr><td><strong>Total Selling Price</strong></td><td>${u["Total Selling Price"] ?? "N/A"}</td></tr>
+        <tr><td><strong>Promo Discount</strong></td><td>${u["Promo Discount Value"] ?? "N/A"}</td></tr>
+        <tr><td><strong>Reservation Fee</strong></td><td>${u["Reservation Fee"] ?? "N/A"}</td></tr>
+        <tr><td><strong>Loanable Balance</strong></td><td>${u["Loanable Amount / Balance"] ?? "N/A"}</td></tr>
+        <tr><td><strong>MA 15yrs</strong></td><td>${u["MA 15yrs (8.5% EIR)"] ?? "N/A"}</td></tr>
+        <tr><td><strong>MA 20yrs</strong></td><td>${u["MA 20yrs (8.5% EIR)"] ?? "N/A"}</td></tr>
+      </table>
     `;
 
     document.getElementById("unitDetails").innerHTML = details;
     document.getElementById("unitModal").style.display = "block";
   }
 
-  // Close modal handler
+  // Close modal
   document.getElementById("closeModal").onclick = () => {
     document.getElementById("unitModal").style.display = "none";
   };
 
-  // Optional: close modal when clicking outside
   window.onclick = (event) => {
     if (event.target === document.getElementById("unitModal")) {
       document.getElementById("unitModal").style.display = "none";
@@ -208,6 +207,7 @@ window.addEventListener('DOMContentLoaded', () => {
   };
 });
 </script>
+
 
 		
 	<polygon id="MF4-031E"	polygon class="st0" points="23,130.3 52.3,127.3 53.3,136.6 51.5,136.6 52.6,148.5 32.3,150.3 31.6,141.6 24.4,142.4 						"/>
