@@ -85,3 +85,30 @@ body {
 	.st10{font-family:'Arial-BoldMT';}
 	.st11{font-size:8px;}
 /* Add other .stX classes here */
+
+.title-section {
+  background-image: url('montefaro-cover.jpg'); /* replace with your image */
+  background-size: cover;       /* makes it fill the section */
+  background-position: center;  /* centers the image */
+  background-repeat: no-repeat; /* avoids tiling */
+  height: 250px;                /* adjust height as needed */
+  display: flex;
+  align-items: center;          /* vertically center text */
+  justify-content: center;      /* horizontally center text */
+  text-align: center;
+  color: white;                 /* ensures text is readable */
+  position: relative;
+}
+
+.title-section::after {
+  content: "";
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: rgba(0,0,0,0.4);  /* optional overlay for readability */
+}
+
+.title {
+  position: relative; /* keeps text above overlay */
+  z-index: 1;
+}
+
