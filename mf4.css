@@ -87,11 +87,11 @@ body {
 /* Add other .stX classes here */
 
 .title-section {
-  background-image: url('BLI Fam.jpg'); /* replace with your image */
+  background-image: url('MF4 BG.jpeg'); /* replace with your image */
   background-size: cover;       /* makes it fill the section */
   background-position: center;  /* centers the image */
   background-repeat: no-repeat; /* avoids tiling */
-  height: 250px;                /* adjust height as needed */
+  height: 200px;                /* adjust height as needed */
   display: flex;
   align-items: center;          /* vertically center text */
   justify-content: center;      /* horizontally center text */
