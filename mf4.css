@@ -124,27 +124,8 @@ body {
   font-weight: 400;
 }
 
-.nav-container .home-btn {
-  background: #fff;
-  color: #333;
-  border: none;
-  padding: 8px 16px;
-  border-radius: 6px;
-  cursor: pointer;
-  font-weight: bold;
-  transition: background 0.3s;
-}
 
-.nav-container .home-btn:hover {
-  background: #f0f0f0;
-}
 
-.status {
-  display: flex;
-  justify-content: center;
-  gap: 20px;
-  font-weight: 600;
-}
 
 
 
