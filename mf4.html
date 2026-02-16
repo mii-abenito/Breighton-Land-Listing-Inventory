@@ -96,8 +96,7 @@ const ma15yrs = u["MA 15yrs (8.5% EIR)"] ?? "N/A";
 const ma20yrs = u["MA 20yrs (8.5% EIR)"] ?? "N/A";
 const displayName = u["Display Name"] ?? id;
 
-
-    alert(
+	  alert(
 `Unit: ${id} 
 • Status: ${status}  
 • Product Type: ${productType} 
@@ -105,7 +104,23 @@ const displayName = u["Display Name"] ?? id;
 • Floor Area: ${floor} 
 • House Model: ${model} 
 • House Type: ${houseType} 
-• Total Contract Price: ${tcp}` 
+• Total Contract Price: ${tcp} 
+• DP (Samantha): ${dpSamantha} 
+• DP Terms: ${dpTerms} 
+• Net Selling Price: ${netSelling} 
+• Total Selling Price: ${totalSelling} 
+• Promo Discount Value: ${promoDiscount} 
+• Less Repairs Fee: ${lessRepairs} 
+• VAT 12%: ${vat12} 
+• LMF 10%: ${lmf10} 
+• Total DP Less Reservation: ${totalDpLessReservation} 
+• Monthly Equity: ${monthlyEquity} 
+• Reservation Fee: ${reservationFee} 
+• Loanable Amount / Balance: ${loanableBalance} 
+• Estimated MRI / FI: ${estimatedMri} 
+• MA 15yrs (8.5% EIR): ${ma15yrs} 
+• MA 20yrs (8.5% EIR): ${ma20yrs} 
+• Display Name: ${displayName}`
     );
   }
 });
