@@ -85,25 +85,3 @@ body {
 	.st10{font-family:'Arial-BoldMT';}
 	.st11{font-size:8px;}
 /* Add other .stX classes here */
-
-.modal {
-  display: none;
-  position: fixed;
-  top: 0; left: 0;
-  width: 100%; height: 100%;
-  background: rgba(0,0,0,0.6);
-}
-.modal-content {
-  background: #fff;
-  margin: 10% auto;
-  padding: 20px;
-  width: 400px;
-  border-radius: 8px;
-  font-family: 'Titillium Web', sans-serif; /* matches your dashboard */
-}
-#closeModal {
-  float: right;
-  cursor: pointer;
-  font-size: 20px;
-}
-
