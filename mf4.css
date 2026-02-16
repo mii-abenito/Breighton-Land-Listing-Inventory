@@ -100,9 +100,13 @@ body {
 
 .title-section .overlay {
   position: absolute;
-  top: 0; left: 0; right: 0; bottom: 0;
-  background: rgba(255, 0, 0, 0.4); /* red opacity overlay */
+  top: 0; 
+  left: 0; 
+  right: 0; 
+  bottom: 0;
+  background: rgba(102, 16, 17, 0.6); /* #661011 with opacity */
 }
+
 
 .title-section .content {
   position: relative; /* keeps text above overlay */
