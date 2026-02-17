@@ -190,7 +190,6 @@ body {
 }
 
 
-
 /* Legend box */
 .legend-box {
   background: #f9f9f9;
@@ -230,12 +229,4 @@ body {
   width: 20px;
   height: 20px;
 }
-
-/* Status colors */
-.available { fill: #2ecc71 !important; }
-.sold { fill: #dd3d51 !important; }
-.reserved { fill: #f1c40f !important; }
-.close-inventory { fill: #dbcce7 !important; }
-
-
 
