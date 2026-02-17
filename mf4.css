@@ -176,3 +176,9 @@ body {
   width: 20px;
   height: 20px;
 }
+
+.no-inventory {
+  fill: #e0e0e0 !important;  /* light gray fill */
+  stroke: #999;              /* optional outline for clarity */
+}
+
