@@ -150,15 +150,34 @@ body {
   margin: 40px 0;
 }
 
+.qr-box {
+  text-align: center;   /* centers both label and QR image */
+}
+
+.qr-box h4 {
+  margin-bottom: 8px;
+  font-size: 14px;
+  font-weight: 600;
+  color: #333;
+}
+
 .qr-box img {
-  width: 100px;
-  height: 100px;
+  display: block;
+  margin: 0 auto;       /* ensures the image itself is centered */
+  width: 120px;
+  height: 120px;
   object-fit: contain;
   border: 1px solid #ddd;
   border-radius: 6px;
   padding: 5px;
   background: #fff;
+  transition: transform 0.2s ease;
 }
+
+.qr-box img:hover {
+  transform: scale(1.05);
+}
+
 
 /* Legend box */
 .legend-box {
