@@ -105,16 +105,6 @@ body {
   gap: 15px;
 }
 
-.title h1 {
-  font-size: 2.5rem;
-  margin: 0;
-}https://github.com/mii-abenito/Breighton-Land-Listing-Inventory/blob/main/mf4.css
-
-.title h2 {
-  font-size: 1.2rem;
-  margin: 5px 0 0;
-  color: #f5f5f5;
-}
 
 /* Homepage button */
 
@@ -209,12 +199,5 @@ body {
   width: 20px;
   height: 20px;
 }
-
-/* Status colors */
-.available { fill: #2ecc71 !important; } /* green */
-.sold { fill: #dd3d51 !important; } /* red */
-.reserved { fill: #f1c40f !important; } /* yellow */
-.close-inventory { fill: #dbcce7 !important; } /* light purple */
-.no-inventory { fill: #e0e0e0 !important; stroke: #999; }
 
 
