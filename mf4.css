@@ -40,6 +40,7 @@ body {
 .sold      { fill: #dd3d51 !important; } /* red */
 .reserved  { fill: #f1c40f !important; } /* yellow */
 .close-inventory { fill: #dbcce7 !important; } /* light purple */
+.no-inventory { fill: #e0e0e0 !important;  }/* light gray fill */
 
 /* Navigation container */
 .nav-container {
