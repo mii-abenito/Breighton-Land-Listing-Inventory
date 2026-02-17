@@ -23,39 +23,65 @@
 	
 </div>
 
-	<div class="nav-container">
-   		 <button class="home-btn" onclick="window.location.href='index.html'">🏠 Homepage</button>
-	</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Montefaro Village</title>
+  <link rel="icon" href="BLI Logo.png" type="image/png">
+  <link rel="stylesheet" href="mf4.css">
+</head>
 
-<!--	<div class="title" style="text-align:left;">
-				<h3>🟢 Available			</h3>
-				<h3>🔴 Sold				</h3>
-				<h3>🟡 Reserved			</h3>
-	 			<h3>⚪ Closed Inventory	</h3>
-	</div> -->
+<body>
+  <!-- Hero section -->
+  <div class="title-section">
+    <div class="overlay"></div>
+    <div class="content">
+      <div class="title">
+        <h1>Montefaro Village</h1>
+        <h2>Breighton Land Inc.</h2>
+      </div>
+    </div>
+  </div>
 
-<div class="legend">
-  <svg class="legend-icon" width="20" height="20" viewBox="0 0 20 20">
-    <polygon points="2,2 18,2 18,18 2,18" class="available" />
-  </svg>
-  <span>Available</span>
+  <!-- Homepage button -->
+  <div class="nav-container">
+    <button class="home-btn" onclick="window.location.href='index.html'">🏠 Homepage</button>
+  </div>
 
-  <svg class="legend-icon" width="20" height="20" viewBox="0 0 20 20">
-    <polygon points="2,2 18,2 18,18 2,18" class="sold" />
-  </svg>
-  <span>Sold</span>
+  <!-- Legend box -->
+  <div class="legend-box">
+    <h3>Legend</h3>
+    <div class="legend">
+      <div class="legend-item">
+        <svg class="legend-icon" viewBox="0 0 20 20">
+          <polygon points="2,2 18,2 18,18 2,18" class="available" />
+        </svg>
+        <span>Available</span>
+      </div>
 
-  <svg class="legend-icon" width="20" height="20" viewBox="0 0 20 20">
-    <polygon points="2,2 18,2 18,18 2,18" class="reserved" />
-  </svg>
-  <span>Reserved</span>
+      <div class="legend-item">
+        <svg class="legend-icon" viewBox="0 0 20 20">
+          <polygon points="2,2 18,2 18,18 2,18" class="sold" />
+        </svg>
+        <span>Sold</span>
+      </div>
 
-  <svg class="legend-icon" width="20" height="20" viewBox="0 0 20 20">
-    <polygon points="2,2 18,2 18,18 2,18" class="close-inventory" />
-  </svg>
-  <span>Closed Inventory</span>
-</div>
+      <div class="legend-item">
+        <svg class="legend-icon" viewBox="0 0 20 20">
+          <polygon points="2,2 18,2 18,18 2,18" class="reserved" />
+        </svg>
+        <span>Reserved</span>
+      </div>
 
+      <div class="legend-item">
+        <svg class="legend-icon" viewBox="0 0 20 20">
+          <polygon points="2,2 18,2 18,18 2,18" class="close-inventory" />
+        </svg>
+        <span>Closed Inventory</span>
+      </div>
+    </div>
+  </div>
 
 
 
