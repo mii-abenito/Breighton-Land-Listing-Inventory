@@ -7,9 +7,15 @@
   font-family: 'Titillium Web', sans-serif;
 }
 
-body {
-  background-color: white;
+:root {
+  color-scheme: light;
 }
+
+body {
+  background-color: #ffffff; /* force white */
+  color: #000000;            /* force black text */
+}
+
 
 /* Title section */
 .title {
