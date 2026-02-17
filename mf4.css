@@ -1,45 +1,47 @@
+/* Import Titillium Web */
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@400;600;700&display=swap');
+
 * {
   margin: 0;
   padding: 0;
+  font-family: 'Titillium Web', sans-serif;
 }
 
 body {
   background-color: white;
 }
-	.title {
-      text-align: center;
-      font-family: Arial, sans-serif;
-      margin-top: 50px;
-    }
-    .title h1 {
-      font-size: 26px;
-      margin: 0;
-    }
-    .title h2 {
-      font-size: 9px;
-      margin: 5px 0 0 0;
-      color: #555;
-    }
-    .title h3 {
-      font-size: 9px;
-      margin: 5px 0 0 0;
-      color: #555;
-    }
 
+/* Title section */
+.title {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.title h1 {
+  font-size: 26px;
+  margin: 0;
+}
+
+.title h2,
+.title h3 {
+  font-size: 9px;
+  margin: 5px 0 0 0;
+  color: #555;
+}
+
+/* Status colors */
 .available { fill: #2ecc71 !important; } /* green */
 .sold      { fill: #dd3d51 !important; } /* red */
 .reserved  { fill: #f1c40f !important; } /* yellow */
-.close-inventory { fill: #dbcce7 !important; }	/* light purple
+.close-inventory { fill: #dbcce7 !important; } /* light purple */
 
 /* Navigation container */
 .nav-container {
-  text-align: left;   /* valid option: left, center, or right */
+  text-align: left;
   margin: 10px 0;
 }
 
-
-
-
+/* SVG styles */
 .st0 {
   fill: #3498db;
   stroke: #dbd7d9;
@@ -53,81 +55,25 @@ body {
   cursor: pointer;
 }
 
-    .fil1 { fill:#999229; }
-    .fil0 { fill:#CCCCCC; }
-	.st0 { fill:#e0e0e0; }
-	.st1{fill:#d8d1c8;}
-	.st2{fill:#fff1de;}
-	.st3{fill:#FFFFFF;}
-	.st4{clip-path:url(#SVGID_2_);}
-	.st5{fill:none;stroke:#010101;stroke-linecap:round;stroke-miterlimit:10;}
-	.st6{fill:none;stroke:#000000;stroke-miterlimit:10;}
-	.st7{fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;}
-	.st8{fill:#d8d1c8;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;}
-	.st9{fill:none;stroke:#010101;stroke-miterlimit:10;}
-	.st10{font-family:'Arial-BoldMT';}
-	.st11{font-size:8px;}
-/* Add other .stX classes here */
-
-.title-section {
-  position: relative;
-  background-image: url('MF4 BG.jpeg'); /* replace with your image */
-  background-size: cover;
-  background-position: center;
-  height: 200px; /* adjust height */
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: white;
-}
-
-.title-section .overlay {
-  position: absolute;
-  top: 0; 
-  left: 0; 
-  right: 0; 
-  bottom: 0;
-  background: rgba(102, 16, 17, 0.75);
- /* #661011 with opacity */
-}
-
-
-.title-section .content {
-  position: relative; /* keeps text above overlay */
-  z-index: 1;
-  text-align: center;
-  display: flex;
-  flex-direction: column;
-  gap: 15px; /* spacing between blocks */
-}
-
-.title h1 {
-  font-size: 2.5rem;
-  margin: 0;
-}
-
-.title h2 {
-  font-size: 1.5rem;
-  margin: 0;
-  color: #f5f5f5; /* soft white */
-}
-
-
-
-* {
-  margin: 0;
-  padding: 0;
-}
-
-body {
-  background-color: white;
-  font-family: Arial, sans-serif;
-}
+.fil1 { fill:#999229; }
+.fil0 { fill:#CCCCCC; }
+.st0 { fill:#e0e0e0; }
+.st1 { fill:#d8d1c8; }
+.st2 { fill:#fff1de; }
+.st3 { fill:#FFFFFF; }
+.st4 { clip-path:url(#SVGID_2_); }
+.st5 { fill:none;stroke:#010101;stroke-linecap:round;stroke-miterlimit:10; }
+.st6 { fill:none;stroke:#000000;stroke-miterlimit:10; }
+.st7 { fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10; }
+.st8 { fill:#d8d1c8;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10; }
+.st9 { fill:none;stroke:#010101;stroke-miterlimit:10; }
+.st10 { font-weight:700; } /* replaced Arial-BoldMT */
+.st11 { font-size:8px; }
 
 /* Hero section */
 .title-section {
   position: relative;
-  background-image: url('MF4 BG.jpeg'); /* replace with your image */
+  background-image: url('MF4 BG.jpeg');
   background-size: cover;
   background-position: center;
   height: 250px;
@@ -140,7 +86,7 @@ body {
 .title-section .overlay {
   position: absolute;
   top: 0; left: 0; right: 0; bottom: 0;
-  background: rgba(102, 16, 17, 0.75); /* red tint */
+  background: rgba(102, 16, 17, 0.75);
   pointer-events: none;
 }
 
@@ -170,14 +116,12 @@ body {
   margin: 20px 0;
 }
 
-/* Small homepage button */
 .home-btn {
-  background-color: #00335a;       /* deep navy */
+  background-color: #00335a;
   color: #ffffff;
-  font-family: 'Titillium Web', Arial, sans-serif;
-  font-size: 13px;                 /* smaller text */
+  font-size: 13px;
   font-weight: 500;
-  padding: 6px 12px;               /* smaller padding */
+  padding: 6px 12px;
   border: none;
   border-radius: 6px;
   cursor: pointer;
@@ -185,48 +129,46 @@ body {
 }
 
 .home-btn:hover {
-  background-color: #005080;       /* lighter navy on hover */
+  background-color: #005080;
   transform: translateY(-1px);
 }
 
-
 /* Legend box */
-    .legend-box {
-      background: #f9f9f9;
-      border: 1px solid #ddd;
-      border-radius: 8px;
-      padding: 15px 20px;
-      max-width: 400px;
-      margin: 0 auto 30px;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-    }
+.legend-box {
+  background: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 15px 20px;
+  max-width: 400px;
+  margin: 0 auto 30px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
 
-    .legend-box h3 {
-      margin-bottom: 10px;
-      font-size: 14px;
-      font-weight: bold;
-      color: #333;
-      text-align: center;
-    }
+.legend-box h3 {
+  margin-bottom: 10px;
+  font-size: 14px;
+  font-weight: bold;
+  color: #333;
+  text-align: center;
+}
 
-    .legend {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 15px;
-      justify-content: center;
-    }
+.legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  justify-content: center;
+}
 
-    .legend-item {
-      display: flex;
-      align-items: center;
-      gap: 6px;
-      font-size: 12px;
-      font-weight: 600;
-      color: #333;
-    }
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 12px;
+  font-weight: 600;
+  color: #333;
+}
 
-    .legend-icon {
-      width: 20px;
-      height: 20px;
-    }
-
+.legend-icon {
+  width: 20px;
+  height: 20px;
+}
