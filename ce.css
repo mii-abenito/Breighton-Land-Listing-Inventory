@@ -101,7 +101,7 @@ body {
 /* Hero section */
 .title-section {
   position: relative;
-  background-image: url('BFE BG.jpeg');
+  background-image: url('CE BG.jpg');
   background-size: cover;
   background-position: center;
   height: 200px;
@@ -114,7 +114,7 @@ body {
 .title-section .overlay {
   position: absolute;
   top: 0; left: 0; right: 0; bottom: 0;
-  background: rgba(99, 15, 15, 0.7);
+  background: rgba(29, 40, 57, 0.7);
   pointer-events: none;
 }
 
