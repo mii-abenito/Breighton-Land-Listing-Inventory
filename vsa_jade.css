@@ -3,7 +3,7 @@
 
 .st0 {
   fill: #3498db;
-  stroke: #dbd7d9;
+  stroke: #ff0080;
   stroke-width: 0.5;
   transition: all 0.3s ease;
 }
@@ -14,7 +14,7 @@
   cursor: pointer;
 }
 
-/*	.st0{fill:#fff1de;}
+/*	.st0{fill:#fff1de;}#dbd7d9
 	.st1{opacity:0.94;fill:#FFE3A9;}*/
 	.st0{fill:#D1D3D4;}
 	.st1{fill:#fff1de;}
