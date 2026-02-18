@@ -1,0 +1,252 @@
+
+.st0 {
+  fill: #3498db;
+  stroke: #dbd7d9;
+  stroke-width: 0.5;
+  transition: all 0.3s ease;
+}
+
+.st0:hover {
+  fill: #424542;
+  stroke: #424542;
+  cursor: pointer;
+}
+
+
+  .st0{fill:#ED1C24;}
+	.st1{fill:#11477C;}
+	.st2{fill:#4D4D4D;}
+	.st3{font-family:'ArialMT';}
+	.st4{font-size:5.8026px;}
+	.st5{fill:#FFE3A9;}
+	.st6{fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st7{fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st8{fill:none;}
+	.st9{fill:#28211F;}
+	.st10{font-family:'Arial-BoldMT';}
+	.st11{font-size:5.3728px;}
+	.st12{letter-spacing:2;}
+	.st13{fill:#ED2224;stroke:#000000;stroke-miterlimit:10;}
+	.st14{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st15{fill:#C2B59B;}
+	.st16{font-family:'Arial-Black';}
+	.st17{font-size:10.7455px;}
+	.st18{fill:#808080;}
+	.st19{font-size:10.7456px;}
+	.st20{fill:#010101;}
+	.st21{font-family:'Helvetica';}
+	.st22{font-size:15.1156px;}
+	.st23{font-family:'Helvetica-Bold';}
+	.st24{font-size:36px;}
+
+
+
+/* Import Titillium Web */
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@400;600;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  background-color: #ffffff; /* force white */
+  color: #000000;            /* force black text */
+}
+
+
+/* Title section */
+.title {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.title h1 {
+  font-size: 26px;
+  margin: 0;
+}
+
+.title h2 {
+  font-size: 18px;
+  margin: 0;
+}
+.title h3 {
+  font-size: 9px;
+  margin: 5px 0 0 0;
+  color: #555;
+}
+
+/* Status colors */
+.available { fill: #2ecc71 !important; } /* green */
+.sold      { fill: #dd3d51 !important; } /* red */
+.reserved  { fill: #f1c40f !important; } /* yellow */
+.close-inventory { fill: #dbcce7 !important; } /* light purple */
+.no-inventory { fill: #e0e0e0 !important;  }/* light gray fill */
+
+/* Navigation container */
+.nav-container {
+  text-align: left;
+  margin: 10px 0;
+}
+
+/* Hero section */
+.title-section {
+  position: relative;
+  background-image: url('VSA BG.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.title-section .overlay {
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: rgba(34, 45, 40, 0.7);
+  pointer-events: none;
+}
+
+.title-section .content {
+  position: relative;
+  z-index: 1;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+
+/* Homepage button */
+
+
+.home-btn {
+  background-color: #00335a;
+  color: #ffffff;
+  font-size: 13px;
+  font-weight: 500;
+  padding: 6px 12px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.home-btn:hover {
+  background-color: #005080;
+  transform: translateY(-1px);
+}
+
+/* Legend wrapper with QR codes */
+.legend-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  margin: 40px 0;
+}
+
+.qr-box {
+  text-align: center;   /* centers both label and QR image */
+}
+
+.qr-box h4 {
+  margin-bottom: 8px;
+  font-size: 14px;
+  font-weight: 600;
+  color: #333;
+}
+
+.qr-box img {
+  display: block;
+  margin: 0 auto;       /* ensures the image itself is centered */
+  width: 120px;
+  height: 120px;
+  object-fit: contain;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 5px;
+  background: #fff;
+  transition: transform 0.2s ease;
+}
+
+.qr-box img:hover {
+  transform: scale(1.05);
+}
+
+
+/* Legend box */
+.legend-box {
+  background: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 15px 20px;
+  max-width: 400px;
+  margin: 0 auto;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.legend-box h3 {
+  margin-bottom: 10px;
+  font-size: 14px;
+  font-weight: bold;
+  color: #333;
+  text-align: center;
+}
+
+.legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  justify-content: center;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 12px;
+  font-weight: 600;
+  color: #333;
+}
+
+.legend-icon {
+  width: 20px;
+  height: 20px;
+}
+
+
+/* Footer styling */
+footer {
+    background: linear-gradient(90deg, #001f33, #00335a, #005080);
+    color: #f0f0f0;
+    font-family: 'Titillium Web', sans-serif;
+    text-align: center;
+    padding: 25px 10px;
+    box-shadow: 0 -2px 5px rgba(0,0,0,0.3);
+}
+
+/* Paragraph styling inside footer */
+footer p {
+    margin: 0;
+    font-weight: 600;
+}
+
+/* Highlight company name */
+footer span {
+    color: #ffd700; /* gold */
+    font-weight: 700;
+}
+
+/* Optional: hover effect on company name */
+footer span:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
