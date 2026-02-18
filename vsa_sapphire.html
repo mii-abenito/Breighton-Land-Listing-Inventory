@@ -1,45 +1,187 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
-	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
-	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
-	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
-	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
-	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
-	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
-	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
-	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
-]>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Victoria Homes - Sapphire Hills</title>
+	<link rel="icon" href="BLI Logo.png" type="image/png">
+	<link rel="stylesheet" href="vsa_sapphire.css">
+</head>
+
+	
+ <div class="nav-container">
+    <button class="home-btn" onclick="window.location.href='index.html'">🏠 Homepage</button>
+  </div>	
+<body>
+ <!-- Hero section -->
+	
+  <div class="title-section">
+    <div class="overlay"></div>
+    <div class="content">
+      <div class="title">
+        <h1>Victoria Homes - Sapphire Hills</h1>
+        <h2>Breighton Land Inc.</h2>
+      </div>
+    </div>
+  </div>
+
+<div class="legend-wrapper">
+  <!-- Left QR (Seller) -->
+  <div class="qr-box">
+    <h4>Site Tripping - Seller Appointment</h4>
+    <a href="https://share-na2.hsforms.com/15EQLiuQgQzWhEVtafg3GkQbnnpx" target="_blank">
+      <img src="STA Form - Seller.png" alt="Seller QR Code">
+    </a>
+  </div>
+
+
+	
+
+  <!-- Legend box -->
+  <div class="legend-box">
+    <h3>Legend</h3>
+    <div class="legend">
+      <div class="legend-item">
+        <svg class="legend-icon" viewBox="0 0 20 20">
+          <polygon points="2,2 18,2 18,18 2,18" class="available" />
+        </svg>
+        <span>Available</span>
+      </div>
+
+      <div class="legend-item">
+        <svg class="legend-icon" viewBox="0 0 20 20">
+          <polygon points="2,2 18,2 18,18 2,18" class="sold" />
+        </svg>
+        <span>Sold</span>
+      </div>
+
+      <div class="legend-item">
+        <svg class="legend-icon" viewBox="0 0 20 20">
+          <polygon points="2,2 18,2 18,18 2,18" class="reserved" />
+        </svg>
+        <span>Reserved</span>
+      </div>
+
+      <div class="legend-item">
+        <svg class="legend-icon" viewBox="0 0 20 20">
+          <polygon points="2,2 18,2 18,18 2,18" class="close-inventory" />
+        </svg>
+        <span>Closed Inventory</span>
+      </div>
+
+      <div class="legend-item">
+        <svg class="legend-icon" viewBox="0 0 20 20">
+          <polygon points="2,2 18,2 18,18 2,18" class="no-inventory" />
+        </svg>
+        <span>No Listing / Inventory</span>
+      </div>
+    </div>
+  </div>
+
+
+
+  <!-- Right QR (Buyer) -->
+  <div class="qr-box">
+    <h4>Site Tripping - Buyer Appointment</h4>
+    <a href="https://share-na2.hsforms.com/1TiMmQEiPSlaf7txHRu2drAbnnpx" target="_blank">
+      <img src="STA Form - Buyer.png" alt="Buyer QR Code">
+    </a>
+  </div>
+</div>
+
+	
 <svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1190.6 841.9"
 	 style="enable-background:new 0 0 1190.6 841.9;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#ED1C24;}
-	.st1{fill:#11477C;}
-	.st2{fill:#4D4D4D;}
-	.st3{font-family:'ArialMT';}
-	.st4{font-size:5.8026px;}
-	.st5{fill:#FFE3A9;}
-	.st6{fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st7{fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st8{fill:none;}
-	.st9{fill:#28211F;}
-	.st10{font-family:'Arial-BoldMT';}
-	.st11{font-size:5.3728px;}
-	.st12{letter-spacing:2;}
-	.st13{fill:#ED2224;stroke:#000000;stroke-miterlimit:10;}
-	.st14{fill:none;stroke:#000000;stroke-miterlimit:10;}
-	.st15{fill:#C2B59B;}
-	.st16{font-family:'Arial-Black';}
-	.st17{font-size:10.7455px;}
-	.st18{fill:#808080;}
-	.st19{font-size:10.7456px;}
-	.st20{fill:#010101;}
-	.st21{font-family:'Helvetica';}
-	.st22{font-size:15.1156px;}
-	.st23{font-family:'Helvetica-Bold';}
-	.st24{font-size:36px;}
-</style>
+
+	
+	<script>
+			
+window.addEventListener('DOMContentLoaded', () => {
+  fetch('vsa.json')
+    .then(r => r.json())
+    .then(data => {
+      // store only the listings
+      window.units = data.listings;
+
+      for (const id in data.listings) {
+        const unit = data.listings[id];
+        const shape = document.getElementById(id);
+
+        if (shape) {
+          const status = (unit["Unit Status"] || '').toLowerCase();
+         	if (status === "available") shape.classList.add("available");
+         	if (status === "sold") shape.classList.add("sold");
+         	if (status === "reserved") shape.classList.add("reserved");
+			if (status === "close inventory") shape.classList.add("close-inventory");
+
+          shape.addEventListener("click", () => showUnit(id));
+        }
+      }
+    })
+    .catch(err => console.error('Failed to load mf4.json:', err));
+
+  function showUnit(id) {
+    const u = window.units && window.units[id];
+    if (!u) {
+      alert("No data found for " + id);
+      return;
+    }
+
+const status = u["Unit Status"] ?? "N/A";
+const productType = u["Product Type"] ?? "N/A";
+const lot = u["Lot area"] ?? u["Lot Area"] ?? "N/A";
+const floor = u["Floor area"] ?? u["Floor Area"] ?? "N/A";
+const model = u["House Model"] ?? u["House model"] ?? "N/A";
+const houseType = u["House type"] ?? u["House Type"] ?? "N/A";
+const tcp = u["Total Contract Price"] ?? "N/A";
+const dpPercent = u["DP %"] ?? "N/A";
+const dpTerms = u["DP Terms"] ?? "N/A";
+const netSelling = u["Net Selling Price"] ?? "N/A";
+const totalSelling = u["Total Selling Price"] ?? "N/A";
+const promoDiscount = u["Promo Discount Value"] ?? "N/A";
+const lessRepairs = u["Less Repairs Fee"] ?? "N/A";
+const vat12 = u["VAT 12%"] ?? "N/A";
+const lmf10 = u["LMF 10%"] ?? "N/A";
+const totalDpLessReservation = u["Total DP Less Reservation"] ?? "N/A";
+const monthlyEquity = u["Monthly Equity"] ?? "N/A";
+const reservationFee = u["Reservation Fee"] ?? "N/A";
+const loanableBalance = u["Loanable Amount / Balance"] ?? "N/A";
+const estimatedMri = u["Estimated MRI / FI"] ?? "N/A";
+const ma15yrs = u["MA 15yrs (8.5% EIR)"] ?? "N/A";
+const ma20yrs = u["MA 20yrs (8.5% EIR)"] ?? "N/A";
+const displayName = u["Display Name"] ?? id;
+
+	  alert(
+`Unit: ${id} 
+• Status: ${status}  
+• Product Type: ${productType} 
+• Lot Area: ${lot} 
+• Floor Area: ${floor} 
+• House Model: ${model} 
+• House Type: ${houseType} 
+• Total Contract Price: ${tcp} 
+• DP %: ${dpPercent}
+• DP Terms: ${dpTerms} 
+• Net Selling Price: ${netSelling} 
+• Total Selling Price: ${totalSelling} 
+• Promo Discount Value: ${promoDiscount} 
+• Less Repairs Fee: ${lessRepairs} 
+• VAT 12%: ${vat12} 
+• LMF 10%: ${lmf10} 
+• Total DP Less Reservation: ${totalDpLessReservation} 
+• Monthly Equity: ${monthlyEquity} 
+• Reservation Fee: ${reservationFee} 
+• Loanable Amount / Balance: ${loanableBalance} 
+• Estimated MRI / FI: ${estimatedMri} 
+• MA 15yrs (8.5% EIR): ${ma15yrs} 
+• MA 20yrs (8.5% EIR): ${ma20yrs} 
+• Display Name: ${displayName}`
+    );
+  }
+});
+		
+		</script>
+			  
 <switch>
 	<foreignObject requiredExtensions="&ns_ai;" x="0" y="0" width="1" height="1">
 		<i:pgfRef  xlink:href="#adobe_illustrator_pgf">
