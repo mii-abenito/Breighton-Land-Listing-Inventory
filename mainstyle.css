@@ -1,23 +1,26 @@
+/* Global Reset */
 html, body {
   height: 100%;
   margin: 0;
   padding: 0;
+  font-family: 'Titillium Web', sans-serif;
 }
 
+/* Body & Background */
 body {
   background: 
-  linear-gradient(to top, rgba(0, 10, 25, 0.9), rgba(153, 194, 204, 0.6)),
-  url("BLI Fam.jpg");
+    linear-gradient(to top, rgba(0, 10, 25, 0.9), rgba(153, 194, 204, 0.6)),
+    url("BLI Fam.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  background-attachment: fixed; /* keeps gradient full height */
+  background-attachment: fixed;
   color: white;
-  font-family: 'Titillium Web', sans-serif;
   text-align: center;
-  padding: 50px;
+  padding: 50px 20px;
 }
 
+/* Header */
 header {
   margin-bottom: 40px;
 }
@@ -32,6 +35,9 @@ header {
 h1 {
   font-size: 3em;
   margin: 10px 0;
+  font-weight: 700;
+  color: #f7941d;
+  text-shadow: 1px 1px 5px rgba(0,0,0,0.6);
 }
 
 p {
@@ -39,60 +45,105 @@ p {
   margin-bottom: 40px;
 }
 
+/* Button Container Grid */
 .button-container {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 20px;
+  gap: 30px;
+  padding-bottom: 50px;
 }
 
-/* Unified darker button style */
+/* Project Card */
+.project-card {
+  background: rgba(0, 0, 0, 0.6);
+  border-radius: 12px;
+  padding: 25px;
+  min-width: 250px;
+  max-width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.5);
+}
+
+.project-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 25px rgba(0,0,0,0.6);
+}
+
+.project-card h3 {
+  margin-bottom: 15px;
+  font-size: 1.5em;
+  color: #f7941d;
+  font-weight: 700;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+/* Single-button cards */
+.project-card.single {
+  padding: 30px 20px;
+}
+
+/* Phase Buttons inside cards */
+.phase-container {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  width: 100%;
+}
+
+/* Unified Button Style */
 .project-btn,
 .phase-btn {
   background-color: #00335a; /* deep navy */
   border: none;
   color: white;
-  padding: 15px 25px;
+  padding: 12px 20px;
   font-size: 1em;
   cursor: pointer;
   border-radius: 8px;
   transition: background-color 0.3s ease, transform 0.2s ease;
-  box-shadow: 0 4px 6px rgba(0,0,0,0.3); /* subtle depth */
+  box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+  font-family: 'Titillium Web', sans-serif;
+  font-weight: 600;
+  width: 100%;
+}
+
+.phase-btn {
+  padding: 10px 20px;
+  font-size: 0.95em;
+  border-radius: 6px;
 }
 
 .project-btn:hover,
 .phase-btn:hover {
-  background-color: #004a80; /* lighter navy for hover */
-  color: #f7941d; /* orange text color on hover */
-  transform: translateY(-2px); /* lift effect */
+  background-color: #004a80; /* lighter navy */
+  color: #f7941d;
+  transform: translateY(-2px);
 }
 
-/* Phase buttons slightly smaller but consistent */
-.phase-btn {
-  padding: 10px 20px;
-  font-size: 0.9em;
-  border-radius: 6px;
-}
-
-.phase-container {
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-  margin-top: 10px;
-}
-
+/* Disabled Buttons */
 .project-btn.disabled,
 .phase-btn.disabled {
-  background-color: #555;   /* gray background */
-  color: #ccc;              /* lighter text */
-  cursor: not-allowed;      /* show disabled cursor */
-  box-shadow: none;         /* remove shadow */
-  transform: none;          /* no lift effect */
+  background-color: #555;
+  color: #ccc;
+  cursor: not-allowed;
+  box-shadow: none;
+  transform: none;
 }
 
 .project-btn.disabled:hover,
 .phase-btn.disabled:hover {
-  background-color: #555;   /* keep same gray on hover */
+  background-color: #555;
   color: #ccc;
 }
 
+/* Responsive tweaks */
+@media (max-width: 768px) {
+  .project-card {
+    min-width: 200px;
+    max-width: 90%;
+  }
+}
