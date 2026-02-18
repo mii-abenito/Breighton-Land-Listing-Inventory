@@ -128,53 +128,44 @@ window.addEventListener('DOMContentLoaded', () => {
     }
 
 const status = u["Unit Status"] ?? "N/A";
+const phase = u["Phase (Lot Only)"] ?? "N/A";
+const unitId = u["Unit ID"] ?? "N/A";
+const ticketStatus = u["Ticket Status"] ?? "N/A";
 const productType = u["Product Type"] ?? "N/A";
-const lot = u["Lot area"] ?? u["Lot Area"] ?? "N/A";
-const floor = u["Floor area"] ?? u["Floor Area"] ?? "N/A";
-const model = u["House Model"] ?? u["House model"] ?? "N/A";
-const houseType = u["House type"] ?? u["House Type"] ?? "N/A";
-const tcp = u["Total Contract Price"] ?? "N/A";
-const dpPercent = u["DP %"] ?? "N/A";
-const dpTerms = u["DP Terms"] ?? "N/A";
-const netSelling = u["Net Selling Price"] ?? "N/A";
-const totalSelling = u["Total Selling Price"] ?? "N/A";
-const promoDiscount = u["Promo Discount Value"] ?? "N/A";
-const lessRepairs = u["Less Repairs Fee"] ?? "N/A";
-const vat12 = u["VAT 12%"] ?? "N/A";
-const lmf10 = u["LMF 10%"] ?? "N/A";
-const totalDpLessReservation = u["Total DP Less Reservation"] ?? "N/A";
-const monthlyEquity = u["Monthly Equity"] ?? "N/A";
-const reservationFee = u["Reservation Fee"] ?? "N/A";
-const loanableBalance = u["Loanable Amount / Balance"] ?? "N/A";
-const estimatedMri = u["Estimated MRI / FI"] ?? "N/A";
-const ma15yrs = u["MA 15yrs (8.5% EIR)"] ?? "N/A";
-const ma20yrs = u["MA 20yrs (8.5% EIR)"] ?? "N/A";
-const displayName = u["Display Name"] ?? id;
+const lotArea = u["Lot Area (Lot Only)"] ?? "N/A";
+const tcpLotOnly = u["Total Contract Price (Lot Only)"] ?? "N/A";
+const dpTermsLotOnly = u["DP Terms (Lot Only)"] ?? "N/A";
+const totalSellingLotOnly = u["Total Selling Price (Lot Only)"] ?? "N/A";
+const vatLotOnly = u["VAT (12%) (Lot Only)"] ?? "N/A";
+const lmfLotOnly = u["LMF (10%) (Lot Only)"] ?? "N/A";
+const totalDpLessReservationLotOnly = u["Total Downpayment Less Reservation (Lot Only)"] ?? "N/A";
+const monthlyEquityLotOnly = u["Monthly Equity (Lot Only)"] ?? "N/A";
+const reservationFeeLotOnly = u["Reservation Fee (Lot Only)"] ?? "N/A";
+const loanableBalanceLotOnly = u["Loanable Amount (Balance) (Lot Only)"] ?? "N/A";
+const estimatedMriLotOnly = u["Estimated MRI & FI (Lot Only)"] ?? "N/A";
+const ma15yrsLotOnly = u["MA 15yrs (8.5% EIR) (Lot Only)"] ?? "N/A";
+const ma20yrsLotOnly = u["MA 20yrs (8.5% EIR) (Lot Only)"] ?? "N/A";
+const displayName = u["Display Name"] ?? unitId;
 
-	  alert(
-`Unit: ${id} 
-• Status: ${status}  
-• Product Type: ${productType} 
-• Lot Area: ${lot} 
-• Floor Area: ${floor} 
-• House Model: ${model} 
-• House Type: ${houseType} 
-• Total Contract Price: ${tcp} 
-• DP %: ${dpPercent}
-• DP Terms: ${dpTerms} 
-• Net Selling Price: ${netSelling} 
-• Total Selling Price: ${totalSelling} 
-• Promo Discount Value: ${promoDiscount} 
-• Less Repairs Fee: ${lessRepairs} 
-• VAT 12%: ${vat12} 
-• LMF 10%: ${lmf10} 
-• Total DP Less Reservation: ${totalDpLessReservation} 
-• Monthly Equity: ${monthlyEquity} 
-• Reservation Fee: ${reservationFee} 
-• Loanable Amount / Balance: ${loanableBalance} 
-• Estimated MRI / FI: ${estimatedMri} 
-• MA 15yrs (8.5% EIR): ${ma15yrs} 
-• MA 20yrs (8.5% EIR): ${ma20yrs} 
+alert(
+`Unit: ${unitId}
+• Status: ${status}
+• Phase (Lot Only): ${phase}
+• Ticket Status: ${ticketStatus}
+• Product Type: ${productType}
+• Lot Area (Lot Only): ${lotArea}
+• Total Contract Price (Lot Only): ${tcpLotOnly}
+• DP Terms (Lot Only): ${dpTermsLotOnly}
+• Total Selling Price (Lot Only): ${totalSellingLotOnly}
+• VAT (12%) (Lot Only): ${vatLotOnly}
+• LMF (10%) (Lot Only): ${lmfLotOnly}
+• Total Downpayment Less Reservation (Lot Only): ${totalDpLessReservationLotOnly}
+• Monthly Equity (Lot Only): ${monthlyEquityLotOnly}
+• Reservation Fee (Lot Only): ${reservationFeeLotOnly}
+• Loanable Amount (Balance) (Lot Only): ${loanableBalanceLotOnly}
+• Estimated MRI & FI (Lot Only): ${estimatedMriLotOnly}
+• MA 15yrs (8.5% EIR) (Lot Only): ${ma15yrsLotOnly}
+• MA 20yrs (8.5% EIR) (Lot Only): ${ma20yrsLotOnly}
 • Display Name: ${displayName}`
     );
   }
@@ -15492,5 +15483,5 @@ Z1/bv7r588tn39i7fXbzzV9e/I0/4S/tv/DLX/7md//0yS/+PydebjE=
 </i:pgf>
 </svg>
   <footer>
-      <p>© 2026 All rights reserved. Designed and developed by <span>Malaya Industries</span></p>
+      <p>© 2026 All rights reserved. Designed and developed by <span> Breighton Land </span> and <span> Malaya Industries</span></p>
   </footer>
