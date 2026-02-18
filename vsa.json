@@ -12,8 +12,8 @@
       "Total Contract Price": ""
     },
     "VSA-SH-4B-75": {
-      "Unit Status": "AVAILABLE",
-      "Ticket Status": "266928989",
+      "Unit Status": "RESERVED",
+      "Ticket Status": "266928990",
       "Product Type": "Pre-selling",
       "Lot Area": "",
       "Floor Area": "",
@@ -162,8 +162,8 @@
       "Total Contract Price": ""
     },
     "VSA-JH-5H-25": {
-      "Unit Status": "CLOSE INVENTORY",
-      "Ticket Status": "266928988",
+      "Unit Status": "AVAILABLE",
+      "Ticket Status": "266928989",
       "Product Type": "Pre-selling",
       "Lot Area": "",
       "Floor Area": "",
@@ -202,8 +202,8 @@
       "Total Contract Price": ""
     },
     "VSA-PH-6D-42": {
-      "Unit Status": "CLOSE INVENTORY",
-      "Ticket Status": "266928993",
+      "Unit Status": "AVAILABLE",
+      "Ticket Status": "266928989",
       "Product Type": "Pre-selling",
       "Lot Area": "",
       "Floor Area": "",
@@ -632,8 +632,8 @@
       "Total Contract Price": ""
     },
     "VSA-SH-4K-23": {
-      "Unit Status": "CLOSE INVENTORY",
-      "Ticket Status": "266928993",
+      "Unit Status": "AVAILABLE",
+      "Ticket Status": "266928989",
       "Product Type": "Pre-selling",
       "Lot Area": "",
       "Floor Area": "",
@@ -872,8 +872,8 @@
       "Total Contract Price": ""
     },
     "VSA-JH-5C-59": {
-      "Unit Status": "CLOSE INVENTORY",
-      "Ticket Status": "266928988",
+      "Unit Status": "AVAILABLE",
+      "Ticket Status": "266928989",
       "Product Type": "Pre-selling",
       "Lot Area": "",
       "Floor Area": "",
@@ -992,8 +992,8 @@
       "Total Contract Price": ""
     },
     "VSA-JH-5C-60": {
-      "Unit Status": "CLOSE INVENTORY",
-      "Ticket Status": "266928988",
+      "Unit Status": "AVAILABLE",
+      "Ticket Status": "266928989",
       "Product Type": "Pre-selling",
       "Lot Area": "",
       "Floor Area": "",
@@ -1143,5 +1143,5 @@
     }
   },
   "count": 114,
-  "last_updated": "2026-02-11T04:51:51.003Z"
+  "last_updated": "2026-02-18T00:42:44.933Z"
 }
