@@ -1,3 +1,8 @@
+
+/* Import Titillium Web */
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@400;600;700&display=swap');
+
+
 .st0 {
   fill: #3498db;
   stroke: #dbd7d9;
@@ -10,10 +15,12 @@
   stroke: #424542;
   cursor: pointer;
 }
-/*#FFE3A9
-#212121*/
+/*#FFE3A9#D1D3D4
+#212121
   	.st0{fill:#ffe3a9;}
-	.st1{fill:#11477C;}
+	.st1{fill:#11477C;}*/
+	.st0{fill:#D1D3D4;}
+	.st1{fill:#fff1de;}
 	.st2{fill:#ED1C24;}
 	.st3{fill:#00A14B;}
 	.st4{fill:#FFFFFF;}
@@ -97,10 +104,6 @@
 	.st82{font-family:'Helvetica';}
 	.st83{font-size:15.1156px;}
 
-
-
-/* Import Titillium Web */
-@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@400;600;700&display=swap');
 
 * {
   margin: 0;
