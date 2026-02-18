@@ -1,11 +1,11 @@
-.st0 {
+.st1 {
   fill: #3498db;
   stroke: #dbd7d9;
   stroke-width: 0.5;
   transition: all 0.3s ease;
 }
 
-.st0:hover {
+.st1:hover {
   fill: #424542;
   stroke: #424542;
   cursor: pointer;
