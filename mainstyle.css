@@ -107,7 +107,7 @@ p {
   transition: background-color 0.3s ease, transform 0.2s ease;
   box-shadow: 0 4px 6px rgba(0,0,0,0.3);
   font-family: 'Titillium Web', sans-serif;
-  font-weight: 600;
+  font-weight: 400;
   width: 100%;
 }
 
