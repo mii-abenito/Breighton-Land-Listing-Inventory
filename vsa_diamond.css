@@ -226,3 +226,33 @@ body {
 	.st30{font-size:36px;}
 	.st31{fill:#27AAE1;}
 	.st32{font-size:7.468px;}
+
+
+/* Footer styling */
+footer {
+    background: linear-gradient(90deg, #1e1e1e, #333);
+    color: #00335a;
+    font-family: 'Titillium Web', sans-serif;
+    text-align: center;
+    padding: 25px 10px;
+    box-shadow: 0 -2px 5px rgba(0,0,0,0.3);
+}
+
+/* Paragraph styling inside footer */
+footer p {
+    margin: 0;
+    font-weight: 600;
+}
+
+/* Highlight company name */
+footer span {
+    color: #ffd700; /* gold */
+    font-weight: 700;
+}
+
+/* Optional: hover effect on company name */
+footer span:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
