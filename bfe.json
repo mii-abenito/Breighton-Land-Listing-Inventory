@@ -2977,8 +2977,8 @@
       "MA 20yrs (8.5% EIR)": ""
     },
     "BF2-0207": {
-      "Unit Status": "RESERVED",
-      "Ticket Status": "266928990",
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
       "Product Type": "Pre-selling",
       "Lot Area": "140 sqm",
       "Floor Area": "110 sqm",
@@ -6778,5 +6778,5 @@
     }
   },
   "count": 271,
-  "last_updated": "2026-02-18T00:51:31.354Z"
+  "last_updated": "2026-02-18T09:53:25.015Z"
 }
