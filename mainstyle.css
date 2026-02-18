@@ -80,3 +80,19 @@ p {
   gap: 10px;
   margin-top: 10px;
 }
+
+.project-btn.disabled,
+.phase-btn.disabled {
+  background-color: #555;   /* gray background */
+  color: #ccc;              /* lighter text */
+  cursor: not-allowed;      /* show disabled cursor */
+  box-shadow: none;         /* remove shadow */
+  transform: none;          /* no lift effect */
+}
+
+.project-btn.disabled:hover,
+.phase-btn.disabled:hover {
+  background-color: #555;   /* keep same gray on hover */
+  color: #ccc;
+}
+
