@@ -3,29 +3,90 @@
 <head>
   <meta charset="UTF-8">
   <title>Bellefort Estate - Phase 01</title>
-  <link rel="stylesheet" href="bfe_phase01.css">
-
-  <!-- Favicon / Tab Logo -->
-  <link rel="icon" href="BLI Logo.png" type="image/png">
+	<link rel="icon" href="BLI Logo.png" type="image/png">
+	<link rel="stylesheet" href="bfe_phase01.css">
 </head>
-
 	
 
   <div class="nav-container">
     <button class="home-btn" onclick="window.location.href='index.html'">🏠 Homepage</button>
   </div>
-
-  <div class="title">
-    <h1>Bellefort Estate - Phase 01</h1> 
-    <h2>Breighton Land Inc.</h2>
+	
+  <div class="title-section">
+    <div class="overlay"></div>
+    <div class="content">
+      <div class="title">
+        <h1>Bellefort Estate - Phase 01</h1>
+        <h2>Breighton Land Inc.</h2>
+      </div>
+    </div>
   </div>
- <div class="title" style="text-align:left;">
-				<h3>🟢 Available			</h3>
-				<h3>🔴 Sold				</h3>
-				<h3>🟡 Reserved			</h3>
-	 			<h3>⚪ Closed Inventory	</h3>
+
+<div class="legend-wrapper">
+  <!-- Left QR (Seller) -->
+  <div class="qr-box">
+    <h4>Site Tripping - Seller Appointment</h4>
+    <a href="https://share-na2.hsforms.com/15EQLiuQgQzWhEVtafg3GkQbnnpx" target="_blank">
+      <img src="STA Form - Seller.png" alt="Seller QR Code">
+    </a>
+  </div>
+
+
+	
+
+  <!-- Legend box -->
+  <div class="legend-box">
+    <h3>Legend</h3>
+    <div class="legend">
+      <div class="legend-item">
+        <svg class="legend-icon" viewBox="0 0 20 20">
+          <polygon points="2,2 18,2 18,18 2,18" class="available" />
+        </svg>
+        <span>Available</span>
+      </div>
+
+      <div class="legend-item">
+        <svg class="legend-icon" viewBox="0 0 20 20">
+          <polygon points="2,2 18,2 18,18 2,18" class="sold" />
+        </svg>
+        <span>Sold</span>
+      </div>
+
+      <div class="legend-item">
+        <svg class="legend-icon" viewBox="0 0 20 20">
+          <polygon points="2,2 18,2 18,18 2,18" class="reserved" />
+        </svg>
+        <span>Reserved</span>
+      </div>
+
+      <div class="legend-item">
+        <svg class="legend-icon" viewBox="0 0 20 20">
+          <polygon points="2,2 18,2 18,18 2,18" class="close-inventory" />
+        </svg>
+        <span>Closed Inventory</span>
+      </div>
+
+      <div class="legend-item">
+        <svg class="legend-icon" viewBox="0 0 20 20">
+          <polygon points="2,2 18,2 18,18 2,18" class="no-inventory" />
+        </svg>
+        <span>No Listing / Inventory</span>
+      </div>
+    </div>
+  </div>
+
+
+
+  <!-- Right QR (Buyer) -->
+  <div class="qr-box">
+    <h4>Site Tripping - Buyer Appointment</h4>
+    <a href="https://share-na2.hsforms.com/1TiMmQEiPSlaf7txHRu2drAbnnpx" target="_blank">
+      <img src="STA Form - Buyer.png" alt="Buyer QR Code">
+    </a>
+  </div>
 </div>
 
+	
 <svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 2448 3168"
 	 style="enable-background:new 0 0 2448 3168;" xml:space="preserve">
@@ -35,7 +96,7 @@
 <script>
 window.addEventListener('DOMContentLoaded', () => {
   fetch('bfe.json')
-    .then(r => r.json())
+.then(r => r.json())
     .then(data => {
       // store only the listings
       window.units = data.listings;
@@ -46,7 +107,7 @@ window.addEventListener('DOMContentLoaded', () => {
 
         if (shape) {
           const status = (unit["Unit Status"] || '').toLowerCase();
-        	if (status === "available") shape.classList.add("available");
+         	if (status === "available") shape.classList.add("available");
          	if (status === "sold") shape.classList.add("sold");
          	if (status === "reserved") shape.classList.add("reserved");
 			if (status === "close inventory") shape.classList.add("close-inventory");
@@ -55,7 +116,7 @@ window.addEventListener('DOMContentLoaded', () => {
         }
       }
     })
-    .catch(err => console.error('Failed to load bfe.json:', err));
+    .catch(err => console.error('Failed to load mf4.json:', err));
 
   function showUnit(id) {
     const u = window.units && window.units[id];
@@ -64,16 +125,31 @@ window.addEventListener('DOMContentLoaded', () => {
       return;
     }
 
-    const status = u["Unit Status"] ?? "N/A";
-    const productType = u["Product Type"] ?? "N/A";
-    const lot = u["Lot area"] ?? u["Lot Area"] ?? "N/A";
-    const floor = u["Floor area"] ?? u["Floor Area"] ?? "N/A";
-    const model = u["House Model"] ?? u["House model"] ?? "N/A";
-    const houseType = u["House type"] ?? u["House Type"] ?? "N/A";
-    const tcp = u["Total Contract Price"] ?? "N/A";
-    const displayName = u["Display Name"] ?? id;
+const status = u["Unit Status"] ?? "N/A";
+const productType = u["Product Type"] ?? "N/A";
+const lot = u["Lot area"] ?? u["Lot Area"] ?? "N/A";
+const floor = u["Floor area"] ?? u["Floor Area"] ?? "N/A";
+const model = u["House Model"] ?? u["House model"] ?? "N/A";
+const houseType = u["House type"] ?? u["House Type"] ?? "N/A";
+const tcp = u["Total Contract Price"] ?? "N/A";
+const dpPercent = u["DP %"] ?? "N/A";
+const dpTerms = u["DP Terms"] ?? "N/A";
+const netSelling = u["Net Selling Price"] ?? "N/A";
+const totalSelling = u["Total Selling Price"] ?? "N/A";
+const promoDiscount = u["Promo Discount Value"] ?? "N/A";
+const lessRepairs = u["Less Repairs Fee"] ?? "N/A";
+const vat12 = u["VAT 12%"] ?? "N/A";
+const lmf10 = u["LMF 10%"] ?? "N/A";
+const totalDpLessReservation = u["Total DP Less Reservation"] ?? "N/A";
+const monthlyEquity = u["Monthly Equity"] ?? "N/A";
+const reservationFee = u["Reservation Fee"] ?? "N/A";
+const loanableBalance = u["Loanable Amount / Balance"] ?? "N/A";
+const estimatedMri = u["Estimated MRI / FI"] ?? "N/A";
+const ma15yrs = u["MA 15yrs (8.5% EIR)"] ?? "N/A";
+const ma20yrs = u["MA 20yrs (8.5% EIR)"] ?? "N/A";
+const displayName = u["Display Name"] ?? id;
 
-    alert(
+	  alert(
 `Unit: ${id} 
 • Status: ${status}  
 • Product Type: ${productType} 
@@ -81,10 +157,28 @@ window.addEventListener('DOMContentLoaded', () => {
 • Floor Area: ${floor} 
 • House Model: ${model} 
 • House Type: ${houseType} 
-• Total Contract Price: ${tcp}` 
+• Total Contract Price: ${tcp} 
+• DP %: ${dpPercent}
+• DP Terms: ${dpTerms} 
+• Net Selling Price: ${netSelling} 
+• Total Selling Price: ${totalSelling} 
+• Promo Discount Value: ${promoDiscount} 
+• Less Repairs Fee: ${lessRepairs} 
+• VAT 12%: ${vat12} 
+• LMF 10%: ${lmf10} 
+• Total DP Less Reservation: ${totalDpLessReservation} 
+• Monthly Equity: ${monthlyEquity} 
+• Reservation Fee: ${reservationFee} 
+• Loanable Amount / Balance: ${loanableBalance} 
+• Estimated MRI / FI: ${estimatedMri} 
+• MA 15yrs (8.5% EIR): ${ma15yrs} 
+• MA 20yrs (8.5% EIR): ${ma20yrs} 
+• Display Name: ${displayName}`
     );
   }
 });
+
+			
 		</script>
 	
 					<polygon class="st0" points="380.8,424.1 559.9,396.8 578.9,422.8 568.2,435.1 556.7,798.1 608.2,799.7 606.3,844.9 555.3,843.3 
