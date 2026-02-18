@@ -179,6 +179,20 @@ body {
   height: 20px;
 }
 
+.st0 {
+  fill: #3498db;
+  stroke: #dbd7d9;
+  stroke-width: 0.5;
+  transition: all 0.3s ease;
+}
+
+.st0:hover {
+  fill: #424542;
+  stroke: #424542;
+  cursor: pointer;
+}
+
+
 	.st0{fill:#D1D3D4;}
 	.st1{fill:#FFE3A9;}
 	.st2{fill:#11477C;}
