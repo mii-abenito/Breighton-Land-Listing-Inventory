@@ -230,8 +230,8 @@ body {
 
 /* Footer styling */
 footer {
-    background: linear-gradient(90deg, #1e1e1e, #333);
-    color: #00335a;
+    background: linear-gradient(90deg, #001f33, #00335a, #005080);
+    color: #f0f0f0;
     font-family: 'Titillium Web', sans-serif;
     text-align: center;
     padding: 25px 10px;
