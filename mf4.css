@@ -33,7 +33,6 @@ body {
   margin: 0;
 }
 
-
 }
 .title h3 {
   font-size: 9px;
@@ -88,7 +87,7 @@ body {
   position: relative;
   background-image: url('MF4 BG.jpeg');
   background-size: cover;
-  background-position: bottom;
+  background-position: center;
   height: 200px;
   display: flex;
   align-items: center;
