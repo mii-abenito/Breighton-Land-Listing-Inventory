@@ -2402,8 +2402,8 @@
       "MA 20yrs (8.5% EIR)": ""
     },
     "CE13-01125": {
-      "Unit Status": "RESERVED",
-      "Ticket Status": "266928990",
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
       "Product Type": "Pre-selling",
       "Lot Area": "108 sqm",
       "Floor Area": "104 sqm",
@@ -5378,5 +5378,5 @@
     }
   },
   "count": 215,
-  "last_updated": "2026-02-18T16:37:05.504Z"
+  "last_updated": "2026-02-20T01:00:25.369Z"
 }
