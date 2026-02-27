@@ -202,8 +202,8 @@
       "MA 20yrs (8.5% EIR)": "PHP 105 217.70"
     },
     "BF1-0113": {
-      "Unit Status": "RESERVED",
-      "Ticket Status": "266928990",
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
       "Product Type": "Pre-selling",
       "Lot Area": "165.5 sqm",
       "Floor Area": "110 sqm",
@@ -827,8 +827,8 @@
       "MA 20yrs (8.5% EIR)": ""
     },
     "BF1-0465": {
-      "Unit Status": "AVAILABLE",
-      "Ticket Status": "266928989",
+      "Unit Status": "RESERVED",
+      "Ticket Status": "266928990",
       "Product Type": "Pre-selling",
       "Lot Area": "110 sqm",
       "Floor Area": "85 sqm",
@@ -1052,8 +1052,8 @@
       "MA 20yrs (8.5% EIR)": "PHP 90 860.31"
     },
     "BF1-0608": {
-      "Unit Status": "AVAILABLE",
-      "Ticket Status": "266928989",
+      "Unit Status": "RESERVED",
+      "Ticket Status": "266928990",
       "Product Type": "RFO",
       "Lot Area": "140 sqm",
       "Floor Area": "110 sqm",
@@ -1152,8 +1152,8 @@
       "MA 20yrs (8.5% EIR)": ""
     },
     "BF2-0219": {
-      "Unit Status": "AVAILABLE",
-      "Ticket Status": "266928989",
+      "Unit Status": "RESERVED",
+      "Ticket Status": "266928990",
       "Product Type": "Pre-selling",
       "Lot Area": "120 sqm",
       "Floor Area": "120 sqm",
@@ -1952,8 +1952,8 @@
       "MA 20yrs (8.5% EIR)": "PHP 77 257.03"
     },
     "BF1-1526": {
-      "Unit Status": "RESERVED",
-      "Ticket Status": "266928990",
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
       "Product Type": "Pre-selling",
       "Lot Area": "189 sqm",
       "Floor Area": "110 sqm",
@@ -6052,8 +6052,8 @@
       "MA 20yrs (8.5% EIR)": "PHP 62 081.86"
     },
     "BF1-0117": {
-      "Unit Status": "AVAILABLE",
-      "Ticket Status": "266928989",
+      "Unit Status": "RESERVED",
+      "Ticket Status": "266928990",
       "Product Type": "Pre-selling",
       "Lot Area": "165.5 sqm",
       "Floor Area": "110 sqm",
@@ -6778,5 +6778,5 @@
     }
   },
   "count": 271,
-  "last_updated": "2026-02-20T01:00:20.144Z"
+  "last_updated": "2026-02-27T01:00:20.221Z"
 }
