@@ -3252,29 +3252,29 @@
       "MA 20yrs (8.5% EIR)": "PHP 90 860.31"
     },
     "BF1-0415": {
-      "Unit Status": "CLOSE INVENTORY",
-      "Ticket Status": "266928993",
+      "Unit Status": "AVAILABLE",
+      "Ticket Status": "266928989",
       "Product Type": "RFO",
-      "Lot Area": "",
-      "Floor Area": "",
+      "Lot Area": "180.5 sqm",
+      "Floor Area": "110 sqm",
       "House Model": "VIVIENNE",
       "House Type": "Single Detached",
-      "DP %": "",
+      "DP %": "10%",
       "DP Terms": "",
-      "Net Selling Price": "",
-      "Total Selling Price": "",
-      "Promo Discount Value": "",
+      "Net Selling Price": "PHP 9 593 685.00",
+      "Total Selling Price": "PHP 10 659 650.00",
+      "Promo Discount Value": "PHP 1 065 965.00",
       "Less Repairs Fee": "",
-      "VAT 12%": "",
-      "LMF 10%": "",
-      "Total DP Less Reservation": "",
-      "Monthly Equity": "",
-      "Reservation Fee": "",
-      "Loanable Amount / Balance": "",
-      "Total Contract Price": "",
-      "Estimated MRI / FI": "",
-      "MA 15yrs (8.5% EIR)": "",
-      "MA 20yrs (8.5% EIR)": ""
+      "VAT 12%": "PHP 1 151 242.20",
+      "LMF 10%": "PHP 959 368.50",
+      "Total DP Less Reservation": "PHP 1 130 429.57",
+      "Monthly Equity": "PHP 75 361.97",
+      "Reservation Fee": "PHP 40 000.00",
+      "Loanable Amount / Balance": "PHP 10 533 866.13",
+      "Total Contract Price": "PHP 11 704 295.70",
+      "Estimated MRI / FI": "PHP 4 213.55",
+      "MA 15yrs (8.5% EIR)": "PHP 103 731.15",
+      "MA 20yrs (8.5% EIR)": "PHP 91 415.34"
     },
     "BF1-0456": {
       "Unit Status": "CLOSE INVENTORY",
@@ -6577,8 +6577,8 @@
       "MA 20yrs (8.5% EIR)": ""
     },
     "BF1-0466": {
-      "Unit Status": "AVAILABLE",
-      "Ticket Status": "266928989",
+      "Unit Status": "RESERVED",
+      "Ticket Status": "266928990",
       "Product Type": "Pre-selling",
       "Lot Area": "135 sqm",
       "Floor Area": "85 sqm",
@@ -6778,5 +6778,5 @@
     }
   },
   "count": 271,
-  "last_updated": "2026-02-27T01:00:20.221Z"
+  "last_updated": "2026-03-06T01:00:23.889Z"
 }
