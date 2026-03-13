@@ -432,7 +432,7 @@
       "Product Type": "Pre-selling",
       "Lot Area": "123 sqm",
       "Floor Area": "",
-      "House Model": null,
+      "House Model": "Oakwood",
       "House Type": null,
       "DP %": "15%",
       "DP Terms": "15",
@@ -977,8 +977,8 @@
       "MA 20yrs (8.5% EIR)": "PHP 43 866.56"
     },
     "CE13-01145": {
-      "Unit Status": "AVAILABLE",
-      "Ticket Status": "266928989",
+      "Unit Status": "RESERVED",
+      "Ticket Status": "266928990",
       "Product Type": "Pre-selling",
       "Lot Area": "93 sqm",
       "Floor Area": "104 sqm",
@@ -5378,5 +5378,5 @@
     }
   },
   "count": 215,
-  "last_updated": "2026-03-06T01:00:29.138Z"
+  "last_updated": "2026-03-13T01:00:30.399Z"
 }
