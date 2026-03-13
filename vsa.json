@@ -342,24 +342,24 @@
       "MA 20yrs (8.5% EIR) (Lot Only)": "PHP 98 317.65"
     },
     "VSA-SH-4G-7": {
-      "Unit Status": "CLOSE INVENTORY",
-      "Phase (Lot Only)": "",
+      "Unit Status": "RESERVED",
+      "Phase (Lot Only)": "Sapphire",
       "Unit ID": "VSA-SH-4G-7",
-      "Ticket Status": "266928993",
+      "Ticket Status": "266928990",
       "Product Type": "Pre-selling",
       "Lot Area (Lot Only)": "",
-      "Total Contract Price (Lot Only)": "",
-      "DP Terms (Lot Only)": "",
-      "Total Selling Price (Lot Only)": "",
-      "VAT (12%) (Lot Only)": "",
-      "LMF (10%) (Lot Only)": "",
-      "Total Downpayment Less Reservation (Lot Only)": "",
-      "Monthly Equity (Lot Only)": "",
-      "Reservation Fee (Lot Only)": "",
-      "Loanable Amount (Balance) (Lot Only)": "",
-      "Estimated MRI & FI (Lot Only)": "",
-      "MA 15yrs (8.5% EIR) (Lot Only)": "",
-      "MA 20yrs (8.5% EIR) (Lot Only)": ""
+      "Total Contract Price (Lot Only)": "PHP 10 994 640.00",
+      "DP Terms (Lot Only)": "12",
+      "Total Selling Price (Lot Only)": "PHP 9 012 000.00",
+      "VAT (12%) (Lot Only)": "PHP 1 081 440.00",
+      "LMF (10%) (Lot Only)": "PHP 901 200.00",
+      "Total Downpayment Less Reservation (Lot Only)": "PHP 1 609 196.00",
+      "Monthly Equity (Lot Only)": "PHP 91 674.17",
+      "Reservation Fee (Lot Only)": "PHP 40 000.00",
+      "Loanable Amount (Balance) (Lot Only)": "PHP 6 460 510.00",
+      "Estimated MRI & FI (Lot Only)": "PHP 2 584.20",
+      "MA 15yrs (8.5% EIR) (Lot Only)": "PHP 63 619.20",
+      "MA 20yrs (8.5% EIR) (Lot Only)": "PHP 56 065.81"
     },
     "VSA-PH-6C-35": {
       "Unit Status": "AVAILABLE",
@@ -2283,5 +2283,5 @@
     }
   },
   "count": 114,
-  "last_updated": "2026-03-06T01:00:26.456Z"
+  "last_updated": "2026-03-13T01:00:28.538Z"
 }
