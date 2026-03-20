@@ -2527,15 +2527,15 @@
       "MA 20yrs (8.5% EIR)": "PHP 62 081.86"
     },
     "BF1-1228": {
-      "Unit Status": "CLOSE INVENTORY",
-      "Ticket Status": "266928993",
+      "Unit Status": "AVAILABLE",
+      "Ticket Status": "266928989",
       "Product Type": "RFO",
       "Lot Area": "171 sqm",
       "Floor Area": "85 sqm",
       "House Model": "SABINE",
       "House Type": "Single Attached",
       "DP %": "10%",
-      "DP Terms": "15",
+      "DP Terms": "12",
       "Net Selling Price": "PHP 8 419 208.00",
       "Total Selling Price": "PHP 9 354 675.00",
       "Promo Discount Value": "PHP 935 467.50",
@@ -2543,7 +2543,7 @@
       "VAT 12%": "PHP 1 010 305.00",
       "LMF 10%": "PHP 841 920.80",
       "Total DP Less Reservation": "PHP 987 143.32",
-      "Monthly Equity": "PHP 65 809.55",
+      "Monthly Equity": "PHP 82 261.94",
       "Reservation Fee": "PHP 40 000.00",
       "Loanable Amount / Balance": "PHP 9 244 290.00",
       "Total Contract Price": "PHP 10 271 433.00",
@@ -6778,5 +6778,5 @@
     }
   },
   "count": 271,
-  "last_updated": "2026-03-13T01:00:26.456Z"
+  "last_updated": "2026-03-20T01:00:27.235Z"
 }
