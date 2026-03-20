@@ -1342,10 +1342,10 @@
       "MA 20yrs (8.5% EIR) (Lot Only)": "PHP 61 465.40"
     },
     "VSA-PH-6F-7": {
-      "Unit Status": "AVAILABLE",
+      "Unit Status": "RESERVED",
       "Phase (Lot Only)": "PEARL HEIGHTS",
       "Unit ID": "VSA-PH-6F-7",
-      "Ticket Status": "266928989",
+      "Ticket Status": "266928990",
       "Product Type": "Pre-selling",
       "Lot Area (Lot Only)": "234 sqm",
       "Total Contract Price (Lot Only)": "PHP 7 234 600.00",
@@ -2283,5 +2283,5 @@
     }
   },
   "count": 114,
-  "last_updated": "2026-03-13T01:00:28.538Z"
+  "last_updated": "2026-03-20T01:00:29.519Z"
 }
