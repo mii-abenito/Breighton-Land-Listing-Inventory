@@ -1477,8 +1477,8 @@
       "MA 20yrs (8.5% EIR)": ""
     },
     "MF4-0705": {
-      "Unit Status": "SOLD",
-      "Ticket Status": "266928991",
+      "Unit Status": "CLOSE INVENTORY",
+      "Ticket Status": "266928993",
       "Product Type": "Pre-selling",
       "Lot Area": "100 sqm",
       "Floor Area": "80 sqm",
@@ -2528,5 +2528,5 @@
     }
   },
   "count": 101,
-  "last_updated": "2026-03-20T01:00:23.860Z"
+  "last_updated": "2026-03-27T01:00:55.810Z"
 }
