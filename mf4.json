@@ -2027,8 +2027,8 @@
       "MA 20yrs (8.5% EIR)": "PHP 43 321.88"
     },
     "Mf4-0114": {
-      "Unit Status": "AVAILABLE",
-      "Ticket Status": "266928989",
+      "Unit Status": "RESERVED",
+      "Ticket Status": "266928990",
       "Product Type": "Pre-selling",
       "Lot Area": "115 sqm",
       "Floor Area": "80 sqm",
@@ -2277,8 +2277,8 @@
       "MA 20yrs (8.5% EIR)": "PHP 62 870.19"
     },
     "MF4-0303": {
-      "Unit Status": "AVAILABLE",
-      "Ticket Status": "266928989",
+      "Unit Status": "RESERVED",
+      "Ticket Status": "266928990",
       "Product Type": "Pre-selling",
       "Lot Area": "100 sqm",
       "Floor Area": "80 sqm",
@@ -2528,5 +2528,5 @@
     }
   },
   "count": 101,
-  "last_updated": "2026-03-27T01:00:55.810Z"
+  "last_updated": "2026-04-03T01:00:56.179Z"
 }
