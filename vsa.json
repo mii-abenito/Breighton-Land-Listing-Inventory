@@ -22,10 +22,10 @@
       "MA 20yrs (8.5% EIR) (Lot Only)": ""
     },
     "VSA-SH-4B-75": {
-      "Unit Status": "AVAILABLE",
+      "Unit Status": "CLOSE INVENTORY",
       "Phase (Lot Only)": "Sapphire",
       "Unit ID": "VSA-SH-4B-75",
-      "Ticket Status": "266928989",
+      "Ticket Status": "266928988",
       "Product Type": "Pre-selling",
       "Lot Area (Lot Only)": "489 sqm",
       "Total Contract Price (Lot Only)": "PHP 23 985 200.00",
@@ -1502,10 +1502,10 @@
       "MA 20yrs (8.5% EIR) (Lot Only)": "PHP 61 195.42"
     },
     "VSA-SH-4M-35": {
-      "Unit Status": "SOLD",
+      "Unit Status": "CLOSE INVENTORY",
       "Phase (Lot Only)": "",
       "Unit ID": "VSA-SH-4M-35",
-      "Ticket Status": "266928991",
+      "Ticket Status": "266928993",
       "Product Type": "Pre-selling",
       "Lot Area (Lot Only)": "",
       "Total Contract Price (Lot Only)": "",
@@ -2523,5 +2523,5 @@
     }
   },
   "count": 126,
-  "last_updated": "2026-03-27T01:00:59.738Z"
+  "last_updated": "2026-04-03T01:01:01.801Z"
 }
