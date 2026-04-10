@@ -577,8 +577,8 @@
       "MA 20yrs (8.5% EIR)": "PHP 57 292.23"
     },
     "MF4-0415": {
-      "Unit Status": "AVAILABLE",
-      "Ticket Status": "266928989",
+      "Unit Status": "RESERVED",
+      "Ticket Status": "266928990",
       "Product Type": "Pre-selling",
       "Lot Area": "107 sqm",
       "Floor Area": "80 sqm",
@@ -1477,29 +1477,29 @@
       "MA 20yrs (8.5% EIR)": ""
     },
     "MF4-0705": {
-      "Unit Status": "CLOSE INVENTORY",
-      "Ticket Status": "266928993",
+      "Unit Status": "AVAILABLE",
+      "Ticket Status": "266928989",
       "Product Type": "Pre-selling",
       "Lot Area": "100 sqm",
       "Floor Area": "80 sqm",
       "House Model": "ARIANA",
       "House Type": "Single Attached",
-      "DP %": "",
-      "DP Terms": "",
-      "Net Selling Price": "",
-      "Total Selling Price": "",
-      "Promo Discount Value": "",
+      "DP %": "10%",
+      "DP Terms": "10",
+      "Net Selling Price": "PHP 6 669 642.50",
+      "Total Selling Price": "PHP 7 579 139.20",
+      "Promo Discount Value": "PHP 909 496.70",
       "Less Repairs Fee": "",
-      "VAT 12%": "",
-      "LMF 10%": "",
-      "Total DP Less Reservation": "",
-      "Monthly Equity": "",
-      "Reservation Fee": "",
-      "Loanable Amount / Balance": "",
-      "Total Contract Price": "",
-      "Estimated MRI / FI": "",
-      "MA 15yrs (8.5% EIR)": "",
-      "MA 20yrs (8.5% EIR)": ""
+      "VAT 12%": "PHP 800 357.10",
+      "LMF 10%": "PHP 666 964.25",
+      "Total DP Less Reservation": "PHP 7 323 267.46",
+      "Monthly Equity": "PHP 77 369.64",
+      "Reservation Fee": "PHP 40 000.00",
+      "Loanable Amount / Balance": "PHP 773 696.38",
+      "Total Contract Price": "PHP 8 136 963.85",
+      "Estimated MRI / FI": "PHP 2 929.31",
+      "MA 15yrs (8.5% EIR)": "PHP 72 115.11",
+      "MA 20yrs (8.5% EIR)": "PHP 63 553.02"
     },
     "MF4-0613": {
       "Unit Status": "SOLD",
@@ -1927,8 +1927,8 @@
       "MA 20yrs (8.5% EIR)": "PHP 53 406.43"
     },
     "MF4-0615": {
-      "Unit Status": "AVAILABLE",
-      "Ticket Status": "266928989",
+      "Unit Status": "RESERVED",
+      "Ticket Status": "266928990",
       "Product Type": "Pre-selling",
       "Lot Area": "100 sqm",
       "Floor Area": "80 sqm",
@@ -2528,5 +2528,5 @@
     }
   },
   "count": 101,
-  "last_updated": "2026-04-03T01:00:56.179Z"
+  "last_updated": "2026-04-10T01:00:57.619Z"
 }
