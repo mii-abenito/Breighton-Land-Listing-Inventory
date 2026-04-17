@@ -977,8 +977,8 @@
       "MA 20yrs (8.5% EIR)": "PHP 43 866.56"
     },
     "CE13-01145": {
-      "Unit Status": "RESERVED",
-      "Ticket Status": "266928990",
+      "Unit Status": "AVAILABLE",
+      "Ticket Status": "266928989",
       "Product Type": "Pre-selling",
       "Lot Area": "93 sqm",
       "Floor Area": "104 sqm",
@@ -3602,8 +3602,8 @@
       "MA 20yrs (8.5% EIR)": "PHP 46 778.05"
     },
     "CV3-1662_63": {
-      "Unit Status": "SOLD",
-      "Ticket Status": "266928991",
+      "Unit Status": "CLOSE INVENTORY",
+      "Ticket Status": "266928993",
       "Product Type": "RFO",
       "Lot Area": "122 sqm",
       "Floor Area": "104 sqm",
@@ -5378,5 +5378,5 @@
     }
   },
   "count": 215,
-  "last_updated": "2026-04-10T01:01:03.445Z"
+  "last_updated": "2026-04-17T01:01:06.022Z"
 }
