@@ -1305,7 +1305,7 @@
       "Unit Status": "SOLD",
       "Ticket Status": "266928991",
       "Product Type": "Pre-selling",
-      "Lot Area": "100 sqm",
+      "Lot Area": "104 sqm",
       "Floor Area": "80 sqm",
       "House Model": "ARIANA",
       "House Type": "Single Attached",
@@ -2528,5 +2528,5 @@
     }
   },
   "count": 101,
-  "last_updated": "2026-05-01T01:00:30.786Z"
+  "last_updated": "2026-05-08T01:00:30.575Z"
 }
