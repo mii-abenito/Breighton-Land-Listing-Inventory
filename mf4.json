@@ -727,8 +727,8 @@
       "MA 20yrs (8.5% EIR)": ""
     },
     "MF4-0315": {
-      "Unit Status": "SOLD",
-      "Ticket Status": "266928991",
+      "Unit Status": "CLOSE INVENTORY",
+      "Ticket Status": "266928993",
       "Product Type": "Pre-selling",
       "Lot Area": "158 sqm",
       "Floor Area": "80 sqm",
@@ -1427,8 +1427,8 @@
       "MA 20yrs (8.5% EIR)": "PHP 48 051.33"
     },
     "MF4-0414": {
-      "Unit Status": "AVAILABLE",
-      "Ticket Status": "266928989",
+      "Unit Status": "CLOSE INVENTORY",
+      "Ticket Status": "266928993",
       "Product Type": "Pre-selling",
       "Lot Area": "107 sqm",
       "Floor Area": "80 sqm",
@@ -1927,8 +1927,8 @@
       "MA 20yrs (8.5% EIR)": "PHP 53 406.43"
     },
     "MF4-0615": {
-      "Unit Status": "AVAILABLE",
-      "Ticket Status": "266928989",
+      "Unit Status": "CLOSE INVENTORY",
+      "Ticket Status": "266928993",
       "Product Type": "Pre-selling",
       "Lot Area": "100 sqm",
       "Floor Area": "80 sqm",
@@ -2277,8 +2277,8 @@
       "MA 20yrs (8.5% EIR)": "PHP 62 870.19"
     },
     "MF4-0303": {
-      "Unit Status": "AVAILABLE",
-      "Ticket Status": "266928989",
+      "Unit Status": "CLOSE INVENTORY",
+      "Ticket Status": "266928993",
       "Product Type": "Pre-selling",
       "Lot Area": "100 sqm",
       "Floor Area": "80 sqm",
@@ -2528,5 +2528,5 @@
     }
   },
   "count": 101,
-  "last_updated": "2026-05-08T01:00:30.575Z"
+  "last_updated": "2026-05-15T01:00:37.712Z"
 }
