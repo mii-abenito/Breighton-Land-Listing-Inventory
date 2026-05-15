@@ -52,8 +52,8 @@
       "MA 20yrs (8.5% EIR)": "PHP 40 979.43"
     },
     "CE13-01148": {
-      "Unit Status": "AVAILABLE",
-      "Ticket Status": "266928989",
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
       "Product Type": "Pre-selling",
       "Lot Area": "92 sqm",
       "Floor Area": "104 sqm",
@@ -427,8 +427,8 @@
       "MA 20yrs (8.5% EIR)": "PHP 52 458.00"
     },
     "CV3-1101_1105": {
-      "Unit Status": "AVAILABLE",
-      "Ticket Status": "266928989",
+      "Unit Status": "CLOSE INVENTORY",
+      "Ticket Status": "266928993",
       "Product Type": "Pre-selling",
       "Lot Area": "123 sqm",
       "Floor Area": "",
@@ -977,8 +977,8 @@
       "MA 20yrs (8.5% EIR)": "PHP 43 866.56"
     },
     "CE13-01145": {
-      "Unit Status": "AVAILABLE",
-      "Ticket Status": "266928989",
+      "Unit Status": "CLOSE INVENTORY",
+      "Ticket Status": "266928993",
       "Product Type": "Pre-selling",
       "Lot Area": "93 sqm",
       "Floor Area": "104 sqm",
@@ -1302,8 +1302,8 @@
       "MA 20yrs (8.5% EIR)": "PHP 52 476.79"
     },
     "CE13-0204": {
-      "Unit Status": "AVAILABLE",
-      "Ticket Status": "266928989",
+      "Unit Status": "CLOSE INVENTORY",
+      "Ticket Status": "266928993",
       "Product Type": "Pre-selling",
       "Lot Area": "100 sqm",
       "Floor Area": "104 sqm",
@@ -1402,8 +1402,8 @@
       "MA 20yrs (8.5% EIR)": "PHP 22 376.84"
     },
     "CE13-01146": {
-      "Unit Status": "RESERVED",
-      "Ticket Status": "266928990",
+      "Unit Status": "CLOSE INVENTORY",
+      "Ticket Status": "266928993",
       "Product Type": "Pre-selling",
       "Lot Area": "93 sqm",
       "Floor Area": "104 sqm",
@@ -1552,8 +1552,8 @@
       "MA 20yrs (8.5% EIR)": "PHP 42 427.20"
     },
     "CE13-0124": {
-      "Unit Status": "AVAILABLE",
-      "Ticket Status": "266928989",
+      "Unit Status": "CLOSE INVENTORY",
+      "Ticket Status": "266928993",
       "Product Type": "Pre-selling",
       "Lot Area": "100 sqm",
       "Floor Area": "104 sqm",
@@ -1852,8 +1852,8 @@
       "MA 20yrs (8.5% EIR)": "PHP 47 320.04"
     },
     "CE13-01140": {
-      "Unit Status": "AVAILABLE",
-      "Ticket Status": "266928989",
+      "Unit Status": "CLOSE INVENTORY",
+      "Ticket Status": "266928993",
       "Product Type": "Build to Sell",
       "Lot Area": "94 sqm",
       "Floor Area": "104 sqm",
@@ -2102,8 +2102,8 @@
       "MA 20yrs (8.5% EIR)": "PHP 17 423.28"
     },
     "CE13-0127": {
-      "Unit Status": "AVAILABLE",
-      "Ticket Status": "266928989",
+      "Unit Status": "CLOSE INVENTORY",
+      "Ticket Status": "266928993",
       "Product Type": "Pre-selling",
       "Lot Area": "100 sqm",
       "Floor Area": "104 sqm",
@@ -2702,8 +2702,8 @@
       "MA 20yrs (8.5% EIR)": "PHP 49 504.22"
     },
     "CE13-0205": {
-      "Unit Status": "AVAILABLE",
-      "Ticket Status": "266928989",
+      "Unit Status": "CLOSE INVENTORY",
+      "Ticket Status": "266928993",
       "Product Type": "Pre-selling",
       "Lot Area": "100 sqm",
       "Floor Area": "104 sqm",
@@ -2777,8 +2777,8 @@
       "MA 20yrs (8.5% EIR)": "PHP 49 840.60"
     },
     "CE13-01122": {
-      "Unit Status": "AVAILABLE",
-      "Ticket Status": "266928989",
+      "Unit Status": "CLOSE INVENTORY",
+      "Ticket Status": "266928993",
       "Product Type": "Pre-selling",
       "Lot Area": "108 sqm",
       "Floor Area": "104 sqm",
@@ -3852,8 +3852,8 @@
       "MA 20yrs (8.5% EIR)": "PHP 44 520.22"
     },
     "CE13-0282": {
-      "Unit Status": "AVAILABLE",
-      "Ticket Status": "266928989",
+      "Unit Status": "CLOSE INVENTORY",
+      "Ticket Status": "266928993",
       "Product Type": "Pre-selling",
       "Lot Area": "100 sqm",
       "Floor Area": "104 sqm",
@@ -4302,8 +4302,8 @@
       "MA 20yrs (8.5% EIR)": "PHP 61 485.17"
     },
     "CE9-2013": {
-      "Unit Status": "AVAILABLE",
-      "Ticket Status": "266928989",
+      "Unit Status": "CLOSE INVENTORY",
+      "Ticket Status": "266928993",
       "Product Type": "RFO",
       "Lot Area": "88 sqm",
       "Floor Area": "104 sqm",
@@ -5378,5 +5378,5 @@
     }
   },
   "count": 215,
-  "last_updated": "2026-05-08T01:00:39.425Z"
+  "last_updated": "2026-05-15T01:00:48.202Z"
 }
