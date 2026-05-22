@@ -703,7 +703,7 @@
     },
     "BF1-0143": {
       "Unit Status": "SOLD",
-      "Ticket Status": "266928991",
+      "Ticket Status": "266928995",
       "Product Type": "Pre-selling",
       "Lot Area": "260 sqm",
       "Floor Area": "110 sqm",
@@ -1882,7 +1882,7 @@
       "Product Type": "Pre-selling",
       "Lot Area": "110 sqm",
       "Floor Area": "",
-      "House Model": null,
+      "House Model": "SABINE",
       "House Type": null,
       "DP %": "15%",
       "DP Terms": "18",
@@ -3457,7 +3457,7 @@
       "Product Type": "Lot Only",
       "Lot Area": "110 sqm",
       "Floor Area": "",
-      "House Model": null,
+      "House Model": "SABINE",
       "House Type": null,
       "DP %": "",
       "DP Terms": "",
@@ -4982,7 +4982,7 @@
       "Product Type": "Pre-selling",
       "Lot Area": "110 sqm",
       "Floor Area": "",
-      "House Model": null,
+      "House Model": "SABINE",
       "House Type": null,
       "DP %": "15%",
       "DP Terms": "24",
@@ -5582,7 +5582,7 @@
       "Product Type": "Pre-selling",
       "Lot Area": "110 sqm",
       "Floor Area": "",
-      "House Model": null,
+      "House Model": "SABINE",
       "House Type": null,
       "DP %": "",
       "DP Terms": "",
@@ -6778,5 +6778,5 @@
     }
   },
   "count": 271,
-  "last_updated": "2026-05-15T01:00:41.144Z"
+  "last_updated": "2026-05-22T01:00:42.103Z"
 }
