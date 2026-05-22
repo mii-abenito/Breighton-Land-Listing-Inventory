@@ -752,8 +752,8 @@
       "MA 20yrs (8.5% EIR)": "PHP 50 478.70"
     },
     "CE9-2409": {
-      "Unit Status": "SOLD",
-      "Ticket Status": "266928991",
+      "Unit Status": "CLOSE INVENTORY",
+      "Ticket Status": "266928993",
       "Product Type": "Lot Only",
       "Lot Area": "167 sqm",
       "Floor Area": "0 sqm",
@@ -1652,8 +1652,8 @@
       "MA 20yrs (8.5% EIR)": "PHP 47 052.57"
     },
     "CE13-01126": {
-      "Unit Status": "SOLD",
-      "Ticket Status": "266928991",
+      "Unit Status": "CLOSE INVENTORY",
+      "Ticket Status": "266928993",
       "Product Type": "Pre-selling",
       "Lot Area": "107 sqm",
       "Floor Area": "104 sqm",
@@ -2082,7 +2082,7 @@
       "Product Type": "Lot Only",
       "Lot Area": "97 sqm",
       "Floor Area": "",
-      "House Model": null,
+      "House Model": "LOT ONLY",
       "House Type": null,
       "DP %": "10%",
       "DP Terms": "15",
@@ -3732,7 +3732,7 @@
       "Product Type": "Build to Sell",
       "Lot Area": "107 sqm",
       "Floor Area": "",
-      "House Model": null,
+      "House Model": "OAKWOOD",
       "House Type": null,
       "DP %": "15%",
       "DP Terms": "15",
@@ -3932,7 +3932,7 @@
       "Product Type": "Lot Only",
       "Lot Area": "80 sqm",
       "Floor Area": "",
-      "House Model": null,
+      "House Model": "LOT ONLY",
       "House Type": null,
       "DP %": "15%",
       "DP Terms": "24",
@@ -4882,7 +4882,7 @@
       "Product Type": "RFO",
       "Lot Area": "",
       "Floor Area": "",
-      "House Model": null,
+      "House Model": "PINES",
       "House Type": null,
       "DP %": "",
       "DP Terms": "",
@@ -5327,8 +5327,8 @@
       "MA 20yrs (8.5% EIR)": "PHP 59 146.06"
     },
     "CE9-2408": {
-      "Unit Status": "SOLD",
-      "Ticket Status": "266928991",
+      "Unit Status": "CLOSE INVENTORY",
+      "Ticket Status": "266928993",
       "Product Type": "Lot Only",
       "Lot Area": "121 sqm",
       "Floor Area": "0 sqm",
@@ -5378,5 +5378,5 @@
     }
   },
   "count": 215,
-  "last_updated": "2026-05-15T01:00:48.202Z"
+  "last_updated": "2026-05-22T01:00:49.545Z"
 }
