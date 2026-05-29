@@ -378,7 +378,7 @@
     },
     "CE10-0524": {
       "Unit Status": "SOLD",
-      "Ticket Status": "266928991",
+      "Ticket Status": "266928995",
       "Product Type": "RFO",
       "Lot Area": "100 sqm",
       "Floor Area": "104 sqm",
@@ -2003,7 +2003,7 @@
     },
     "CE10-1501": {
       "Unit Status": "SOLD",
-      "Ticket Status": "266928991",
+      "Ticket Status": "266928995",
       "Product Type": "RFO",
       "Lot Area": "135 sqm",
       "Floor Area": "52 sqm",
@@ -2028,7 +2028,7 @@
     },
     "CE13-0302": {
       "Unit Status": "SOLD",
-      "Ticket Status": "266928991",
+      "Ticket Status": "266928995",
       "Product Type": "RFO",
       "Lot Area": "187 sqm",
       "Floor Area": "104 sqm",
@@ -3203,7 +3203,7 @@
     },
     "CV2-0154_55_56": {
       "Unit Status": "SOLD",
-      "Ticket Status": "266928991",
+      "Ticket Status": "266928995",
       "Product Type": "RFO",
       "Lot Area": "130 sqm",
       "Floor Area": "104 sqm",
@@ -4653,7 +4653,7 @@
     },
     "CE13-0304": {
       "Unit Status": "SOLD",
-      "Ticket Status": "266928991",
+      "Ticket Status": "266928995",
       "Product Type": "RFO",
       "Lot Area": "100 sqm",
       "Floor Area": "104 sqm",
@@ -5378,5 +5378,5 @@
     }
   },
   "count": 215,
-  "last_updated": "2026-05-22T01:00:49.545Z"
+  "last_updated": "2026-05-29T01:00:24.259Z"
 }
