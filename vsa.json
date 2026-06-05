@@ -762,10 +762,10 @@
       "MA 20yrs (8.5% EIR) (Lot Only)": "PHP 54 715.91"
     },
     "VSA-RP-3D-26": {
-      "Unit Status": "SOLD",
+      "Unit Status": "CLOSE INVENTORY",
       "Phase (Lot Only)": "",
       "Unit ID": "VSA-RP-3D-26",
-      "Ticket Status": "266928991",
+      "Ticket Status": "266928993",
       "Product Type": "Pre-selling",
       "Lot Area (Lot Only)": "",
       "Total Contract Price (Lot Only)": "",
@@ -2523,5 +2523,5 @@
     }
   },
   "count": 126,
-  "last_updated": "2026-05-29T01:00:22.101Z"
+  "last_updated": "2026-06-05T01:00:20.718Z"
 }
