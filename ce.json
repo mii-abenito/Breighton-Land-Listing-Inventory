@@ -3729,7 +3729,7 @@
     "CE13-01116": {
       "Unit Status": "SOLD",
       "Ticket Status": "266928991",
-      "Product Type": "Build to Sell",
+      "Product Type": "Pre-selling",
       "Lot Area": "107 sqm",
       "Floor Area": "",
       "House Model": "OAKWOOD",
@@ -5378,5 +5378,5 @@
     }
   },
   "count": 215,
-  "last_updated": "2026-06-26T01:01:12.579Z"
+  "last_updated": "2026-07-03T01:01:13.912Z"
 }
