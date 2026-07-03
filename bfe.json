@@ -128,7 +128,7 @@
     },
     "BF1-0610": {
       "Unit Status": "SOLD",
-      "Ticket Status": "266928991",
+      "Ticket Status": "266928995",
       "Product Type": "RFO",
       "Lot Area": "144 sqm",
       "Floor Area": "110 sqm",
@@ -6778,5 +6778,5 @@
     }
   },
   "count": 271,
-  "last_updated": "2026-06-26T01:01:04.322Z"
+  "last_updated": "2026-07-03T01:01:06.304Z"
 }
