@@ -1027,8 +1027,8 @@
       "MA 20yrs (8.5% EIR)": "PHP 45 318.81"
     },
     "CE13-0277": {
-      "Unit Status": "SOLD",
-      "Ticket Status": "266928991",
+      "Unit Status": "CLOSE INVENTORY",
+      "Ticket Status": "266928993",
       "Product Type": "Pre-selling",
       "Lot Area": "100 sqm",
       "Floor Area": "104 sqm",
@@ -5378,5 +5378,5 @@
     }
   },
   "count": 215,
-  "last_updated": "2026-07-03T01:01:13.912Z"
+  "last_updated": "2026-07-10T01:01:01.156Z"
 }
