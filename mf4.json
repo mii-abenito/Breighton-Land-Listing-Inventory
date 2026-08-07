@@ -3,7 +3,7 @@
   "listings": {
     "MF4-0103": {
       "Unit Status": "SOLD",
-      "Ticket Status": "266928991",
+      "Ticket Status": "266928995",
       "Product Type": "Pre-selling",
       "Lot Area": "144 sqm",
       "Floor Area": "80 sqm",
@@ -2528,5 +2528,5 @@
     }
   },
   "count": 101,
-  "last_updated": "2026-07-31T01:00:15.624Z"
+  "last_updated": "2026-08-07T01:00:43.892Z"
 }
