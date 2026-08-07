@@ -4053,7 +4053,7 @@
     },
     "CE9-2703": {
       "Unit Status": "SOLD",
-      "Ticket Status": "266928991",
+      "Ticket Status": "266928995",
       "Product Type": "RFO",
       "Lot Area": "88 sqm",
       "Floor Area": "104 sqm",
@@ -5378,5 +5378,5 @@
     }
   },
   "count": 215,
-  "last_updated": "2026-07-31T01:00:26.519Z"
+  "last_updated": "2026-08-07T01:00:53.483Z"
 }
