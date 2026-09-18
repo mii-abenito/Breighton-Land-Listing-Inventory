@@ -6077,8 +6077,8 @@
       "MA 20yrs (8.5% EIR)": "PHP 82 623.96"
     },
     "BF1-0145": {
-      "Unit Status": "RESERVED",
-      "Ticket Status": "266928990",
+      "Unit Status": "CLOSE INVENTORY",
+      "Ticket Status": "266928988",
       "Product Type": "Pre-selling",
       "Lot Area": "164 sqm",
       "Floor Area": "110 sqm",
@@ -6327,8 +6327,8 @@
       "MA 20yrs (8.5% EIR)": ""
     },
     "BF1-0116": {
-      "Unit Status": "SOLD",
-      "Ticket Status": "266928991",
+      "Unit Status": "CLOSE INVENTORY",
+      "Ticket Status": "266928993",
       "Product Type": "Pre-selling",
       "Lot Area": "165.5 sqm",
       "Floor Area": "110 sqm",
@@ -6778,5 +6778,5 @@
     }
   },
   "count": 271,
-  "last_updated": "2026-09-11T01:00:13.771Z"
+  "last_updated": "2026-09-18T01:00:58.229Z"
 }
