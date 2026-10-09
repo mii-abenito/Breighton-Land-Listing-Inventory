@@ -3902,8 +3902,8 @@
       "MA 20yrs (8.5% EIR)": "PHP 84 280.74"
     },
     "BF1-1313": {
-      "Unit Status": "SOLD",
-      "Ticket Status": "266928991",
+      "Unit Status": "CLOSE INVENTORY",
+      "Ticket Status": "266928993",
       "Product Type": "RFO",
       "Lot Area": "110 sqm",
       "Floor Area": "65 sqm",
@@ -4702,8 +4702,8 @@
       "MA 20yrs (8.5% EIR)": "PHP 94 112.97"
     },
     "BF1-1246": {
-      "Unit Status": "SOLD",
-      "Ticket Status": "266928991",
+      "Unit Status": "CLOSE INVENTORY",
+      "Ticket Status": "266928993",
       "Product Type": "RFO",
       "Lot Area": "110 sqm",
       "Floor Area": "85 sqm",
@@ -6778,5 +6778,5 @@
     }
   },
   "count": 271,
-  "last_updated": "2026-10-02T01:00:31.641Z"
+  "last_updated": "2026-10-09T01:00:32.183Z"
 }
