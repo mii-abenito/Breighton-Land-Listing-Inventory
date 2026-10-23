@@ -460,7 +460,7 @@
       "House Model": "VIVIENNE 1.0",
       "House Type": null,
       "DP %": "",
-      "DP Terms": "18",
+      "DP Terms": "20",
       "Net Selling Price": "PHP 10 884 858.96",
       "Total Selling Price": "",
       "Promo Discount Value": "",
@@ -468,7 +468,7 @@
       "VAT 12%": "PHP 1 306 183.08",
       "LMF 10%": "PHP 1 088 485.90",
       "Total DP Less Reservation": "PHP 1 911 929.19",
-      "Monthly Equity": "PHP 106 218.29",
+      "Monthly Equity": "PHP 95 596.46",
       "Reservation Fee": "PHP 80 000.00",
       "Loanable Amount / Balance": "PHP 11 287 598.74",
       "Total Contract Price": "PHP 13 279 527.93",
@@ -6778,5 +6778,5 @@
     }
   },
   "count": 271,
-  "last_updated": "2026-10-16T01:00:16.155Z"
+  "last_updated": "2026-10-23T01:00:13.892Z"
 }
