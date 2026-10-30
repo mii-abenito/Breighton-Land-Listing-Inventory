@@ -2,8 +2,8 @@
   "project": "Bellefort Estates",
   "listings": {
     "BF2-0133": {
-      "Unit Status": "SOLD",
-      "Ticket Status": "266928991",
+      "Unit Status": "CLOSE INVENTORY",
+      "Ticket Status": "266928993",
       "Product Type": "Pre-selling",
       "Lot Area": "120 sqm",
       "Floor Area": "85 sqm",
@@ -452,8 +452,8 @@
       "MA 20yrs (8.5% EIR)": ""
     },
     "BF1-0419": {
-      "Unit Status": "AVAILABLE",
-      "Ticket Status": "266928989",
+      "Unit Status": "SOLD",
+      "Ticket Status": "266928991",
       "Product Type": "RFO",
       "Lot Area": "180.00 sqm",
       "Floor Area": "110 sqm",
@@ -6778,5 +6778,5 @@
     }
   },
   "count": 271,
-  "last_updated": "2026-10-23T01:00:13.892Z"
+  "last_updated": "2026-10-30T01:00:16.773Z"
 }
