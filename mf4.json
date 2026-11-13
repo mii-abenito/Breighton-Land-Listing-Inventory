@@ -2452,8 +2452,8 @@
       "MA 20yrs (8.5% EIR)": "PHP 52 223.26"
     },
     "Mf4-0115": {
-      "Unit Status": "SOLD",
-      "Ticket Status": "266928991",
+      "Unit Status": "CLOSE INVENTORY",
+      "Ticket Status": "266928993",
       "Product Type": "Pre-selling",
       "Lot Area": "112 sqm",
       "Floor Area": "80 sqm",
@@ -2528,5 +2528,5 @@
     }
   },
   "count": 101,
-  "last_updated": "2026-11-06T01:00:13.520Z"
+  "last_updated": "2026-11-13T01:00:13.734Z"
 }
